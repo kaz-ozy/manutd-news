@@ -92,9 +92,14 @@ Promise.all([
     const r = news.rates.JPY_per;
     $("rate").textContent = `為替レート(${news.rates.date}時点):1ポンド=${r.GBP}円 / 1ユーロ=${r.EUR}円 / 1ドル=${r.USD}円`;
   } else $("rate").textContent = "為替レートを取得できませんでした。";
+  const lines = [];
   if (ppl.manager && ppl.manager.name) {
-    $("manager").textContent = `現在の監督:${ppl.manager.name}(${ppl.manager.checked}に確認)`;
+    lines.push(`現在の監督:${ppl.manager.name}(出典:${ppl.manager.source}、${ppl.manager.checked}に確認)`);
   }
+  for (const f of ppl.front || []) lines.push(`${f.role}:${f.name}(出典:${f.source}、${f.checked}に確認)`);
+  if (ppl.players_note) lines.push(ppl.players_note);
+  $("manager").innerHTML = "";
+  lines.forEach(t => { const d = document.createElement("div"); d.textContent = t; $("manager").append(d); });
   render();
 }).catch(() => { $("updated").textContent = "データを読み込めませんでした。"; });
 </script>

@@ -1,5 +1,259 @@
 {
-  "_説明": "監督と選手の名簿です。Transfermarktなどで確認した情報だけをここに書きます。確認していない情報は入れません。",
-  "manager": null,
-  "players": []
+  "_説明": "監督・フロント・選手の名簿。出典と確認日を必ず書く。確認していない情報は入れない。",
+  "manager": {
+    "name": "マウリシオ・ポチェッティーノ(Mauricio Pochettino)",
+    "checked": "2026-11-26",
+    "source": "Wikipedia"
+  },
+  "front": [
+    {
+      "role": "共同会長",
+      "name": "ジョエル・グレイザー / アヴラム・グレイザー",
+      "checked": "2026-11-26",
+      "source": "Wikipedia"
+    }
+  ],
+  "players_note": "選手名簿の出典: Wikipedia(同ページの選手欄の更新日は2026-09-01)。移籍があった場合は反映が遅れている可能性があります。",
+  "players": [
+    {
+      "names": [
+        "Senne Lammens",
+        "Lammens",
+        "センネ・ラメンス",
+        "ラメンス"
+      ],
+      "club": "マンチェスター・U"
+    },
+    {
+      "names": [
+        "Diogo Dalot",
+        "Dalot",
+        "ダロト"
+      ],
+      "club": "マンチェスター・U"
+    },
+    {
+      "names": [
+        "Noussair Mazraoui",
+        "Mazraoui",
+        "マズラウィ"
+      ],
+      "club": "マンチェスター・U"
+    },
+    {
+      "names": [
+        "Matthijs de Ligt",
+        "de Ligt",
+        "デ・リフト"
+      ],
+      "club": "マンチェスター・U"
+    },
+    {
+      "names": [
+        "Harry Maguire",
+        "Maguire",
+        "マグワイア"
+      ],
+      "club": "マンチェスター・U"
+    },
+    {
+      "names": [
+        "Lisandro Martínez",
+        "Lisandro Martinez",
+        "リサンドロ・マルティネス"
+      ],
+      "club": "マンチェスター・U"
+    },
+    {
+      "names": [
+        "Mason Mount",
+        "メイソン・マウント"
+      ],
+      "club": "マンチェスター・U"
+    },
+    {
+      "names": [
+        "Bruno Fernandes",
+        "ブルーノ・フェルナンデス",
+        "ブルーノ"
+      ],
+      "club": "マンチェスター・U"
+    },
+    {
+      "names": [
+        "Marcus Rashford",
+        "Rashford",
+        "ラッシュフォード"
+      ],
+      "club": "マンチェスター・U"
+    },
+    {
+      "names": [
+        "Matheus Cunha",
+        "Cunha",
+        "クーニャ",
+        "クニャ"
+      ],
+      "club": "マンチェスター・U"
+    },
+    {
+      "names": [
+        "Joshua Zirkzee",
+        "Zirkzee",
+        "ジルクゼー"
+      ],
+      "club": "マンチェスター・U"
+    },
+    {
+      "names": [
+        "Karl Darlow",
+        "Darlow"
+      ],
+      "club": "マンチェスター・U"
+    },
+    {
+      "names": [
+        "Patrick Dorgu",
+        "Dorgu",
+        "ドルグ"
+      ],
+      "club": "マンチェスター・U"
+    },
+    {
+      "names": [
+        "Leny Yoro",
+        "Yoro"
+      ],
+      "club": "マンチェスター・U"
+    },
+    {
+      "names": [
+        "Amad Diallo",
+        "アマド"
+      ],
+      "club": "マンチェスター・U"
+    },
+    {
+      "names": [
+        "Andrey Santos",
+        "アンドレイ・サントス"
+      ],
+      "club": "マンチェスター・U"
+    },
+    {
+      "names": [
+        "Youri Tielemans",
+        "Tielemans",
+        "ティーレマンス"
+      ],
+      "club": "マンチェスター・U"
+    },
+    {
+      "names": [
+        "Bryan Mbeumo",
+        "Mbeumo",
+        "ムベウモ"
+      ],
+      "club": "マンチェスター・U"
+    },
+    {
+      "names": [
+        "Carlos Baleba",
+        "Baleba",
+        "バレバ"
+      ],
+      "club": "マンチェスター・U"
+    },
+    {
+      "names": [
+        "Tom Heaton",
+        "Heaton"
+      ],
+      "club": "マンチェスター・U"
+    },
+    {
+      "names": [
+        "Luke Shaw",
+        "ルーク・ショー"
+      ],
+      "club": "マンチェスター・U"
+    },
+    {
+      "names": [
+        "Manuel Ugarte",
+        "Ugarte",
+        "ウガルテ"
+      ],
+      "club": "マンチェスター・U"
+    },
+    {
+      "names": [
+        "Ayden Heaven",
+        "エイデン・ヘヴン",
+        "ヘヴン"
+      ],
+      "club": "マンチェスター・U"
+    },
+    {
+      "names": [
+        "Shea Lacey",
+        "Lacey"
+      ],
+      "club": "マンチェスター・U"
+    },
+    {
+      "names": [
+        "Kobbie Mainoo",
+        "Mainoo",
+        "メイヌー"
+      ],
+      "club": "マンチェスター・U"
+    },
+    {
+      "names": [
+        "Jack Fletcher"
+      ],
+      "club": "マンチェスター・U"
+    },
+    {
+      "names": [
+        "Tyler Fletcher"
+      ],
+      "club": "マンチェスター・U"
+    },
+    {
+      "names": [
+        "Harry Amass",
+        "Amass"
+      ],
+      "club": "マンチェスター・U"
+    },
+    {
+      "names": [
+        "Benjamin Šeško",
+        "Benjamin Sesko",
+        "Sesko",
+        "Šeško",
+        "シェシュコ"
+      ],
+      "club": "マンチェスター・U"
+    },
+    {
+      "names": [
+        "André Onana",
+        "Andre Onana",
+        "Onana",
+        "オナナ"
+      ],
+      "club": "トラブゾンスポル(レンタル中)"
+    },
+    {
+      "names": [
+        "Altay Bayındır",
+        "Altay Bayindir",
+        "Bayindir"
+      ],
+      "club": "セルタ・ビーゴ(レンタル中)"
+    }
+  ]
 }
