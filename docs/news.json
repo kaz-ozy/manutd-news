@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T23:41:17.710117+00:00",
+  "updated": "2026-11-25T23:49:05.495328+00:00",
   "rates": {
     "date": "2026-11-25",
     "JPY_per": {
@@ -52,13 +52,6 @@
       "price_jpy": null
     },
     {
-      "title": "Transfer news LIVE: Arsenal learn £100m twist; new Man Utd target",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWW5QZVh4SlVDVWRoVlpUZW44aHdETEVCXzhXREdqSlpBXzZCb05ETXl1dzVKUXc0eVFfbjRETDdDRTJsamJabXdMZVJkVjU0UWVhZ21aV1FzYkpvZElCbjk1dnNTSm5QTW91UUNzeTJrSTZPYjRKdzVfZjFLTnVlMnpwNnFuRjZVUG9RbmlIenJwLXdwdTdVZnVsWHB2TElEMEhuWmttTVc3UmxFNVUxbUJPY2s3Zmo4ZWtjelhUbVNMMmhP?oc=5",
-      "source": "London Evening Standard",
-      "date": "2026-11-25T16:35:57+00:00",
-      "price_jpy": "約208億円"
-    },
-    {
       "title": "Ayden Heaven open to Man Utd January transfer exit amid fears over playing time",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMWxmZGpueV9Va1lwUzNwaEdKZm5JUXhScWI1UklibDZrZFJaVmlncHNKWGdwX0NjTTY1ZUVKS0tFM1o0VmpaNjRmZGx0cTEtT1AtRUhQWmVCRGpTWHBWTFQtMzdkWVdmakR4N2ZnajhUcEJZbTREMmt3VURtcEc2WU1RZmc?oc=5",
       "source": "The Sun",
@@ -78,13 +71,6 @@
       "source": "LiveScore",
       "date": "2026-11-25T15:34:10+00:00",
       "price_jpy": null
-    },
-    {
-      "title": "Pochettino has £50m to spend at Man Utd - here’s who he should sign",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPallDU2lOMW5IVjRJeVduaURTY2N6U0NYNjJkOTJJcGtndVZNb2k3VkZKSDJZMWhwdTVjdm5hM3p3YjE4dGEyRDFWSFgtQVIxS0xpR1NZMHRSR0JPSjRtSUtWa3ZtLUxIekExLXA3TFNKOEdrbUoyTjBkZmNQWEg4Ny1ReEtKZG1iZHdYSkRCMHNzUQ?oc=5",
-      "source": "London Evening Standard",
-      "date": "2026-11-25T14:37:48+00:00",
-      "price_jpy": "約104億円"
     },
     {
       "title": "Man Utd urged to avoid transfer move for £75m Chelsea star: 'It would be crazy'",
@@ -115,11 +101,25 @@
       "price_jpy": null
     },
     {
+      "title": "Pochettino has £50m to spend at Man Utd - here’s who he should sign",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPallDU2lOMW5IVjRJeVduaURTY2N6U0NYNjJkOTJJcGtndVZNb2k3VkZKSDJZMWhwdTVjdm5hM3p3YjE4dGEyRDFWSFgtQVIxS0xpR1NZMHRSR0JPSjRtSUtWa3ZtLUxIekExLXA3TFNKOEdrbUoyTjBkZmNQWEg4Ny1ReEtKZG1iZHdYSkRCMHNzUQ?oc=5",
+      "source": "London Evening Standard",
+      "date": "2026-11-25T13:30:36+00:00",
+      "price_jpy": "約104億円"
+    },
+    {
       "title": "Pochettino learns size of Man Utd transfer budget as targets revealed",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOalk3T3ZLc0tLNmI5V254VUdsaUdfckU1bGlQZUhfZVdvZzZUOUc0R3pDRWdGUnhMTDJ2NkwxNlFGZjZuWlc3cVIya3VocHRZbkhmdml5RkR6WTQtMUlXYng0eU1NdG1YX1pnZnhqZC1RZm1uYWk3aDVqdjF6Uk5jc0RLRWZaeGNEejlPR3hMM0NBbDVJdFoxU0EzX1pfRXV3XzdCdmxscW5Wdw?oc=5",
       "source": "London Evening Standard",
       "date": "2026-11-25T13:03:46+00:00",
       "price_jpy": null
+    },
+    {
+      "title": "Transfer news LIVE: Arsenal learn £100m twist; new Man Utd target",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWW5QZVh4SlVDVWRoVlpUZW44aHdETEVCXzhXREdqSlpBXzZCb05ETXl1dzVKUXc0eVFfbjRETDdDRTJsamJabXdMZVJkVjU0UWVhZ21aV1FzYkpvZElCbjk1dnNTSm5QTW91UUNzeTJrSTZPYjRKdzVfZjFLTnVlMnpwNnFuRjZVUG9RbmlIenJwLXdwdTdVZnVsWHB2TElEMEhuWmttTVc3UmxFNVUxbUJPY2s3Zmo4ZWtjelhUbVNMMmhP?oc=5",
+      "source": "London Evening Standard",
+      "date": "2026-11-25T12:35:57+00:00",
+      "price_jpy": "約208億円"
     },
     {
       "title": "Manchester United to target Ireland and Brentford centre-back Nathan Collins in January transfer window — report",
@@ -496,7 +496,7 @@
       "title": "Transfer Rumors: Vinicius Jr Offered Real Madrid Exit; Martinez’s Man Utd U-Turn",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOY25lcmN6SUlndEZVdGd4Rm54djUtSUF3WEFqcWJ6UloxVU80ZWs1dWpLdXVMLTRxeVdQblFnUE43ZU9kSDAtY2syd1BQSnFqSnd1Wkhxd1hkVkdpa3VJVTNUMW5iYjhaQVlmV0E1VjBRSWY3b1ZsQ1Y3VkYyUUJWSlQ3dERkeVhTOW9pVzFTd3lvdDdqOTdGdTNR?oc=5",
       "source": "Sports Illustrated",
-      "date": "2026-11-24T00:06:07+00:00",
+      "date": "2026-11-24T00:05:00+00:00",
       "price_jpy": null
     },
     {
