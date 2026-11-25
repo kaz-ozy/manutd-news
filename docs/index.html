@@ -20,6 +20,7 @@
   li { background:var(--card); border:1px solid var(--line); border-radius:8px; padding:12px; margin:8px 0; }
   li a { color:var(--text); font-weight:600; text-decoration:none; }
   li a:hover { text-decoration:underline; }
+  .orig { color:var(--sub); font-size:.75rem; margin-top:2px; }
   .meta { color:var(--sub); font-size:.8rem; margin-top:4px; }
   .badge { display:inline-block; font-size:.75rem; background:var(--line); border-radius:4px; padding:1px 6px; margin:4px 4px 0 0; }
   .yen { background:var(--accent); color:#fff; }
@@ -38,11 +39,11 @@
     <button data-lang="en">English</button>
   </div>
   <ul id="list"></ul>
-  <footer>記事の本文は載せていません。タイトルをタップすると元のサイトへ移動します。円換算はタイトルに書かれた金額をその日のレートで計算した目安です。</footer>
+  <footer>記事の本文は載せていません。タイトルをタップすると元のサイトへ移動します。英語タイトルの日本語訳はClaudeによる翻訳です(新しい記事は翻訳待ちの間、英語のまま表示されます)。英語の記事ページはChromeの翻訳機能で日本語にできます。円換算はタイトルに書かれた金額をその日のレートで計算した目安です。</footer>
 </main>
 <script>
 const $ = (id) => document.getElementById(id);
-let articles = [], people = { manager: null, players: [] }, lang = "all";
+let articles = [], people = { manager: null, players: [] }, titlesJa = {}, lang = "all";
 
 const isJa = (t) => /[぀-ヿ一-鿿]/.test(t);
 const fmtDate = (iso) => new Date(iso).toLocaleDateString("ja-JP", { timeZone: "Asia/Tokyo", month: "long", day: "numeric" });
@@ -60,8 +61,15 @@ function render() {
     const li = document.createElement("li");
     const link = document.createElement("a");
     link.href = a.url; link.target = "_blank"; link.rel = "noopener noreferrer";
-    link.textContent = a.title;
+    const tja = titlesJa[a.url];
+    link.textContent = tja || a.title;
     li.append(link);
+    if (tja) {
+      const orig = document.createElement("div");
+      orig.className = "orig";
+      orig.textContent = "原題:" + a.title;
+      li.append(orig);
+    }
     const meta = document.createElement("div");
     meta.className = "meta";
     meta.textContent = `${a.source} ・ ${fmtDate(a.date)}`;
@@ -85,8 +93,9 @@ document.querySelectorAll(".filters button").forEach(btn => btn.onclick = () => 
 Promise.all([
   fetch("news.json").then(r => r.json()),
   fetch("people.json").then(r => r.json()).catch(() => people),
-]).then(([news, ppl]) => {
-  articles = news.articles; people = ppl;
+  fetch("titles_ja.json").then(r => r.json()).catch(() => ({})),
+]).then(([news, ppl, tj]) => {
+  articles = news.articles; people = ppl; titlesJa = tj;
   $("updated").textContent = `最終更新:${new Date(news.updated).toLocaleString("ja-JP", { timeZone: "Asia/Tokyo" })}(${articles.length}件)`;
   if (news.rates) {
     const r = news.rates.JPY_per;
