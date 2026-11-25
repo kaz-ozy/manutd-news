@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>マンU移籍ニュース</title>
+<style>
+  :root { --bg:#fafafa; --card:#fff; --text:#1a1a1a; --sub:#666; --line:#e3e3e3; --accent:#c8102e; }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg:#121212; --card:#1e1e1e; --text:#eee; --sub:#aaa; --line:#333; --accent:#ff5a6e; }
+  }
+  body { margin:0; background:var(--bg); color:var(--text); font-family:-apple-system,"Hiragino Sans",sans-serif; line-height:1.6; }
+  main { max-width:720px; margin:0 auto; padding:16px; }
+  h1 { font-size:1.4rem; margin:8px 0 4px; border-left:6px solid var(--accent); padding-left:10px; }
+  .info { color:var(--sub); font-size:.85rem; margin:2px 0; }
+  .filters { margin:12px 0; display:flex; gap:8px; flex-wrap:wrap; }
+  .filters button { border:1px solid var(--line); background:var(--card); color:var(--text); padding:6px 12px; border-radius:16px; cursor:pointer; }
+  .filters button.on { background:var(--accent); color:#fff; border-color:var(--accent); }
+  ul { list-style:none; padding:0; margin:0; }
+  li { background:var(--card); border:1px solid var(--line); border-radius:8px; padding:12px; margin:8px 0; }
+  li a { color:var(--text); font-weight:600; text-decoration:none; }
+  li a:hover { text-decoration:underline; }
+  .meta { color:var(--sub); font-size:.8rem; margin-top:4px; }
+  .badge { display:inline-block; font-size:.75rem; background:var(--line); border-radius:4px; padding:1px 6px; margin:4px 4px 0 0; }
+  .yen { background:var(--accent); color:#fff; }
+  footer { color:var(--sub); font-size:.75rem; margin:24px 0; }
+</style>
+</head>
+<body>
+<main>
+  <h1>マンチェスター・ユナイテッド 移籍ニュース</h1>
+  <p class="info" id="manager"></p>
+  <p class="info" id="updated">読み込み中…</p>
+  <p class="info" id="rate"></p>
+  <div class="filters">
+    <button data-lang="all" class="on">すべて</button>
+    <button data-lang="ja">日本語</button>
+    <button data-lang="en">English</button>
+  </div>
+  <ul id="list"></ul>
+  <footer>記事の本文は載せていません。タイトルをタップすると元のサイトへ移動します。円換算はタイトルに書かれた金額をその日のレートで計算した目安です。</footer>
+</main>
+<script>
+const $ = (id) => document.getElementById(id);
+let articles = [], people = { manager: null, players: [] }, lang = "all";
+
+const isJa = (t) => /[぀-ヿ一-鿿]/.test(t);
+const fmtDate = (iso) => new Date(iso).toLocaleDateString("ja-JP", { timeZone: "Asia/Tokyo", month: "long", day: "numeric" });
+
+function playerBadges(title) {
+  const lower = title.toLowerCase();
+  return (people.players || []).filter(p => (p.names || []).some(n => lower.includes(n.toLowerCase())));
+}
+
+function render() {
+  const list = $("list");
+  list.textContent = "";
+  const shown = articles.filter(a => lang === "all" || (lang === "ja") === isJa(a.title));
+  for (const a of shown) {
+    const li = document.createElement("li");
+    const link = document.createElement("a");
+    link.href = a.url; link.target = "_blank"; link.rel = "noopener noreferrer";
+    link.textContent = a.title;
+    li.append(link);
+    const meta = document.createElement("div");
+    meta.className = "meta";
+    meta.textContent = `${a.source} ・ ${fmtDate(a.date)}`;
+    li.append(meta);
+    if (a.price_jpy) { const b = document.createElement("span"); b.className = "badge yen"; b.textContent = "💴 " + a.price_jpy; li.append(b); }
+    for (const p of playerBadges(a.title)) {
+      const b = document.createElement("span"); b.className = "badge";
+      b.textContent = `${p.names[0]}:${p.club}`; li.append(b);
+    }
+    list.append(li);
+  }
+  if (!shown.length) list.textContent = "該当する記事がありません。";
+}
+
+document.querySelectorAll(".filters button").forEach(btn => btn.onclick = () => {
+  lang = btn.dataset.lang;
+  document.querySelectorAll(".filters button").forEach(b => b.classList.toggle("on", b === btn));
+  render();
+});
+
+Promise.all([
+  fetch("news.json").then(r => r.json()),
+  fetch("people.json").then(r => r.json()).catch(() => people),
+]).then(([news, ppl]) => {
+  articles = news.articles; people = ppl;
+  $("updated").textContent = `最終更新:${new Date(news.updated).toLocaleString("ja-JP", { timeZone: "Asia/Tokyo" })}(${articles.length}件)`;
+  if (news.rates) {
+    const r = news.rates.JPY_per;
+    $("rate").textContent = `為替レート(${news.rates.date}時点):1ポンド=${r.GBP}円 / 1ユーロ=${r.EUR}円 / 1ドル=${r.USD}円`;
+  } else $("rate").textContent = "為替レートを取得できませんでした。";
+  if (ppl.manager && ppl.manager.name) {
+    $("manager").textContent = `現在の監督:${ppl.manager.name}(${ppl.manager.checked}に確認)`;
+  }
+  render();
+}).catch(() => { $("updated").textContent = "データを読み込めませんでした。"; });
+</script>
+</body>
+</html>
