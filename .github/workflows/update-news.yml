@@ -20,11 +20,13 @@ jobs:
         run: python scripts/update_people.py
       - name: ニュースを集める
         run: python scripts/fetch_news.py
+      - name: 戦術コラムの記事を集める
+        run: python scripts/fetch_tactics.py
       - name: 変更があれば保存する
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/news.json docs/people.json
+          git add docs/news.json docs/people.json docs/tactics.json
           if git diff --cached --quiet; then
             echo "変更なし"
           else

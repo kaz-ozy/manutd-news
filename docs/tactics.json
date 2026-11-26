@@ -1,0 +1,610 @@
+{
+  "updated": "2026-11-26T00:04:24.933937+00:00",
+  "teams": {
+    "manutd": {
+      "name": "マンチェスター・U",
+      "articles": [
+        {
+          "title": "Fonseca Questions Manchester United Tactical Approach Before Sporting Clash",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE11ZmNBOFZVdUk1a3c2aWdiQzl6YWRiUXp0OUIwWGhLY2JhTEE4Mjg5Mm92RjVYNzA5Y29SRVBFbm84cUlZTDhJNjRpUlBQWUMxMDdiWXlGa0MzblJ2ekFVWWdnUlRUUQ?oc=5",
+          "source": "cwibc.co.id",
+          "date": "2026-11-25T21:01:00+00:00"
+        },
+        {
+          "title": "Pochettino on Man Utd tactics vs Sporting",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRGUzY0t1alVncVZpZF84MjhudVhiRklkdnVaQWZycGQtdEpQWEtyVWlRMG1idjVpbVpLb2dxTXVKZVhLaXFiSmppaHRTV3dSN3l3d1ZiNmZDY1dCb1NMaFVIX0FqNU1xTVJJMDBJc01wMjFWalltMGwxaWw5UHkyamZ5Yk1sSFRacUExSm44ZGc4MzEwZVg0M0o2bmtHZnkwcTdTZkx5cnVVUEVzWFl5OGdTUDZwWEI3bllZeXE5THROM1Fj?oc=5",
+          "source": "UEFA.com",
+          "date": "2026-11-25T08:23:05+00:00"
+        },
+        {
+          "title": "スポーツコーチ：マンチェスター・ユナイテッドの戦術を分析するのは難しい。",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVEtFZmFTS01IX2g2aDhjTWhqczZtUVNteU1MQi11S2dsWW01dldKRUNIM01RaXdPb2ZyZHZmSlQtY2FoekRRSnhqQjVBWVZLTDZqSVlfcVk5UU1vWnVBY0JXQkpBbG9XNmpZZGVmNmotcTFhZ2hIMXU1Z1NJUDlCTU15azRaQkZDR3V1c1RZNm4?oc=5",
+          "source": "Vietnam.vn",
+          "date": "2026-11-25T05:59:57+00:00"
+        },
+        {
+          "title": "Sporting CP vs Manchester United Preview: Prediction, Probable Lineups, Tactics, Team News & Key Stats",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcmZUV2dkaTJJS1BOcGNEQ3NOVWJWZVNEUWNwR0E2QUcwd3I2UUdUUWRkRkk1d0hvbnBBYUdkQ2RhNExZQk9pNkxhTTE5UU8zWVVjTlUwcXk3RUdTVDg5LW14Q1pVblBxVVo1WFRPYmV0RlFER2lsLTJMU0ZzT3JZVkdDamNsdE8wSDNieGVTLTdQRGs1LW1OZS1ybWliMzJqN2VNM3VDT1dDVzVxSkUtNDRZNXV4VUtkRGtsTEVWS0wxVEhyRDRrRE1vdnNxQnZQSlZocG1Mc3RuT0XSAeABQVVfeXFMUF9FR0hyZi1KdEpBZURtS3lQOEhMbVBxaTRMd3BURmFsa2VwcWtabzVVYURwOS14ZUR0Y2gtUlBFZmx6QzMxTmRRUlF5c3RDVXZ3aEhrN2ZMRlVlZWNDNklIQUhMMUF1SGlURG5SRmlRWmg0andrelBGS0JwZ0FnQ2QxX2tWZGFXam0xRkkzbkZWX3hydkF6TmhJQkZYWnotNXFrUnRmRTFXTTdxTWdyTUVheWExc0g2Njg3a0JNQjI3aHdWMUlRSXFscERKNURSeGY5NGljTkwxVjhXWmRmZVY?oc=5",
+          "source": "TheHardTackle.com",
+          "date": "2026-11-24T08:18:58+00:00"
+        },
+        {
+          "title": "How Liverpool's 'ten times table' tactic monopolised Man Utd at Anfield",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONFFvWTNtQk1BaDJtREJmYXFLUG1yQ0JsNFhpcmkyM0NvVi15cGdSUUlwU2cxZWxVNzdPcE9WVDhjUGZIUFVUOXpSU1pkeExqaF9LTDhBNEdlem5Ja013M3VCMThLUUxZSVlDcFJYN2VPazBUMHgzaTlVelhubGJXQlBBVFVBS1VEOVRNcFpFRWF0MnNHMTJKc1JR?oc=5",
+          "source": "The Sun",
+          "date": "2026-11-23T19:20:00+00:00"
+        },
+        {
+          "title": "How Liverpool’s ‘ten times table’ tactic monopolised Man Utd",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYUI2X1Y4dGFyVHZYYW5TekdTVThhRzhpN1JvMV9ueExZdTZQOE9EWlZyVU4yRkFTWW84U0NScGo2cGVkTGdVaTkzdEFqakF3VG5HTXRJWXJ1M3BEVnNfLWZvV1R0WkpNeDlfNlBZUV9Mc3Fhckx2S0tmaFlXZWNCZGZXX3RNNFlGVUQzdFBqbVFOYzFYYWFGb05MVFE4ZWp3YkE?oc=5",
+          "source": "The Sun",
+          "date": "2026-11-23T17:03:18+00:00"
+        },
+        {
+          "title": "Tactical analysis: Liverpool 4 Manchester United 0",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUml3ZUZ5NTRrbHVKM2lZRGxoaDdRWDJjbzVGMjduaUY0OVFFaXlCOTFIM0pjY2R0Y3h5Y3BvR1hLcDFTSElySlVJZjZvOWhjdk1BNVcwRFlkcVBDLW94QzUyU0gxNnZmR2JqVTVwNGl5R2xFVFlTU2JUMkQ0dzNoaUx4WDRyTDlUdHBnaEtnc04?oc=5",
+          "source": "Coaches' Voice",
+          "date": "2026-11-23T13:12:11+00:00"
+        },
+        {
+          "title": "Mauricio Pochettino explains tactical reason behind rare Matthijs de Ligt start in Man Utd debut after it backfired",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNV18yRzRQd3V0OExtVVQ0MURQLUNMZWw3UG16UEhPWFBPQk94UjZaTVFxTHltbzl5TV9mSk5DNmoxVjdlenV0RXZNNkdScmM4WEhaeUFuS2JLdTJ6c3pKV3YxVlI5X0xkR3RxRHJ4VVNXN3ZHUXpwcFRSZDIwODNtLVZURHFLYmgwV2o3bEZHc1NDMzZ6VjJMOWljWQ?oc=5",
+          "source": "The Sun",
+          "date": "2026-11-22T21:56:00+00:00"
+        },
+        {
+          "title": "リヴァプール対マンチェスター・ユナイテッド戦術分析：イラオラの流動的な攻撃がポチェッティーノ率いる10人を圧倒",
+          "url": "https://news.google.com/rss/articles/CBMirgZBVV95cUxPRkRHUWZLMl9uYmg2TTZjRklNcUJHXzZBaXU1cU9aVUZKajVnenZsWEJtSGV1bERDbVNtRXVUeWp5d2sxWlZDZlJFdVlzR1Vxc19TQXFkOF9QRVRXMVp4c2M3V2lFeDMzaGhUQjJSSEVhZk1UOEZXaGM5ajdTYXo2bDFNMGlVOHZmWldYS1VyendRaU9PcjJxZ2tVY3pJOC1ON2R5UHg3QnJraFRZajNOOV9LbHlvRGlKU1lVNjZjTlh3WWNRdHg0WlVwSkplZjE2eGFBYnRCd0JoUTZ1OG1OdVUwWUlDUUxYckF4cGZ5azhyNzdsaE5CVlBxZTlob1ZQLWpXNVNCRGQ5X3BCUkdiZ1JfYjZ3WUJnLVczeTl2WjlWREp2bV94ZElSTXdKMW4wOFFnRlhIR29aWUxJV3pZOWxNSUVWZmZDRENYWjJHaHNSOC1sTEdfbXdlYnhHdTU5QmQ1eWxqZlRxWEViQWpZYzNQNVFORjJMVm1MUHBTajlNUjBXSURXSHV2UUw2dHhYNU9WOFlWZlAzYmhKS1JQLUc1Xy0zWm5VMkVMT3RkWFEzMExQcldyR0FyX0ZWUDRuSTNZRkVvS0JhQlBQaUlFNDBkOFFUWERhdm1MT3R3WnFGUEk2UVRmdjRiSDdHNE56ejV5VnVZUk1ZTWV2Ny1UOFlubW1KcHRiWFRod010YlFVUHV4bFJLLVlVSFkzNmp5MFB6dDZGOFNRdFRjQXNGems5c2pjOUZJdHc0Q25fZjRnUEh4Mm9RT21ncExlMTZMWkRDX0poVWFXaUt5UE02ZUhLeEJEUmJKUVhodG16S2NQS0NYcHJlMzVROEVCME5Jd053R29JMnVIT2NvUWt3bEZGLURFZ082akd0dVQyNXdZODBsT3ZKOXBtQlNuLVZWS1VHVXdsSFpZMDFaV0o0bThYd2pjakY3N3U5bXNLNzd5Y2xmamhfU1ZLNnZ5bFVFLTRSQlJNNjVTN0pSeVRsUkpJbVQ3blluRG9XYlNiUHZWVjBCdGhjSlM0ZTVFdE5XdVA2U1h2UFgxTHVuUkpyVWM1RzFRRXRpVE43NEpn?oc=5",
+          "source": "Goal.com",
+          "date": "2026-11-22T18:53:52+00:00"
+        },
+        {
+          "title": "Liverpool vs Man Utd: The tactics board - Iraola's fluid attack dismantles Pochettino's ten men",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLVhDS1owX2N3aGtFT2lNeDQ1S2J2T0w1RnUwSEljbklYblEwLTBmSWk3WXpwRVFBdTNQdE9xR1FCay1zN0J1RGZVQ1kwWW1IMmxTZ0E1NURIT1d1M1dLOTREWS15aHZ0SEVxd2xoQ2Z4MkdsZFVNUTZ0OWJxNl9fN0ZYRzdsQV9YaWNBS0xuaVNhNF8yLWlWVWdYVy1Rd2hLQUpuWFJR?oc=5",
+          "source": "Goal.com",
+          "date": "2026-11-22T18:53:19+00:00"
+        },
+        {
+          "title": "Liverpool vs Man Utd: The tactics board - Iraola's fluid attack dismantles Pochettino's ten men",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMlhQdDBsT2d2V0NqeHhoSy1XX2kzSEtQdHRnb3RoeXhwWUtDNXJLVGJyRXZFRFBpbVBYWl81QnVyWEg0NlNSVmU0b3dSVWh2UWx5Z3ZaOFhoOS1la2UtWlRqZEpBaU1nSDdYR1hXT2VsNW9XdXIwem1wQ0ZCdzZ3RFlVVUVDaXhyMXhKd3VfTVVWUm8xYUVkalZaYnNWUWlZaWc?oc=5",
+          "source": "Goal.com",
+          "date": "2026-11-22T18:53:19+00:00"
+        },
+        {
+          "title": "「参考材料がない」リヴァプールのイラオラ監督、ポチェッティーノ新体制のマンチェスター・ユナイテッドに「戦術面の優位性」と警戒",
+          "url": "https://news.google.com/rss/articles/CBMi6wZBVV95cUxOZEU1ZURrM2phSUhRdzl5bFVwTWRWdnZNSkVtRVRHeWZDd2V1WEZpdi1YRFp4NU1LTnU2SVhtcWZEd3hkenNBT09sZXBnOWJaR3dVanl3TUEydXRpemJNdGtLZjFic1JQZFVXZTZoMl9hcVdjaE1GczFiMDVsaFdzbjVZQzlKckZ2a1J3eGp0SXF1dExrUlNpT0VaUlFHNmxhWFlVY0J4U3R4dTU4eTJaclJhMUJYei1LQXVwMkgwQ3duX2t5b015TE9TVWVzalJqWmpWOE5ObHlsRlptTkFYZFBxN3VQaF9EVklNd0t1aFIxMUJzZWlkWi16S3ZqaG10SWFESkdVRjlfRE8xWEJTOXBMaWJDWFoyQXBsSE5uMGRVczc0cU1XclFGaVJ5Tmo5am41YmUwV2JRWXNiNEh1OE1wVVMxSzdKY2VLbThnWUE1dGR1SUVXeTJqYi1Ga1BDSTZCX1ptemx6SC00WHdiZlo4YXpPQmJsMlFhWWszNUpGcDNzWHhZN2plZXdmWnQ4ekRad3JVbjdKOFVQYzRSWlFrSmprS2ZXbkpSdWM3OWlGUjBPT2d0X2pZbm1TOUViX05MMmRBNWdYa3Y4WE1raVV4WTBHY2lpWGh1alUyUV9tOE9aVmRTZm0tWUNiVFl3bzlIcmhnMndvTDFFYjNDWFpTWkJiUkFCS1l1TDN5a1ozSjJnR0JHTWRXOThzYUJIak9UbzBBMDNDand4X0k0ZFA2VUJoNEw1REVBQWI1UGxRMVVwQzZPYVhnbDFlcE8yVk5DX0ROeUdUYlpodjRtN3VHNG9LWTJRVnZkYll4YjJWVmp3TFRrOHNDZFNXUDUwSXlFeUlvSlpvdXVpTGMydE5kTUxXUjA5QlZWdS1UejJENXl6LVBZOVJTVGtoejNiYnFHdlZKdGowMHAtT1NzN3lCNGNVQ3AxTUlPQk9Yd2xDS2YtSjI4MVBmRGNGUE9OS2NEODQ3TGRfTk9TMVluSnp0cmpZRTVKMVUxSXFhV0ZYU0lVX3VUanBxQ2Y2NXowemxMVjJaMGMwdjgxRFM0QVpnWm1zR2Y3SVNxcl9TYmY3WkhFOFdMb3RaOXdYQ2dJUUNuX2REYTFfWFNqVmIwcFRoT2d2Vi1HeU9pc0cxTlc3M2I3N0pIZWR5Yw?oc=5",
+          "source": "Goal.com",
+          "date": "2026-11-21T06:51:07+00:00"
+        },
+        {
+          "title": "'We don't have references' - Andoni Iraola warns Liverpool of Man Utd's tactical 'advantage' under Mauricio Pochettino",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWlhqckVmMGdsd3Rwc2xmd3lZUHdGbDVxUE1aS21TOEJsVk9tYnJTZ2RjMTdITmdGZ25CbFd1eHJteDJWbmdBZlNORWRxaW5QV3l6UDRuSXZZTUNYd0ZLclc5WnpGZE1HcmhZcmw3aTRUVHFhM2lodnNiQmpRTFdqcjAtcE5mV3EyU2hJ?oc=5",
+          "source": "Yahoo",
+          "date": "2026-11-21T06:50:00+00:00"
+        },
+        {
+          "title": "Mauricio Pochettino at Man United: Tactics and early winners to watch",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRWVLWVlHcEUxeXE3TG9QeG1UVV9tbEVCNEs0bjFfVTktcUlqZzU2OUxwWENmdmhOSG45RHI2MTVSeThvaXhOTzFiM0tpQ1lqMENFZkc1M202NnlaUjgyZUlJeEVrTkYtNnBYaTE1NjFfUHlDT3d3eFM5REh1OXNtalF6WFRTdEZWZjZqa0haQmJJNU5Pay1meTNURDlueFk4?oc=5",
+          "source": "Sofascore",
+          "date": "2026-11-20T22:49:08+00:00"
+        },
+        {
+          "title": "Man Utd receives apology after drone footage 'leaks' Mauricio Pochettino tactics vs Liverpool",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOaVdGcUZYY2pNTE90ZWhfdU1EVmZlMXE0aUVGdGR6M1hTR1dDYVYzdFRLekZUcm5oenNEeVFpQlpwbk93NWdfamRzSnFlc0pFUDFPaVE5VUN4ZkxfdGJGMmdtWnpWZjVXQmJpZGRlSzMwbjBYa2ZrcTc4MDExa0t5eFZlWVBUTGd2MGhRMmhTaGtWUWRJVFZuUE5ETVZvSGxZOE5ZQTB3OEdfcEhWTlJ1dVNfMWRTOXd5aUl2alp3eGM2b2stYXg1UjJkQ2JmOHRTZTlpSFBUU3I0TTVhNXI2bTc5UWFDSHRZ?oc=5",
+          "source": "NewsBreak: Local News & Alerts",
+          "date": "2026-11-20T22:39:19+00:00"
+        },
+        {
+          "title": "マンU、ポチェッティーノ監督初練習がドローンで流出…リバプール戦前に戦術露出",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYcFZJS0daTXVmMF8xTElQejRKeklDOExjaFdZOC1OTkc4azFycEdMZG5wRWVCeGJORG95QVQyOVpQSXphSkpVcHAtVE9TTl94M0k0RmZFVEJVTnlVakNmXzBRS3NVRDQwREFRRWNCVmNhMklHaWZkV1FNMlBNTmM?oc=5",
+          "source": "조선일보",
+          "date": "2026-11-20T12:08:00+00:00"
+        },
+        {
+          "title": "ポチェッティーノ新監督の初練習がドローンで盗撮される…マンU、リヴァプール戦に向けた戦術が流出の危機",
+          "url": "https://news.google.com/rss/articles/CBMingVBVV95cUxNX1E2MmREYjR4YWJXM2tSN2F4OF9vMGVsN3JUN2VnQUJwVi1qYU1uSGVFLVRsYUJNVFA4bURfNDc1Ym01VHZmSVlPdGF1X3hkWGp4aVRVUEdndVVxWmFtWndDZXJ2Z29VbzhOb1dBcEM3ZVVvQVhoOGUyMDNMTUM4UVY2X2tldE5OSDJIWFVaTjVPSWZLMkxXdjQ4RUM1WXpmbE1jRWcxbTE3OWE1clJEaGliM1VDY0VUSkR2R0E3MDFkN2dCNjlueEU2WDlhSzIyU3Z0ak9jcFVyUDhaUWpJaFdEYlV1WWM3SnZJaWkyVENPREFHaEhxRUt5SS1oYVBoZUYya3ptQTNpbjJBMDVtd2NoeTU1TFBzaXotYks3ZVFlT3ppOWtiY1JxMnh5N2dpSzU2Y1Bua01PcHN3ZnV1YkVJSEhWSEFOTTQ2NjdhWEo5cWpTLTJwelN0NmZ4UWJPQkFscUl5OXkyWUlWTzM0Vjl6UG9uSW4wNmdob0tQN1pMeC1EYWRJdG9aTERSRWljUDRHc3Vvd0ZqSFVlUFp2OW8wZXpwMm1EUmxhN0NuNTBFUWtOaktuTUZzeWVhRXlvd2lvZ25LR0ktUmJkcHZxUEZrb2tOUEFfeDU3SXB0SWRfY1ViQnlrMGJvR2hqSXFPdFpmNk4zV1ZkWjRudEt6d3NxVmhETUZZNmZlUnp3S1dIeUlCcEdDUExqRGI1UDdnU3BuWjU5Umt2c2hPdk9iQ2NDTWxlTUkxSkxuTkRTRTcwaHYyeHJOQmNLbUtmVkQ3RjJNQnRJcjRzbTVmMWRtblBPenBGMVliZFkteFVWengtWUpNNjFuNzNXeFVFYUFGRTYzY0twMFpZU2FZOWxuOVJDdmRTaUs1YkFhMExR?oc=5",
+          "source": "FanPiece",
+          "date": "2026-11-20T02:35:04+00:00"
+        },
+        {
+          "title": "マンU新監督の初練習がドローンで無断撮影…12分間の映像流出、リバプール戦前に戦術漏洩の懸念",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE12c29Kb1NnbHF2S1k0NHg2OVVpcGFzVERfQW9MY3huOHZDNmsyd2p2RGZyTzBJZEFiV2lJMXNpRHhTXzRwWDR0VUN2TzE4djhLcFF6eUEwdG5LRmhPWFg5a1BDRk9MSDMtVXRV?oc=5",
+          "source": "ゲキサカ",
+          "date": "2026-11-20T01:26:00+00:00"
+        },
+        {
+          "title": "マンチェスター・ユナイテッド対イプスウィッチ 勝敗の鍵を握る戦術分析 Piers Morgan (gJmxse6CUh)",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdlc1NGRaZUFkdl8tU0JxN0FPc2FKeEdzNXhoZlI4SnFNRVhHUXE4Um8xR2o4TGxQZGd4UG9PSGhNUzFxQk1BRnZNekhZcTZNYmoxVFAxdW5lRFI0eXFvVHh3em44Sl9SMVU4YjNhUlhHanNFZVlJY3BCanpVQ0FRWm1R?oc=5",
+          "source": "Unisba Media",
+          "date": "2026-11-15T04:01:24+00:00"
+        },
+        {
+          "title": "マンチェスター・ユナイテッドでの戦術を巡る対立と契約面での冷遇を経て、ブルーノ・フェルナンデスがマイケル・キャリック解任について沈黙を破る。4語のメッセージを発信",
+          "url": "https://news.google.com/rss/articles/CBMiwwhBVV95cUxNXy1DZ2hlVi1VczVxX1l5UFhoU25KT1RIZ1BHNlEyb05pTmxDdzU0VDJyWnc3d0VabXMxRjVzX3NfeU1QNWhPbXpVcV9PZDdMS0ZXVG1Qenh3NFZ0RUxIZUFsUGxYSDRoZU5Ib1dEa1YxR01DOHR4ZmljUmVNTFZDNmFCMGVzTlpHV1ZYNlRneDhoYmpUcFZVcGtuY280RnpuRUZuNGV0YXZzNmthckxPak81eVVGRFJFaHpCNkpla19vV1VOYW56QnI5b1p6NGNYektKdGNTMnc1ajdqWk9FWmpQakJEaGVQSk9lMVVJVHJqRUxCNDhhSm5mX0w4OFl2N21Ca0k1Z011bkh2NmpNRXlYUEszcnlLdnAyeDRyR3FTRkRNc0VidEJOdG10OFlXc09JTF9uMk03NHNnb0hPTmpVaF9iQlRVWkxvLXZOVzgxcXo1ZHQ2aUQ3Wko5c2YxTE5Fek9LVUJVX0lMR2dfamxkTXI5b05vN2lYdXVSbzdjdThjeGRUendBeV9kRkxXZHhEOUZkZkdyUjVYRkU1YVVFVEQxT2x3enFrTG1DcmhncEJpRXVNOEtvVHFBLWRWN21sZHJPZGRLRWZjaU1yeTk5ZlVZMDV3UlB6MkdidG5GdV9GSy1iN2M0RDloSC1kX3pDSnA3Rm00M1dEODcwaXU4NF9HWXc5RjA2YkNPYzV2VWRtN1FsbG1ENDItNXpKb0JYdTZ5cVc1Y2pIX0tKNEhUdHVVdHpfWVJoV3Q2dF9PLXZUUDRqMm1yRjVCQmhTX2tvOVFFMmdYMEcyU2w3c2p4THIxN2o3ZFhGTk5Gc0MwWmN4WWcwTkRsQVM5djNmV2tjY1NaZlY0ZEIwZXZ5UWwxSHBWRFJJc0xLZ19UMV93cF8wNnVldWdDTUJqM1FaT2JqdXF2VHhTaHpFTzU4TmZjVTV3UXFFcUR1VGFrSF8xMVluT2c3ZXVYYVZMMkptNk1QLWlLSjA0UDNRUVNRMnlOaVVVSEdpLVdoUTE4SjliTzhxaTA5ZzRmUEF5VlJ1MzRvWGpCN04tbmxmRUpmX1FSZExKV1Z5R0Z4UTZrQ3JLYk1mQnFqcTZZRVJDQmlmWjZWNGlIZ0xFdlk4WUJwTGJuaGJ4M2RCMEhKa3p3Y08xWkRQYnhPZldpcTRjbHFUeHEyeFpfMGdERVRYNWpzOXVQLTlvR2JxNG5YTjhoSlFJdjVTVUZVS1BaaWVGLTNLZFJJRFdIdVFjQ0JCUXBrQ2ItY2QxV1FmaFF1SEkwRTNaY29QWENvYVpJU2ZnSzhUWGVtZ0pucGJNMjFDZ09YRFR3dXZHcFBEcFdqRXVmMEpmUDctVklzUmpiYnpxM0s4eVd4OHNLUjZSS1g3M3BMNEd6dlNoLVZjTE5wQVBBamJfM25ZSUVsVW9saGpKbk1QbU9jVkhraGlSTmJXNmd6N2lUaw?oc=5",
+          "source": "Goal.com",
+          "date": "2026-11-13T08:00:00+00:00"
+        },
+        {
+          "title": "Mauricio Pochettino tactics: Can Argentine solve Man Utd's problems?",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZQXFLRHVWUUtFVGtVWVYyc0xZZWR0ZmJScUJlM0RSRFhKVmthdm40d0UzdmhMX190M21ZeDZ5dkx0TGRtMVhMWHFyWFB5Q0lYYlNYTmRsU25JQkNUMTM1N3FpbjEtVGFM?oc=5",
+          "source": "BBC",
+          "date": "2026-11-13T08:00:00+00:00"
+        },
+        {
+          "title": "Pochettino’s Man Utd Tactics: BBC Says Structure Is the Fix for Carrick",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZEtPY0J0SmxUdmZwWmtkSllnWkw3am9rZVpVZnNHYXd5alg0UnhLX0o2RGJ6X1RkQ0M3cFk0NzRFRm10SFZSUkgtalVaRzNCalhBbjdGTXJ5QTA4V3pLZF9UemNsQ251d1Q2eGl4RnptOE95R1ZGazRnbzNaNTBDeWthVWh1a2hsQ3ktWlhtNHo3VFVzcHBoMw?oc=5",
+          "source": "The False 9",
+          "date": "2026-11-13T08:00:00+00:00"
+        },
+        {
+          "title": "ハイプレスと高速カウンターを武器に。ポチェッティーノはマンチェスター・Uの長年の戦術的混乱を解決できるか？",
+          "url": "https://news.google.com/rss/articles/CBMitgVBVV95cUxPOFBpSkFVSnlGbnhDWHNrcGdacWtWTDNxbGViZTBHWi1oSWw1anhlMmR5SjZpTTlMXzBzVk1NZVFzcXQycWxaUm1zUWxPMzF4ODVfUWw3cDZIbjR4RWZZc0hJaWdIaUluVWNxR3ZiTGJZRjdveGxIOGNHalhYc1g0SURHYkRsUnNpN3laeEYwVWZ4MGpnNmpjSHQtWFlIZUxESm5IRDAzMExkdWJiRXc5WHVHemRmZzRHYi1kQVBzS0VZLTBsYmdwaHVLMUtJaEhUTEowR3I1bS05ZEw0dXBFa2pxSTdna1dLT2prcGR1MUdZNnI1VWlNTmpLU09qeFY1a3lRLUZaMmlqTUVKNzVBeFVGSXUyaS1LTTNhV01JODNKWmwtaTJzNnE2SGptcmZNdkd6al8wc1lKNE5GXzRTcnE0SkpmMmFSdGJaLVpOM0pKVkdpVUVtSWFJYmJiWGR1UWlxM0lvWlg0NTFxQnJ2dlZvYkVrRHdDWk9jLUlRRllKTjBaMEVnU05EeWgtY3ZmQ1docnhJeEJiQkMzTGptR1RaOTJaa2d6ZGsyLWhPTm1XdEkyNEJmNE5NQWozSVZtWjZONUNJRmcyeV9FektMdlJIU1dabWl0MGx2X3RxSy05TU9mTlZGMkxOMTJJbGlPNk9xR3YzbEZWaDJjdjV2Q1pmVmxMNlVoZ2JsUERlbFc4bzNjUWdMdTZkNnJidUV3Z1NsMEVVV2N0UFpWQ0wtNEowRmlYZ2RHNnQ2VUszRXQ5S1lUZERQLVVTN2RZTnVTb2hLYWdyTEZ6YzdTVjgxMHJHUkZ1NkIyczQ5QXA0ZmxERnBGOFVoMzEtNV94d0lPWUQ4aExqcVk5VXQ2QmpVdUQ0OFNRaVUxak02ZENqSGcyZWwtNmJ0dmstaURVZTh6dFY1ODJn?oc=5",
+          "source": "FanPiece",
+          "date": "2026-11-12T08:00:00+00:00"
+        },
+        {
+          "title": "ポチェッティーノがマンU新監督就任へ！ライアン・メイソンが明かすトッテナム時代の「秘密の心理戦術」",
+          "url": "https://news.google.com/rss/articles/CBMi-wRBVV95cUxQbnRFWUxkOHVEa1AtNktCNDRxaHdKWlA3a292bnFBMkI0ME9wMzJSRWczczQ5cmttZUVPZ3pUMHp0Ym85bkJmaDY1aTduNGFGQ1RqbDhXTWo2Z2JMeTN5VElBU1FtS1V5OGFsTDc0MzZ5U1B0cXY3M2lVWkU0V1I3WW9FeDc3dTlfMEFhLVRVYjBraGg0NlhMeGRZcTJ5eFo0ZmtRckdRMUtQSEl0XzJfMlJvWWRGbnlUMjhlOE4xX2pyMUc1em1tYmFBQUctSmtuOHd6SWMxd1c5NFJkNld2Q1p5bGdGX2pTS3FHal92TVYydUhpNWw0dHZaMmhVb0NPRUNyUnAtNjdNdUFYNmNzRDFqWVlDMXNJN2N1YkZuTldZY0Z4V3JTMGZzNm5GU0d1N2JrMlNPcVRvbGVjMnRDSWthT2luTDJlRUZtME00cmpURWhYZ1NrZTFYVEZxMk1SWklVX0VOQnNfbFozcXVwQm44TXE0SGduSEo4VmhoUFBfWkNOV1BSOTVBemtMUU8yNHNCbVhGODV3eGx0NzJod3hlU3RpS1pwakZ1U2NHVUZKSHQ3Y3hNSm92ckJNVzlPdVNYSHZtZFU3S2lXenJLMVlETFdIazR6UE5zeFA4SjF4RGtQRjZKM1RXTHVxYlpTajlueUtBYW11M2VoQUQxQlkxNnZMNGw1a1pRbjZyOVhqdmo0elFiVnFWUFZER1NUUVBkZ3EzaV96UHduMC1xdldNYjBXWUNBMVliek5NZDF0Y2dYeXZHNXRzaWVta3dmU0NOc3BoYkNxenQtcFF4ZGpSZVJCM0E1MjBfY1VZVXR2dFRqTUZ2bXExaw?oc=5",
+          "source": "FanPiece",
+          "date": "2026-11-12T08:00:00+00:00"
+        },
+        {
+          "title": "Carrick’s Man Utd Tactics: Where the Shape Broke Down Before the Sack",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVXJuNjhRZGwyLU9Fck5IOGFDT1ZvZ1hiYnZNaXViNGFpR0RsaFpLVGx2SnF1STctLTQ5RkVIZnZ4a1JuMVQ5QWJ5ejg4Ylo3UVp0WExNaUxwQlRiczl4U0hDMGVLbUR0ZDZtUENFZHdiWnhFNUxpNGtwWnhhOVdHWU5GQTRDZVF2bG93enhUTVdWWERLTnZUdg?oc=5",
+          "source": "The False 9",
+          "date": "2026-11-12T08:00:00+00:00"
+        },
+        {
+          "title": "Carrick’s Man Utd Tactics Explained: Where It Broke Down",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQclJSb082Mzl2YnU5TGdqUzFteHdSc2hnOGxqdE1jWkNtXzhuUDhKOWY1MjdBbHYyTE1FYjZKZVFJbThWaTNpVF9iTnJHQThqa2RkanNDRXIxNmprRTFYc3lqaElUMFlHQ2JHYTlTNVllaVIxZ3VCc3VTYnpEYTlDdm5icVNMYjhheEczbEVGMG9QNWNPdzdB?oc=5",
+          "source": "The False 9",
+          "date": "2026-11-10T08:00:00+00:00"
+        },
+        {
+          "title": "マンチェスター・ユナイテッド対アストン・ヴィラを戦術分析。計8ゴールの大乱戦で両チームの構造的な脆さが露呈",
+          "url": "https://news.google.com/rss/articles/CBMi_wVBVV95cUxPYkJjQ2t2d2ZkYUwzSld6WUU0Z2p5Qnoyb3hEUHIxY1ZuSEZyRXF3N3UwNVd5Ui1Oc181T0JZX0JYdFA3cWltZWZyMVR3SGNwMnJ0ZjFlTmNmbEFuV2xkQkcyTC0wcDJDQjZhVlR4OG4yWVdrTlFEOU01ZU4zOU0xQmtVN2o1MXJpODltWEgtQk5CcHYzT2hqOXQ3OTRjaXJFelFSSFRLbHhYV1QzazZIRkJnd2lQVVFkY050Ym80STJZeWJjeUxpWkVPbWkwUkZUMllqX2VBRU05dGFwMHYySmNxNGJfQ0hZRk9uVGpMajRURlhXRV9qc25EdmM3QTlSUkVKdE14LTVmQnlTTkV6OEM3dVctTW5iOXp2RUpMWDZSUktNQ2ZRREZobFlpUjg5Tm0tMVE4WS16QXp0UDFUOFJoYkprMWx2dmh1UXcxbWU1ZWdwVFZQRFFCYk55cC0xcVFIdTk1NjNXNVFNUXRRTE83UncxcGhUNkhJRGR1NC05dmJYYlZ5VV9SenVRYVZMZ2RySlQ3N3pQQmtnbTVFNmpYWkVEcWhYT0ZoNnNuVXAzaVdueDN1WHpRaC1OUlRudTd0Z3ZFd3dGdmI4anJfNWJ4WG1PZnVadUFTTTl5MHowZzVoRGRvTjlleVRsLUMzZ21tejVTZ2Y0RzBrSWFLcEpjSGZ6b0JkYzJiUWQ4TUhsWjVGWTVfY0s0RnRFNjdjTnEyY1ZVdnVmNlV0Z0JQSEdyd1BfRkkxbFpDckRtVDVWSUFwQy04NHAxRGN1UjJ0T0JxUUh1cnlQbnJjNXJaelFfbWl4enhocnNrczhBNHFTSFltMDYxM3lKYXhlRVJ3VFZvdHpPVXJaSmVqb3ZLNnIyZVYzLTk1OGdPajBOUHVUT1RMZEh1bzNCRzhrSVQ5WHhxbFVyU0JpdGxmMU1yejdONTB5eDN4RFVpSzlvd3pMYlhISWZiZWNKblJ0eE5OcE5WWWJVN3RqUk15QllIVmwxSDlZeFdXUk9hR2k3Zw?oc=5",
+          "source": "Goal.com",
+          "date": "2026-11-08T08:00:00+00:00"
+        },
+        {
+          "title": "マンチェスター・ユナイテッド対ローマの戦術分析：ガスペリーニ率いるローマは後半シュートゼロ、マテウス・クーニャがオールド・トラッフォードでの鮮やかな逆転劇を牽引",
+          "url": "https://news.google.com/rss/articles/CBMinwhBVV95cUxOcy1TSy04RTFvWW1tVmNUOU1XVXQ4R3NBTDJXbGx6NHh1UlFobFRYd19VUThKN2gtcmdIR1NJbG0weVVDLXF1NHNZQ1hLbUs1QTlKaWNCZV9vSEM5bXhUampuMmJhLWRsSW5yVTBLUG11eUVGTXRSdmw2Q1FBa2hhcFFWd2ZIRS1HUnctdWpzSm9QRUd6ajExcDVObklpQ3Q3RTMxYndWTmFtbzlJMVRrVmZPRjZhbTc0emMxakFtTDByMHpLMzc5dmRxazJxOFNwbVNUdFZ0dDhXenBVc3c1TGtieS04c01pek5HZG9NYjlIdDZtNUhBMG95UC1jU2JKbFdnRXplUHltTDQtOEwzTXJPT2dIVGtVOE1WeFdGZGk1aGJaeUdSN1phbHgxNGQzcHdVYzFTdTdiYnltNnhOVEd1TDNSRm81blRnOFo2T0szQWMxeU5nNjdKOTRrTnRrV0sxeU9CWHUtUzJIaGY2RkhkRzZVMUJoSWc3dXo5Yk1jTkM0T2pzUnBvd2xsbk1mZlhzb28xVU5VZ2Z0dmswcEl5dlM1aVBIY244MG1PeVY5V2FXM3VPYXd0dlNmQnlXVEZRMXBBemZCNm01Y0VaN3g4WjdGdlhsWGFWWU1jT0ZRTndwRkNWMWR1WGxmREpnMGxHRy1pSFVCa2g5angydXpDT0FKNTRudTFuVUlibTY4aTJ5UV9EVjlucWtpdFVhb0VuZkcwWUZtOXF5OU5mU19lTXlTV05ROVhoa0JmdmFtMldKQkdHcmFkUlBJeklzVkRKV0pma0IybnhINFBRZVB3YWdJS195R2NRUHBqWXc2eERnZGV0X1M2QmlkSHhsT08wX0pyQXZCOHNBdDVuYzBpRGNzRG1WcktPXy1hbXE0Nl9YUXlwTmJid1VxOFZQcnViQjBlcHJRbU0tVDM1MElGZFBLeTUzR2V5REFIeGxoWjY0aWc2Wkxxa1RCdkk5UWVzTl9zUmIxWURzSjlMbnItRHM1M1BGVXNEUlZNQzQ0UTAxTUpDSnNZQVFiWW52Q1NoV0RDMW12UUo5ZWIyZk5vblJQLTRRcGZidVdvTXdRNzl1bEJPUXRjQXVoWVUxSTFReTB4ME4xZ2k1eG9OYVhjX2pHVFI2XzNkcENGd2hMOHFnbi1iRVIyN3NSSmtOaVBZZ2tBclU0NW5QUlNhal9vWG1vdzJtUzliV0ZfbmZOS2lNSVBnRmtZU2xkRmp4TzdhWWt0RHE3ajN1MllCdzlKLXlFdmV3NmswV3N3cG5ZR3UxR1RFQXNGUEtyWGcxbnI3WE5tcUlnVDRaRHhmcUZseW1zeGczWjJUeC1FcTBDTkZfN05ZS0pxU0dQVDcyMURNZVBoZVhrM0tDN2ltaVlLVkxzVzlGV0JaOElhbw?oc=5",
+          "source": "Goal.com",
+          "date": "2026-11-03T08:00:00+00:00"
+        },
+        {
+          "title": "Man Utd tactics exposed Chelsea before their usual self-implosion",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5yRU9Td19fNTBsZUxhMEgzMFBhcWQ1eVFid2dURHFOSU1xbS1wMXJYVF9NNk9DNS1RUEtGQ0RURGJHMEgxdjdyNUR2X2w3ZEp4LTc4VkhiSHRwSEZ6RkpZZV9aME5CR3B3ZDNNNUhhcGNoQQ?oc=5",
+          "source": "Football365",
+          "date": "2026-11-02T08:00:00+00:00"
+        },
+        {
+          "title": "先発落ちから一転…… マンUキャリック監督、戦術批判のB・フェルナンデスと直接会談「わだかまり」解消か",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS3pvcXpOaVdWVGhRN2xoQmN0SkJ5N2RGZ2RFY214NHZIMVNNelB4LWlqeUM3aHE1Y2ZwWktyQXpFQ0ZVMkd2dVNUSVJIRE1oS3UxVXExdWY0Sk5RbU1EZzRhODhIbW52OWw0Ml8ydWJONGZYTV9GNHl6Skd1dHVQMjJLbWtKZDVuSGVOWTBn?oc=5",
+          "source": "Yahoo!ニュース",
+          "date": "2026-10-29T07:00:00+00:00"
+        },
+        {
+          "title": "先発落ちから一転…… マンUキャリック監督、戦術批判のB・フェルナンデスと直接会談「わだかまり」解消か",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB6M3VaY3A2ajdza3lBTFQwd3ptLTRzYWtKRlU4OVBqSjF3SUVtUmpBZlZMUnRkdU1SdlRyVzNPNm1VNkpuRHpjUTBtT2VVelI1bUs0blNkekprUEVwQUlmRV9XYw?oc=5",
+          "source": "Excite エキサイト",
+          "date": "2026-10-29T07:00:00+00:00"
+        },
+        {
+          "title": "先発落ちから一転…… マンUキャリック監督、戦術批判のB・フェルナンデスと直接会談「わだかまり」解消か",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5WT3pjTEJPMEFTWDh0TG9VbXBfQzVWME8xRnJ5a2FQY3h2YVI0ekpmdEU5Mnpya2lhZUg1WXFNRDRSNWY0S2FkRDFKLU1EaGYzZHNjMWFoR3cwYnJvQTdJ?oc=5",
+          "source": "ライブドアニュース",
+          "date": "2026-10-29T07:00:00+00:00"
+        },
+        {
+          "title": "まさかのベンチスタートのブルーノ・フェルナンデス 指揮官の戦術を批判したマンU主将への扱いに英メディアも注目",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOZnpOcVdjWFp6T2J0S2wyVURMNi1kQWU4THh0NFd2SDM2WW5SSFJpam5XWnJaVVBMbEg5a3RsZXhGWXNGWGxNSmJuT0pKbl9Mc0NMTlhzcDl6WTh3RUQyT2Q5NUUwd2lud3Z0dmpiSmhRU3R2cDJGMzUwYXlrU2c?oc=5",
+          "source": "Yahoo!ニュース",
+          "date": "2026-10-26T07:00:00+00:00"
+        },
+        {
+          "title": "「サッカー面での判断」キャリック、戦術を巡る激しい不満表明の後、ブルーノ・フェルナンデスをマンチェスター・ユナイテッドの控えに回す",
+          "url": "https://news.google.com/rss/articles/CBMivwdBVV95cUxQbXl4ZnMwVHh4UElMM3RNLWh5RWxNbHAxTjVCOE9zTTllWmprMXV1U1RtMTRIMmFiU3l2ZzFYSkMwRnJJMFB2d1A5QmtIODJJWFNjcWJ1UlBtcU9fRmhVM01DRVhOV1Z6cEhDYWtVWDdtaVBZTDktWS1hTkFuaV80U2lZemRPRF9pamJSeU4yeHhZMGlhYUw4S0FId3dNOXNZUzZBWmpuV0FyU3NpZDhobFh2OWwzUktzcm1DOF9YMERINzVmV3dtN1dFOV9nU1lGZzc2UWlSdi04Q0U4dWdnSEVKaG15dVFIcldiQnlCc1ctRmp0Q3M5T3BFNWhnLWV4dE9tT3NvLTVIUlQ2bEpUNDN0Z1ktTTZyYlJjcXUxNWNhMklKc2R3bnZPbW9pUWdMMEpMZTZucVB3NExqdy1MZHZEU3BWekxJMHFCQjFIcHk3aXVjN0RubVdOaTdRRzR6dDlVNVp6ekdZSjJEd1ZOV181Mm52TnpmVFpRaGVKdEI4R2lkYmx6cU9kMktSenFlSWxxVkNESU1WdmltWWJ3MVFVQm1FNzljSWllZnpuVHdXdUhING4wcmlYOFptYWdUeG5Ga2lJZ05JWngyMG1rTFFydnZDRzFWXzhXeEk1SVBmT0VRMUlER3RJNVU1NUZnWERDY2FnVWVEZl9QZ2EwdGtOTHE1SDVleXBhWHo5YWNhMlJiNmctRVR0R3V2cG9MUzlJdUpGU1VBZGhLdzB2ZDl5ZU9nck9UN2V5OGFRYTBMRm9LQVM1Y1J4R2hDUVRUdE5vU19PRnZBczVRQWpDZFNvUi1XVjZYeHZDcUxnS0x3aGUwMEcya1JqM2NOdkJXRU1zdmNVSXZfRktvRHFtci1wN0pWaEF5MGhYaHRDZGRrcnFjZW5uUk1xSzBuM3VYLXdlcUFUR0MwbWlGXzVvU0FLR1dLUEt5dHpYSTM2eGhBUWJXMndBeEhMZGVaWHBybzV1OGFNaUpRd2lfb25mczZoc0gxSXlrUGtQZU13VDNFQTRsVFN4OGl3eTktMWNpQmx3czJxSHRMN2oxbHVYalJGaVRtN0FaU0k4R3FheGpxRmtsdVZzSVd0NmtKbnNFVDk0UWNCaVUtVy1Ld0duampZZlIteFE1Y051bHBlQUxFT0NzU2JKWlhKMlA1dWhmTVZObU85b0lVa1pMVE1pTWR3eElyOWNNaS1uMHlaTFA2NUYyRVpONFpqQmRVWnJxTG1DZlJrLTVnZTd5OGZyNkliQ2JLX3hKTUpWSUJlQQ?oc=5",
+          "source": "Goal.com",
+          "date": "2026-10-25T07:00:00+00:00"
+        },
+        {
+          "title": "上層部批判に続き戦術批判も…“崩壊危機”のマンU、OBルーニー氏は選手の姿勢に苦言「まるで赤ん坊」",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FLUVTQVNTUUFLR0JLbk9kQl9nODNMNng1OTE1UDhfNkpQY09BTnBMcXVpU25fLWNVbHpDeEEwY1JkZFNnajBmM2xDWXVlaDFXS3d4b0VMblppaVFOWmQ0VEdRY0RFN3hpRE1feS1rUXY?oc=5",
+          "source": "サッカーキング",
+          "date": "2026-10-23T07:00:00+00:00"
+        },
+        {
+          "title": "ブルーノ・フェルナンデスの立場は不透明に？ マイケル・キャリック、戦術を巡る激しい発言を受けマンチェスター・ユナイテッドのスター選手の地位を保証せず",
+          "url": "https://news.google.com/rss/articles/CBMiwwhBVV95cUxNY2tSbmxRRmxsTVhoSTZQUEFsWHBsOXVCMmFlaVBlZVFEZVl1cERMV3VTUzZabkNmMkVHcU02VWlvNGQtN2lCUFRCNk1qZnVjOXZSdks2WDB5SDdBd1h5bEk0WFdBQXFLTjM4T3pCOTgxR3dJUEozQzdXNmVFZTZGTExJOFQ3WlNEYnRfQXVjN2dCVnhsc3NRQ2k2LVF5MHdWXzJJN2lJdVlMaWZKYm54djJqcnlXZUh1M2I5dnhBSHk3MGZlYkN0aTN1V2pPUDB0MkJOZWdpbGIwT2lHT2pOMWpPNy0zMnI0bHUycmRfcm1PV1JidlFLZ29uai1rTUhrQ1VpOG95WnVFVjVBWVFCWGpKbXRISHdoN09MMUhqZU1NQkdrc1JTc05mV2hBc3lNaU5oZnBwRzE3U0tENTN3QUdhWHZNWUpVS1Jwb3FOUC1Ya3RMSG9QR1hrWDV6SzZDU2MtazNyTWNXazZFeVY1anFKQVB5d2FUdFh3NlNtSTNZZnpEd3RFOVFwT2hEeHBaeUU0b0dXOXJPQ090ajZ2b0MwNnU4NUhncGdtLVF3SnU0bVVCUm11NnlHU3puYUROa0phT2VLWlF1YmMyUHV3ZEpRX2dSdVFIblE2QUNBVHlHZnJaWk5XcUdlVjRPeGVBYU1QTTJVTmFvakl4Zm44b2Jxck0zcjlhLTF2NDN6Z3lyRDRCa0loV041V2gxaGhmSTRMVEZXX2hPNnVETVd1VFRHQlNiX1g0XzdWenZ5bWlMMXB2N0F1SlNMQVlWTS1EN0sxSFBZLXh1ZFJHbVluM0ludEh0M3ktOWR4MldYVUN2NkJRUkFNeVZadS03cThrUXptLWRSYmc2OWUyQnVGLUF4Y0dOTHl4Z2VPZFh2LWVHSFZJakNXV1ZTSHJnUE15ektNNDA4Nnd6ODZEdzVjNVhGREVCOW5vU01nSmNDa0EtOE5qNWkyRVkybzdEWlpqRjVaT0pWTnhFMTJaV0dqcmdvZlpSWkRJUmJBLVplTFFvMzRCX1pyalI5dWhNSHdYcmVjYXZPbmtvVkhzUWNvQWtkMFJQUjI0ekxDSExxUTBKaXZvYmpkVzdtX0s1UlRJaUpJRnNFY1U2b1JBUUJTdWRXS1ZZR2dFdWFuWUxBeTc1SGluNWFXUC1QbmJjUDZjRE5VUm8yUkM3SklpYWpodjRkZVpyUm5QR0wzQjgzNVA1WEpmNUlMNDdKaFNITzBsZjRlMkY2ZG5VeXlkYURWU3JQVTFLZHg3QndkcVQzYVk5RWdNYkpTamw5RVd2RWFKY3BmZWJKVGZZV0NYclVxZW9sNVZURm8zWGlBMzlHNnlVcnNnaS0wdzBDMW9sOENzZXYxVUpMWi0wR0EwOTEyaHBkbWpXbk5MeHZKZjVCVE9HZDBKZjNMWFZEd0ZWdUJKSGhxNnBrSjJtWmVFU0lHRWxXQQ?oc=5",
+          "source": "Goal.com",
+          "date": "2026-10-23T07:00:00+00:00"
+        },
+        {
+          "title": "マンチェスター・ユナイテッドでリサンドロ・マルティネスを処分せず、ブルーノ・フェルナンデスの戦術面での反抗を招いたとしてマイケル・キャリックに批判",
+          "url": "https://news.google.com/rss/articles/CBMilAhBVV95cUxOME9hZjI5aDB1OEhEUW10dzVsUDBwRXIzcnRLNDZndVhWdHh0VnZDUTliX3pLQzFhdnI3MDBXSGROa1V1M25lUDA1TEFHTzRhZWxKVThjdVNPOS1yUmEtQW83S3B1N2ZNR1MtMjQzaHBkRUtEeEZSSTM5TzFTSXRycnBOdDdiTXRjdlJhQngzSk9jOGxqajJCcUw2MkU1a2VGZVpFakFJZVE3eVFfamxZdjhicDBlWFQ0WHVZTjh3cHMyNmEwZnN1cXRJUm9acmxiaWhObFkzN0lqeFJ0RzJ6UTQ5RTZ3V3dtY01meVZTa3NwbE50YW1XczlxQldMTXlzUlNZWHVjckg4YkhpX3gtck11UTF3XzRfSzhZSHI2ZzhLM2lHYm9JVWxBWjFYM2pKVGF2ZnBwMmRlRktWMWhGem9tZVVBQmd2eUVsYXNpMklNS3YycmJCMDBUN3JBQ1pTMHRBTXNXckdYb1EtY2NRTTFkRzA0TkJSZzRSZG9jSHZMbmpNVEVTN045bjFnMm5fdnhxX2s0c21mZmFVQ050ajNoVGkxV1pHSUJIU2xtUTVjT25WMkZBWHJNeVE5cnNIX3VVcEd3c2NVRHQtUmJPSGNscTRjaDJablBVd3VocDZyQl9KaWlyeXd6TldkZE5mb1YxTEtTMkdHemFBNU5zME01aXdrdWNEMUlkeW1PSFJ3VmtDelJNMS1IQmw4VWVaV1YzT0ZxVWJ5UUJpYUFDNUtGaTN4WkNtSTZ6WTdhR0x1MzBWVmlMUVZnNkVwUl9wblA4QnktMEprNTNsWFpZb0lwbnE1cG81YjdnQVNSanNWTXhGZ1lyQ3R2X1E2R2ZLWVpocXJidHd4VVFVcnNvRjFyWjhSVEtGS0VWRkcxaTEyQVBUTWJLLUFVUmlSU3EySHNyVlVSeGxkRmZQSWpzNDY5X040WHU1MF9mQkQ1bExSR2FWdEc1c29CMWRWMXJUd2t1RXdhSWdVNXhUTl9YLWFrcFVVb0tjUE9sTWJXQWFoNll4LXZDYnlUYWZWaXQ1SEE5MDF4Sk9fdGk5XzdVTS1pS3A0aG5lVUFZTy1XR3l3SFR6NEtZZFB6Q0t2MV9jZnRveTBsd0c4UU9pLWpaVHlmeEpXQVNmRjEydWlibUYzRUJGVXp3T2g4TGY1STJheExfeUxUUXFJMU1pNXM0NEdoREl2VXRvOWZjYWE1QXBWNjF2TWZ3dVVmbk92ZnR1MnJfMkdqSWpEaGhjMkJIaUpRTHB2VTNsbnNNWTZTVC1VTlBGSXZIcUotU05kTHFKSFJNMFliU2FuUnduWkxUNUNDZ252cUQ4MXpVT3RSOS0zSkFPU0R5eFVXcWNnQzJrWEU3aVRnREtzOWxuQnEySndacnk?oc=5",
+          "source": "Goal.com",
+          "date": "2026-10-23T07:00:00+00:00"
+        },
+        {
+          "title": "コモに屈辱的な敗北を喫した試合で主将がマイケル・キャリックの戦術に「恥ずべき」怒りを爆発させ、マンチェスター・ユナイテッドがブルーノ・フェルナンデスへの処分を最終決定",
+          "url": "https://news.google.com/rss/articles/CBMi0AhBVV95cUxPcl94T2RqMG1ZMUxhXzF5eDc4VURSbFh1emFmVjhPemFSTVZmTmFJY3gteHpUdVlJRkVQNXZ5b2d0OXcwemtacUVfOHI5UWl3ZW9DWjRHdF80Nlk0X3VyYmxvNXV4NmcxNFhmSDBlU2tISGZSeXlBTC1FMEtBY0loSERTREpkSmVEcHhxUnhoaWt0Y0EyMWNiMXY5X3h0N1c0RkNzWnFMeGZ1VFhabHAtVHR3cGlnaHA1R1ljdUY0elVOcmk2QUFjVDRmUnVaV0NYVjBVc19Fc0tpWC1jTzdiRmxYSFpSeUM1SEwwd05iZXIxZDhRQ2ZfZk1jb0x4UWF5aWc0eWlBOVBmWlF2alJqWkl2OVNReXhGcFdKMzQtTk9EZU9pMFNRVTJCMjNkRDFBNXUwWHF6Z1h6S1d6S3pBSlBTeGhfbkkwREhlMjc5UjNBcEZGejJxcTFoWTU0TkgxNy1hSThLejRFRmRPTlF2bWVzcGJ3VVAwdWdpTU43WWNGUXNpWThldzRrYzRadmxiTVR2d29YLWNmT2RWRkE5Z09BSENRelYzT21YUmEwaW9FbDVBYWxZTnVxTFBwd1RrZklWV2FlVXVIb2oxb2NLal9Jc21KaGs1b0NyUC1vdG8tUDZhSzN5bEItT1BhcVRQYXFKdnMzcHNtRFBha1A3OW1hRUF1b1VweWRxTExLdHRBekRvQ1o1NlZCc0NQTnQ2UFpJaXhOaFgzYUw5eVlNMGJwdGt1S0doT3M3dHVlb01xT2tUWlhaaVdyanJVODlhS0J1bnFDRkd0LTlFUGwwcnc0U0hLelF5aDktZV94MDFaVV9ZUDIxMDBqdW5kUGx0YzJLV2RaNlN1eV9QbGl0bnQzNkcwOEYzaHEyWGlkZlFpbERnb1FYYnlrZWRCZFBnR2xwcjdKc1YxV1hpNnIzQ1pCSEpJUDBqejhUaWFtVjFVNTV2UnNZUjkyY0JyX251eC1FLTJyT3VtY3lJZXZSOTVERnR3Vjc5M1hoa2l4M1NRNkVETS1pWUJqSTdOU0JEM05UR1dSelFfVGJfbDluZFcya0pLRnFaaG1jSGVmbFdCMzl1LWt1RlJqaUo5OG5td2JBTHBoOVlJc1lDM0Mxenhwc3I2aHlhMFdNNkpBTDFqOWtqY3U5UVBvVV95aXIwR0dTbGpMYlVsdmd1aG5LM2I2ZXItQnFwOWZyMndFY01iZ3pTLU4yU3oyeElCaEJZMTNEWXJxVkFUb3NPdnZZd1lPenFOTXgxcjJZaVVJUDMzWXdFa2RRWDdsSzFpSTg1eXBITFlRV216QUxGWnU3M0RIOFlIVWNXcFRuRjhNQ0xYTmRZU01yRDB4MlJqXzBxMGFZRUJBVEdPSl9UaGx2NHFvUDVELUhZSS1ib3JZN0NpYUtjeUlqbDZPTnE0X0pxMWtIQUl0b21RQkdiclNFNEVKM0d0dmtyeHFMSG4zWmg?oc=5",
+          "source": "Goal.com",
+          "date": "2026-10-23T07:00:00+00:00"
+        },
+        {
+          "title": "負のスパイラル…“戦術批判”マンU主将の自宅に強盗が侵入、同地域で試合中の選手自宅被害が多発",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5oZlNkVjNXTTMwNVBObEVPQmJVeXVNclNhOUFET2p1eENMMXk1SkhCZU8tRDIxZkRvLTJfSkV5WWJCQkVwa3dTVXl5eDNCNVZNRGd0UEZQeno3Mk1yTXg1TllyS3NuZm1xT2hvMmdMQmY?oc=5",
+          "source": "サッカーキング",
+          "date": "2026-10-23T07:00:00+00:00"
+        },
+        {
+          "title": "マンUが内部分裂の危機 戦術に選手が苦言…主将が吐露「監督とスタッフが見極めるべきことだ」（FOOTBALL ZONE）",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Dd0xsaGd3T3M5ZTRsaGlCYVhQM0hCNENTQ3N5bXdINHdvQ3R5N19OT2JhSzZBbFJrRnhYSGpIRGtZVWJaY0hmRmdwZlR6SGF1WTNjTEdYalFGWGVJcDNWRmx4MUdGbG5RM0JkbUlDZ1BQaVBDU0wyT0VUTUlFcm8?oc=5",
+          "source": "Yahoo!ニュース",
+          "date": "2026-10-22T07:00:00+00:00"
+        },
+        {
+          "title": "「それは冒涜だ」ジョー・コール、マンチェスター・ユナイテッドがチャンピオンズリーグでコモに敗れた後、ブルーノ・フェルナンデスによるマイケル・キャリックの戦術批判を「到底容認できない」と断じる",
+          "url": "https://news.google.com/rss/articles/CBMinwpBVV95cUxQemIydUNPN2VnR3djbFhXR0xqb01rdXVOQTlxMXlFVjFKQU9lR2VENW80QlNCX0xXQlVzcG42b1pIYnBlUTJmRUtpcVZRZ0RXMmxHLUtBTHJtcGhJdkpCNjVXSVc4WjlLbU9UYVZJc3N1SGo1SGUzbVdKTU1KNUNPVnVfY2lnc0dySVUwRGtWSHB0dmc5MS10Q3ptMlpzX05ObnoxTU51S1VKN1hYQUx0OWVQeW5lNE81S19fRFBmbW9mUUhqRDNBYzdZZy1BNHlVWXgwd3FSdjUxbkdtWGdpc0dGNTE2bTJtNFRpX1hOQWFQSnpMR2lWeUJSNUY1M2U1ZE9EYVg3cHBhYU45UVk3ZGZDdWhuNVpWU1czQk5TT1hUUjFNdk1NSlpFX2xROTVla2ZZNHVsNWdPdXdFNWszRnlxX3hySzNwLXcyT3prOXBjLTBMZXYyc0VKZG1CQXkxVU85bWh2XzdIb0hqU3pQaHpmR1FKTUFZNDA0MGZmQ1pQNlRtMDBXb0xKbWZSakRwRk9qS3p5NTdvYjFENkdYTkRJRjVRSDdwSWdUY3NBLWFLdXRWbjhvUGxqbkxNOUFPOHQzX1pRM00tSnZWZndtcmJ2T0ctME50SFpyb0dtc1ZPZXFOMmNJWm1SUE12QmljSGtfc3otNTZTQVhMbEkzc2pPMlZfMUNQNHZWb0pHcXA5MzVPdm1UUDlKNW8tWDA1QlZ0ZEhwMG5obWwyZWdDblQ4c3RXUkpWSWU3N296bzlUZlNYLTFjdHdlb0czMVVBWGlDTXNDQy1sWDZHVzZBZ3RIRzdEYlMzT3ZDaldYUW00NndMMlhWcXVObzdESUhPQ2VUQTY0ODdoTXV6aVV6SHZURElUUnlBLXBNS0VTUDlxRHFEZ09NSWlWUklhNVVwVk5kQ09PdHV1WS1BUE05Q0NQLUJDQ1o4XzF3c3dOdXVJZ0ZRY1NxcFhPWDl5dDhncmZyV2hJZ2ltTkNVb1NBZFFKblFsN3ZwREhmX21kZlN4Mzd6SEVKN1BIejJlOUFJbW94ZGszUE1rSGY2NGp3UGZiVThaM2pHUW5wRWNERl9mRHEtM19xTkMtb0VsbHB3WndIMnpCa2JoSGNwLVdjWFZQZ0VraU1JbmlMVHMtOWJhSXVCV3o2TDRSeVJIVUpfZ3F3UEluWTRrUUFWNEl3UV84VXN3bUpSRWYzWGRGOXNWdGpVb3FIenlOVGZzeFpuTXRIOHB1SmRILUx6cDU2eElndktBWF9MNDhGLUU0R25GaDdyb09Fa0VmZHhpakU0MmxoR1FJQ095YXhGczQxQ3ozcW5EZm9KX3Bza09KNzVTU2t6clYzMW9FX1RwbFdRZ1RWWTFnSk1kdVctOUJPSy1BcDdOb0h3X3JWWXhsMHNRejNPMGhsdWk4bW9VaVZ5WHFvaFJackYwUno4VFROTUhYTzRXdUpGUmtmM1RxbmQ3Y2VmNUdSR2czTmZaUHJObHhPRVdqZjJNZllVdTdpcWNIQVVBREtaN0ZGTkEwZkpVZUFZc085R2Jad3NrbzRvVi1PdG5KSGNtM1JrUkJhVXktSXlUNVFwT0h0dUxsM3FxdmhMZTZXaWdJRFA1clJaNjFKOEppU3hWbEI0ZXVIVlM3dXZKYzZYTXV3X096TjN4eVpLVTlaVkJua2xGS1pXaTE0M2w3WTFfbkEwMU95NEhyZFlFWGVHZHcyOXI3ZjRVMFpoZUpqelQtcjdjRzA?oc=5",
+          "source": "Goal.com",
+          "date": "2026-10-22T07:00:00+00:00"
+        },
+        {
+          "title": "マンU、内部崩壊の危機か？ 主将ブルーノが首脳陣に苦言、4失点惨敗でコーチ陣の戦術に疑問 指揮官も反論「走らなければ勝てない」（フットボールチャンネル）",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pbjVhMllHeEVwWENjb3Njby12cGlEMEY0YU55SUxIc2dwZmRmSkdvT2UydlJSeGVzZnFHbkx2eHhTaE9IZW9aT1FaQUpQenpuRHI2MFU2OXR5aUExRUFpa282Q1JEMlZDSHRZaVFJazJld1J0aGpvcmgzTWVhVWs?oc=5",
+          "source": "Yahoo!ニュース",
+          "date": "2026-10-22T07:00:00+00:00"
+        },
+        {
+          "title": "マンUが内部分裂の危機 戦術に選手が苦言…主将が吐露「監督とスタッフが見極めるべきことだ」 | フットボールゾーン - (2)",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS0hRX09Ud2V5QjVPdC1JZTN3cGU2bnhDUmV6czZEb1FGX1dhNnYyZWVfMlRHWVJiUk81a2d3cEt4ZVZDN3UtaUlXd3Y5d3NSakNEbEZsd242NUcwOThCdzFGYnFoY2YzOUswa0pmZE9uVXpfcEhKSVNmdEhVNXN4bFZQZG93ZWVpYzczQVQ0cVN5QnRDMDRMTGNrQ3RPZlZaNHZfeHFrNXQ?oc=5",
+          "source": "FOOTBALL ZONE",
+          "date": "2026-10-22T07:00:00+00:00"
+        },
+        {
+          "title": "「スタッフが決めたこと」CLで大敗のユナイテッド、中心選手が戦術に不満を吐露…監督は“選手が走らなきゃ勝てない”と反論",
+          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1GdmNoWmlLdHAwaWRrQTY1WlRIN0I2LXprRnpEckdEbVhzNW5tU1ZSR2NtQnBEbGJPUW9JVy1ydjI?oc=5",
+          "source": "Qoly",
+          "date": "2026-10-22T07:00:00+00:00"
+        },
+        {
+          "title": "マンUが内部分裂の危機 戦術に選手が苦言…主将が吐露「監督とスタッフが見極めるべきことだ」",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ERnJQcGo0OC1uTzVXMHAzRkhSaFpxSXpxeUZBRWVDZ1Vic1lHeTNmb0k4QjJWSFMyUFFjZUl4RGI3SlJZWGV3XzlBdmV3b0tHYUZfbWZuczg0dDRmN1ZB?oc=5",
+          "source": "ライブドアニュース",
+          "date": "2026-10-22T07:00:00+00:00"
+        },
+        {
+          "title": "マンU主将B・フェルナンデスがキャリック監督の守備戦術に苦言を呈す (2026年10月22日掲載)",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Wc2NEenRUNExHSS0xU3h1QnVZVDNjY09YSVM0N1hxQnVZRkhkMmh4YU4yeWVrS0FxRVVvNHo4TE8xRTZxMEM3eHNBall2REVlVUZMTXF2V1ctOU5jSkE?oc=5",
+          "source": "ライブドアニュース",
+          "date": "2026-10-22T07:00:00+00:00"
+        },
+        {
+          "title": "コモに4失点惨敗のマンU、B・フェルナンデスはチーム戦術を批判か「これはスタッフの判断だ」",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5pYW14eDEyc3hvTGlYV3puamJrS2NmZWNtLWVlMnJfcUkwbUI4RWVCRUZKUVk1Ml92aHZsbnNnR2JuXzRiS2RoZEVYejJRbFpRQjlxMUVMcUtKMFdZWWF5MkdCZWlJMW5VRmE4?oc=5",
+          "source": "theWORLD（ザ・ワールド）",
+          "date": "2026-10-22T07:00:00+00:00"
+        },
+        {
+          "title": "マンU、なぜプレスをかけなかったのか？主将ブルーノ・フェルナンデスが戦術に不満「コーチ陣の決定だ」",
+          "url": "https://news.google.com/rss/articles/CBMi8ARBVV95cUxOZkt3WGxZaVVLanF4cEE4bTl0amJGX0tSaDc5bXo3VkJDOExHdl9TeU9GcDNubGRMVVlqN3JHeTZXbmxGdFE4TDRzRmZCbFlYVkNyMVJybHlmTUV5eE1TTnJ3UFd5TXpYYW5EUmZrZGNlYjlMOENJcHBhYVNDdzlMSG5EN2JLUWNIZkVrcFlLYTJOdkc5N3JtOWQ0dVFyaGdNYWoxWEJOdmFsSVZFRFRBQmlGMjBVYzFYY1Y4akJXTXF0MDZfdXhZcUFEZlRjVFAtX1oyTG93YThGVTBGTmM3MndTNGFGUEE0LW5TM0NnZkg5cjdrMXV5V2RIZVRmc0ZsX1NnTWprUG16ay1hTXprMG1XWGdUbHhQeDR0LWRPeDFqYVhuTVRFY0syRjRTbUdPaEtfMnlzOGctOE9SV3ZST3BYUDRsSlMyYnpGenV3d2lYVmhkLXpyVEJyakh0SmQ3SVo2V3hEM3R1bG9MVlBXNk1WZFVDNHQtNjUzOF9rYTNzZ1hxb0pUaEp2cURUdktOS0Y4blF4QUZRNUlHeHJfZVhnX3NnR3YxcHZXcW1VNldYbmNCVUVoTUxHOFFJaEtqNmc4TDNqRTBhcGE2SjZxUFgzWkdqZ1hSWVE3YU1oczBnQlBfTGpwNFVtLUNRNzU5c2VJSXQ3ekFPdUNQTWs4cV95NnA0b05pUkx6OUExYTFiY3hsVkdnSVFueHp0V1VTMTYtaE9iVVlDZ2ExaHhqOExNVEJjLTZGTEoxV05pVFp3cUQ2WURXckotMGw4RHc4VkM1dnQ5TXJqcF92YjR5NndDR3ZiSjdaT0hxRVhwbXc?oc=5",
+          "source": "FanPiece",
+          "date": "2026-10-22T07:00:00+00:00"
+        },
+        {
+          "title": "Breaking down Man Utd's tactics after Fernandes' criticism",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SYU0wdExMZU5yc2gtamZaMmc0NzJQZ0JaNzE0RU0tZ2pVNHFmZWhLME5YazVLSlNNTi0wdUs1amZrWUZyMVBRSzFnb2RCRjhod2hMMTlZVGlScURMQmlHa0xXR3JrQlFNSVBz?oc=5",
+          "source": "BBC",
+          "date": "2026-10-22T07:00:00+00:00"
+        },
+        {
+          "title": "Manchester United: Jamie Carragher calls out Bruno Fernandes for questioning Michael Carrick's tactics in 4-1 Como defeat",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNUnp0MTFndWxJdGhwNkVaT1pabnh2Rm1uZnhyM1o3WGZqb1hvWGVpWG91TGpRTm9tM2dCZUFrZEFGQ1FwVXBHcHhBVWY2UnBiMVFneUxXRkV5d1FEMnFNLXAwLWFSVWUwLVNYd3JQRHMzVDRvZmUzOGxYV1JXNnRBcWFZbEYyc2ZtaVdGbXBPWHpQeWczbEN6eUUxVHpRQ3lEUW9NVGpabzJWXzZlYTFSUmQtSkd1NGhOYy1lcVdieWtPYUg2Tjd5eU5vU3hIUUpxdzl4NjVZU084b3lfVTlvVmVFOWFoV191dGd2LU9LTUhSemRUcnVrNmg2QmQ?oc=5",
+          "source": "Sky Sports",
+          "date": "2026-10-22T07:00:00+00:00"
+        },
+        {
+          "title": "Man Utd boss Michael Carrick and captain Bruno Fernandes clash over tactics in Como defeat - but who was right?",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWXlQMDJCcHNaZzZQb095M1VQVlQ1M2VtZFkxTFNEMEZDcU95aG10RHZvclc5MzNDZVVhWVA0c0QyVXZ5YXBRUWtiMHBjRWpOdHZLRUZCdWZFRHRCcXFCS3JzdU9HWnpJNkZ4YjhicURUNnpnbF94M0o0NVhpQTAtN3c5Yl8xbHBlNG9RZjFob2hfdWxnTUdTcHN2R3ExUXZ4UEd6ZVFTeEk2ano1UW1PYUYtZFVCcmhmbTZJZmpCQ1FiV1FNWUFGT3BneDdGQU1JZGJ2TGpaSWdkLU02QklfeloxQkdOemI4U0lfZjV3?oc=5",
+          "source": "Sky Sports",
+          "date": "2026-10-22T07:00:00+00:00"
+        },
+        {
+          "title": "コモ対マンチェスター・ユナイテッドの戦術分析：パスが試合を操り、ファブレガスがキャリックを圧倒",
+          "url": "https://news.google.com/rss/articles/CBMi5AVBVV95cUxNMkVkeVFoOUFTSHFxcWtLaEZiSDNMMnNvUEJ1TDdTN0pGYmFMaXlaN3JwRTBmYU9uZ1ZsYmE1WGpKeXFnTk1qWWRyb2cwUFF0M2VzNy02NHkxU1g1bjNHbmQtc1J5T3RGOFh4eEhiVkdBWlBvV2xJUXBMSTdFNndZMkV3QU1IbDQ0Qy1jTmN3Skd4M3YtYVhkRmkwaUdTUmtQekJfS2tmNndqcFNRdFlDNFRaeGw2b2luT3AwTkNwRGZJN0hPWVVwUXFhYUxkZzROQktDbWlpLWNnS1FYdFdaaTVJU3luVmxwM1ZNVVZzTVVnMFBqb1g4VjN2RUQza2JXS0FaVkY5eW02dC1WdmhORVZNNW80SlBBSU5ISW0ycFFPb3RDVXRJUHZCNktKQldMa0l0dW9lN1JDblZpY3VwZmcwVmVISE5BTExLNW52QzFCMGR3Qzh4MjlDbGFJWDJ4Smp5Ym1OdDhIdkduMGZ0cE4wamNCUlVTOXlUc29iLTR4VmpaMVFMaF91d3dzYmRqRm1WYzAxYTFFV0RmYlFON3hMUDlrb28tRU1LV2JxQkdhT2g1UUtMaVRfLTNaYTMzYmdsNndCanFMY05lcEJnRlZYa1JPc2pENnVQeVFTaFhQdUhpcWh4SUlFX2JPVkY0OHB2NlNDUW1Uck00MlJGMHFtZUw5YVVkZnFnclR0Wk41NXI5Vlp5ektMQ0xBb293bjFfU3ljWGRoNWFpdVJPUnd6VldKeTZLOHcyX0pkVEhWeG5hMTJmTnFGRGV4R0xDSkk1ZmhjM0labk8zekRtUWdDQlRPRGtxdUZzbGpfMXItbGM3QzQ4SUEyVmliX2RrbGNaQnQ1UzJoUnpLZW1kWWY5aEJQaUFoci1YZTU3cVI2U05wNURuaWMwQzZfdC1Gd1ZYcGpvMjBRWU9va0t6c1Y2NWlvZGFpZXdDYkR6X2g2LVZfcmM4bURjcXl2RHlxbVdFcA?oc=5",
+          "source": "Goal.com",
+          "date": "2026-10-21T07:00:00+00:00"
+        },
+        {
+          "title": "「勇敢さが足りない！」ブルーノ・フェルナンデス、マンチェスター・ユナイテッドがコモに屈辱的な敗北を喫した後、マイケル・キャリックの戦術に疑問",
+          "url": "https://news.google.com/rss/articles/CBMijwdBVV95cUxQd1luTHVxdlV4Vk9rUVZ1MEVZa1hrSnV6Tjd0UEMwNUp5NldIQWRFLU80NjJOYmtTaDlRZkdPNlo1OHZBcDZWMnlrSWJLMno0VzBPaTEyQXdoRTA4dDBaYmJMQkxfc1RoZlpKZWlUbGR2M0dtTUJ4TGJKOWJ1WUU2dDlMbm9jWmM3QXhsLXRpUDlkTF9DbFBNcUN4V2tLYmR1OEpaYmFzV1U4VXNlRC1HNDZvdnhBWjh4Q2RQM21lWVNsdkxVOG04SVVGNnNWUThXalJkRURQRVpPai1vYkszTDhZd0FlLUZlQXN1TzFvdnhKWFEtOTRWLWFUbWthQURaTFdEVk1OV1FPMmJHT181Y0xtcEdCbFZNclZfY3E3cGxwNHBuM0dyRURld1ZJSXpWbGVWbVlHdzExWGprVkoyOHpLN3lBV1cyRVZzRkhNRFhmUzQ4aDFQbUE3MDNHOER5WmhEclMySUR1dnQwSDl4eUVHdGYxWW1taVB1M1pURGo2elU4R0tTdUZkVWZlOVRxQ0g2NFlvWDlNUVlpWlBJd1E5bzdjMUVSam9FdExkUjdzcGh2dk01TldTN0F2UHJ3RmNTc0Y3NHhOZnBSZmlRUUVTelVTSE12U2dXeXo1SjNDT1Z1ZG5TREEyWFpOUThxc3ZNWlJWVFVEY1lWbkhWZ3ExVGl2a0JGVEhSS1RtZVB1YzNYN0hWblljY091ckhiN0t3clpEaEdVaUt2a3RSVTQ3LW9LMjI1TlBHYVJnd3d6OW52eTFqZEpDaG9sUlRpeWZXbWJ3dXo1enFWZTdzcGtMZ3BYTlJvcnlNUHdlTXphOTVYbjBPdHp6aVF5QW81TkZUOXdQRlA2ZGhpelRlNDV2dTJ1SUItc3Q1dmRncDBIRkpHYktlWGp5TWstemVfckVfRVI5ZXhYc1AtUjBXLTd5RnpsMjROTFV5SlhxWDhwUVotMEZmaFIzWFlqYnVXVks1Y1dKQ1JVUDAxNlBiVl84NGs3YlJ3cDFtcTViQ21tSmI3Y1JOYUdGS2J4VjNzd0h4OE10VTJBSWF3VkNSUDJpbWw0MXQ5Z3ZpQWxtaThiS09SWm8wTk1mMDJ4d0hfS1dPWHdxSFppQ2ZVWmRCSExtZ1V3V3NGazR6QlNqQ0YzMGNhWGQ3TXhvb2kza0l1ckZTcnZMYVFUckc1Tzd6WkJTV1dBNV91VXZjSXNrMA?oc=5",
+          "source": "Goal.com",
+          "date": "2026-10-21T07:00:00+00:00"
+        },
+        {
+          "title": "‘Angry’ Carrick on the brink as Fernandes hits out at Manchester United tactics",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPY05Ebkg1aE55WHpQMHhIUEpOWkhPN1RwXzhUZ1JkYzVUUTYtcDN1VE9KaVBHZGpLcnJaU1lnTWhsZklFRzQ0d3gxOWxPcERLU01OZmp0dmczRF9WWWU3YzNRWllvcXExNE1Ebi15R0dHNm9WMGxvUGhva09DcDRjZHlIMEZ1emRna0wwalItTFBQakVyVENFYlRUSEZmZEZWeF9lQ1l5UjhZbDIyeXBwazFvYmdYcklNNFp6Uw?oc=5",
+          "source": "The Guardian",
+          "date": "2026-10-21T07:00:00+00:00"
+        },
+        {
+          "title": "Man United captain Fernandes slams Carrick’s tactics after Como hammering",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR2dNLXZHQnhQUU5jYm5VUmw5VjQtUHp1MkpyakxjcUdNQXpPS2t5cVJ2TjVFY3l1a2I2MXVjLV9nbnlmRzhNSzFBSDJvTDZaNExKVDJyZlAzRVhxVUZ0bTR5WDdIYU9zYXZpd0UyX0ZNVWllVVlxbm43OGdGd3dqZ0RGNnR3YjFQUHRhNXFNLW9DWHlLREhKWDNTOGxMNUZ2WThCT29VSWREdHZ0RFB5elJKQWdsR2PSAbwBQVVfeXFMTVQ2ajg0Y2ctTHc1MEI3Zm4yV1BIRlNGRkxLRlVtN2NfMFQtR2lmT2pWc3h0LUtlQkNKaTE5TVhwWEpPdk9OSWcxc2NKbnR0MVVIQkpFaGFNS0daOFJ6Z3N2QVJBWDR0UnZqQ1FwRmoySFRHVGI1UHJlRGNpTjZMelluNURaZkNLMnFvelVfSEVubUJhdk9OSWM5TVR2Q1pDYUpLM2VjRW9WemozaDJJNWVzRHJrNTZTNlRyVFM?oc=5",
+          "source": "Al Jazeera",
+          "date": "2026-10-21T07:00:00+00:00"
+        },
+        {
+          "title": "Carrick fires back at Fernandes after Man Utd tactics criticism",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN3FZSzZxTmtsblVZYUlCZlNNekJxOGF2M1lVRkwwMDBJNjdTclI5U21KdnNkM2YtZE55Z2R4MFVJZmFjSXgyX21vNDJPWEtsNjZBMlJDSll4RTk3eWxSQ1ZPTkJad01JS1VoUkRYQm91OVN6Mm9Ud0RwbHI5MEVERXhBaExJRm1xQkRfcjFxdlNoLXRkTnFCNFdibnZvZHlaazBVbThJM21qTkR1?oc=5",
+          "source": "London Evening Standard",
+          "date": "2026-10-21T07:00:00+00:00"
+        },
+        {
+          "title": "Fernandes criticises Carrick tactics as sack looms for Man Utd boss",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOGtYY3plbHQ4bXRscXU2WHRzNzh0d2Uya3lUX3QzR1hTbVBtRVhlcERLcHBaNFN4UnhLWHhXWkRkdDh6Q05PR0JWY21OazNiOFAwdTdVOWhWVjlkRTBKZ3RvOU8tQldwSEhaZmJub2plUkZabjltdnlDT3hNMFo2Y2Flc3ZBOUtucnNxb3drLV9iR0xmUGVOZFlsTm1JZlNBUVJDSWppRDI?oc=5",
+          "source": "London Evening Standard",
+          "date": "2026-10-21T07:00:00+00:00"
+        },
+        {
+          "title": "Bruno Fernandes Warned He ‘Cannot Question' Michael Carrick's Man United Tactics",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUU1qVWFIZ0JoYnlXTktQYjVmOEdJUUU3UXFDV1V1enlnWnhuV2ZpTHdIQm92blUxMy1UdUFoeFpmSFAtbDhoS1dCOHMyNHRKdkU2LS13dmcxam5lUmJDLVU0YmpaaTQtLTZRZnVtZ1EyRlVoTXJoWDJrTkprYjRqLXhSeGZ3MWJ0UHFLZG1TWQ?oc=5",
+          "source": "Yahoo Sports",
+          "date": "2026-10-21T07:00:00+00:00"
+        },
+        {
+          "title": "Bruno Fernandes points out flaw in Manchester United tactics vs Como - 'That's on the manager'",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMVA3ZjY0Skc3ejhpVjEyU0lOMUs5RVU0RlNHeUN0cUw2a3dCSXJ3bDlHaERMNWZWaFI1aTRMaDZYV04tc3M1RWxQWUpmcGhvRkN2VnNNbTVqcWxURjR4QUpCVTBTRS1QcUR6Q2Zjb2pkOW9TOWdJdWJpSVFvd3podGgzX1BxZ0hxc1VQbWRCODVqY3JkMWVhcVV0c9IBoAFBVV95cUxQLVNna0FLN3NjaHBOYUlDblNMVEdHSEN3WWdralJaT0hnc0I1dXhRVUF4RDJkanZMd21qeUdQWHcyREtnejVMX0w5TjE4WFA5bW9OaVB0Sk9fQlZJSC1hZmpfZmY4SnVfbEY4bmpFVGVkQU1LY1doUXlMdXVJdXY1SVRDSGRsZlNSSF92VFdZOWN2QTBJX2dZWml6dGRtT0Fv?oc=5",
+          "source": "Manchester Evening News",
+          "date": "2026-10-21T07:00:00+00:00"
+        },
+        {
+          "title": "Man Utd Tactics Under Carrick: Why United Are Struggling",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeFI4WTlQYzZMVk1RWXFXM1lqZFc3cUtBWWN3WXJDdUFucXByVzZvSUxXQzJ1NGJwelNJcEhhZlQ3ajNwWDJ1bjk2TzRrVFgtRk5vYXNVa3BWVXdzSnF1X3poWUVqc1FsNy00aHF0NjJPWmlzSTZSOVFYbW9udnhtZi1UUjh1MEViaUlXTg?oc=5",
+          "source": "The False 9",
+          "date": "2026-10-13T07:00:00+00:00"
+        },
+        {
+          "title": "Five Tactical Changes Carrick Must Make at Man Utd",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8wUFdod3ZVdjAxcGFfcFEtaVFFRFVQQ192OXNjM3RLc251UFpuazdEckVwZ2hOWTN4TEhwMDFnYlhGcGdZajJVNENaeXh3bzdTU3phVkQzX243R1BydjAtd2JDb092eXJ0dEpfNU54OU0zRG9aYzhZUHJRMlI?oc=5",
+          "source": "The False 9",
+          "date": "2026-10-12T07:00:00+00:00"
+        },
+        {
+          "title": "マンU、キャリックの戦術はなぜ前から奪えない？ ハイブロック採用率はプレミア最多42％も、高い位置でのボール奪取は15位",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UMWowNTQ4NVFkVjRTQ2tRNm04dFhTUWs0VWNqU0VKZGtvY0dGa3Z4VERVSmk4d1pwSFJCMlJLemhJekJNYjU5dWlWVHVWdTRrX0gxQmxVcUtyazhFU0lWQWpWSWFVUGxqaEN2MjhZZjF5M2gyQ0pHRnVJbUpHZ2M?oc=5",
+          "source": "Yahoo!ニュース",
+          "date": "2026-10-09T07:00:00+00:00"
+        },
+        {
+          "title": "マンU、キャリックの戦術はなぜ前から奪えない？ ハイブロック採用率はプレミア最多42％も、高い位置でのボール奪取は15位",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95OGgyR19jcDFDWHc4OUh4T1QyMGxqcHZkaFhuY3k5ajc5ZWgwQldoY0QyOWpVN2FzZlVEeXRXNjlVcS1HZjBhZERwMHdBeVE4MXAtejVZa3I2Q1Y3LXFENENNZnY?oc=5",
+          "source": "フットボールチャンネル",
+          "date": "2026-10-09T07:00:00+00:00"
+        },
+        {
+          "title": "Women's Super League: Analysis of Man Utd's tactics under new boss Eva Olid",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iWTR4azl5dzhlMkxDS2o5YTNmVlNRd0NFOXFMUjBLTXZRV21rZzhzZzhlaXRNWWpRdGk2U3l5aTc0NmFUU3hPR2JqMGVvRHZ5Y3NSZ1A5eVVVNW93VHJxakZJWm1RX3JJWUhR?oc=5",
+          "source": "BBC",
+          "date": "2026-09-26T07:00:00+00:00"
+        },
+        {
+          "title": "「見事な攻撃」 マイケル・オーウェンがマイケル・キャリックの戦術的アプローチを評価、「マンチェスター・ユナイテッドの移籍『手術』は機能した」が、さらなる補強が必要だと指摘",
+          "url": "https://news.google.com/rss/articles/CBMi9whBVV95cUxPUnNpTDZVV2lKSHRaY0VWWGp1SThKUmFFMk1YWHRJTnlnV3dGVldTYllNZzlyY0xxSzVrTmZVNHJuOGwxSjVzOWJFdGN2dUJPbVByZl95dWJrS25xanRlamp2UHZ0ZVVCbU8wLUgzeElqNGdfaFdfT0toY0QzYXhsVldkRGZGR0dxWjA1QUJNRzJBeVBnVVV5QXNlbVNneldsTHZmdmo4Mk12MEVXR3FsaFlINUt6TS1XVVpWb21aUEVkdmtlM01zM0o2QVlaMEtZcVh5RjZLeWtVcnpXaVhjOWRmalFhTkY3TlR1YXdnRjJ6SnR0WV9JcXhrcDFnTi1BLWx0M2xtVFJKcktiZDBHYzlSQ3REWjRkNl9aMmlCdFdfQ3g3VzRFU1J1MFI3cGtPYXZiSUxyQmRLeVl4UlgzUzNUWERubEozVG5Fbk9qLVNYcUhTSWxzZEVianRCX2o5c2NPamtkYU0yLTNXdkF6WjlxdWNVSDNuTHdsT3I4RzZBV0x4QzJMUk9uekdrcF84cGc3d1VoRFpfUkFkbFlWNVZGeFRxWHpFendMOUh0Qlk0NGVlRmlhOVRJcEMwNERsbUQ3VjBlVWppUUtLeFFydHR1YkpneExBR2N4ZTBLNlVXSWlqU0hGTTNTX0VzT3ZCLW00aFh1SUJrLWxlTUR5LTVoMUpYQ0NoSzRPTEFzSzE2RFhLc3ZncG1ob0pBcHZ4RU8xTVo4a0Npb05yNVhKdk5WX2M5OUtBVlV6cEhoeWhUV2ZKdVc0M290MXJHay1yX3VCalhFYXlWY0tJM2tKdlpBaUdJX1gzR1ZqWmp0TC1DYkFXQ3lua29GcUVhTFEwSW5CaURUZHMyNW1NWWVyOUhET1hUalVRRnRlZ3pYS2JzeV91M1VOWjJrWUJ6UllkNE5maGpKYk5LZnpmZG5yUEMwWGpKczUwbVFKYU9ZQmZnMXd1a1ozcW1Cai1SM2NFRWxGUkthT1JNaW80YjNOU2plWGIybm54Y0ExRlotaXpnRkEzWFlaX2tOSVhhV296RG1aTUN6WkNPT2N3eW13Y2lrenpFc0NEQXdtN01weHNrSDFnNXB1SV9uMG1JcDlvY1NKM19yYmVTRXpiMXo0UXBxWlB6Wm5FWWhzT1otUWlDOUJBZHFhdW5XNUZtTm9kbTg4anptSXo4Qy1SVEU2ZnJxR2FSLUN1UVF4dXNmN202bHlGM3NJN2JTYTVXeGlzYVRvdWo0LTczZ3VERjZUamV6bVNEbkVnNXN1LUhkMnlxUGk4QV9nOHdDa1Foal9HYTlYNkI4X3hhMjNiNnNpT3pWOVZLbXAyUXUzb0RxZVVBWFNwQUs4cEFtWFN6WVB2VGM0RHJFZDAxTUZZT05JdlZhZmVIaE1QSXVRUzlyOFVWNlhHSFFTWGpJVXpTNXhVM0VDN09sNDcwbUhPcjF2UDZYMVJpUFFOLXZhSTdBZkE2akRYVF9YNG9zR01RUlZRbFcza1BXMVJPdkpOVjRRUzZHZTYxeGs?oc=5",
+          "source": "Goal.com",
+          "date": "2026-09-24T07:00:00+00:00"
+        },
+        {
+          "title": "「彼にはつらいことだ！」 マンチェスター・ユナイテッドのマイケル・キャリック監督、物議を醸す戦術実験でマテウス・クーニャを“破壊している”と警告される",
+          "url": "https://news.google.com/rss/articles/CBMi1wdBVV95cUxNbDBaaGd0QjdZamtUdE9keWZuRjBKT3hmaVRNNFEyUFFUYjA5YktHbU9EOE52QzZKSTFwbTlzWnZhNjI5elBNQ1QzdGFZaW55WEFQT2dMTEswZVMySkdfZ193R0dPWTdPTXFiVktxaGxnRnNGREpXWmRwZDczbDA0VnpTZ01qOXBUMnlCUDYtdlgyUnQ4Nl83Y0tWSzZSU1JwNlJhcm9SUFZOTU9CQWRDSVg0OUNTdk1KazlkSGM5LU5fYzlrOGN5ZGR0NXNwXzN5LThyR1VjZTdTTllhZGMydi12cDhka0ROa0xiVmw3UDdwRlpNMTF6MkdTa3dVTmJUbVlLX1hnZ2xJNUpkZU1zaEJLOGpoZFloYXlZRlVXbThTTldEVjhoLVlGVnN2Y29KM3ZkY0RCbU5wc0pGMzRqU3lJdDc4SWFnTjVHaUx6TGVqNUlpbE4wU3R1dUk2YjRpeVA4STNJNDFNM0R3NUotVjlRYW5ZWFRjRXV5UUhIVzIya3NldGtQbER2bkhVdnNSWnJaVVRhc2lnT0lqdUUwRUxGOG5LXzZaVUpsRkE5VDZ6ZF9Sd2tfU3JiWlUtc0k2Q3J0amd1MEZkdkgydjZMdFE1azd5a0d0Y1JaejlwV195VnUxRFJnTGFXYlp2aS1CR3BDX294UkR1TDJTNnRwS29RUE1JRnZRY0h4ak1VZGd0UUZndXZrejlpU2VpN2tvYzZLMUxLd3BQUDhZTElvR2JqeWRYZzRTbmZFNFVqU2ZhQzBzNTg2cmE0MkVIeERDWWc1MlQzNWxBZ0p1OWZkUTlIVlRwYV9HZ1Q5MlR5Y0g1dG9yU1RCX28zU28ydVpQTzczdlJwb081RVRPSFpmUEhIQXdqcVU5U1ZtRE9mN1RpXzNQWVhxS3QwdkwxRS0zeFloVDZmaEF6LWFoemZpM3hwWWl5RG5BMWpuaV9iS0FWTW92VGt3ZFhSY3hyUk9WSUtyTjJLSTcwUFZWWHNOTEVuLWhBU2JCVmYwYXIyQ0prYTh1cnlGNVJNdmdCZUhIczY1NXpiZGloZFk3RG90M2lQZkhmamdqR29heHgzSzVvckFSaDBXc1FreUVmaEVsSU8xVm1iZFYxZEZidGVhcG9STFExdkNzU0k2azZNUFdCYXZqYUFYZkJjbE40UTl5Wjh5a0w5NzhWQ2tnMGJ0Z25QaUQwRnpzS2N0X2RZWmJJUW1oRUJSUGNqMG5ON09wVk95NEU2ZzVaUTBnNEEzOW43d3pwSWROcjRRSzUxS1FuYVhDUUNzMmtxSmN0Vkx5YXRoeklxQQ?oc=5",
+          "source": "Goal.com",
+          "date": "2026-09-23T07:00:00+00:00"
+        },
+        {
+          "title": "Michael Carrick warned his Man Utd tactics are 'killing' £62m star",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNX2RVUE41RlJucFpkVE5VQk1OcHZsSjR1bXRoLTNrM3pCZDY1Z0RpMEtfZFVIaENHb01WZTBCdWpEUTRKSDZYaF9aVEI4Z1FyTlhYeVpYMUw1WlN3SnZBUGVWRk5CMElYbTU0aHFaNER0cnZjQXoySlpQTnpnSWNvcU9IVWNXaHg1WHU0dV8xUTlCeDJoN3Q2c1JxZGnSAaIBQVVfeXFMT3JmVmVsNnYyX3d5cUg4R0V0dEdsU1dENjk3eGVHRUJmcmNWZmNUcW9YSHV6TTdaTTh4LWxsZENvdHpHU1UtRkpFLTNNcTdGbmZTQ3ZPS1pKMXEyZTNOU3JidzFGYUxfYlk2cFhfbUZuMVFjR1l5V2RzUnNLZUlLSy1zY3V0MThkMWY2cjFLa3MxWHRIVEhmM2wtOVlyeWYzSUVR?oc=5",
+          "source": "Metro.co.uk",
+          "date": "2026-09-23T07:00:00+00:00"
+        },
+        {
+          "title": "ACミランのルベン・アモリム監督、マンチェスター・ユナイテッドでの戦術的ミスを認め、フォーメーション変更を約束",
+          "url": "https://news.google.com/rss/articles/CBMiqwVBVV95cUxNblJHYUlxRWVmZjhDeUdRaVRsbW5LT1FvRkRRMWduX1hBcUxtZjEzZ0lwZjBjVlpKY0pkY21Wa1JWZnYzdmZ5cUUteG5DRHVnR2xUU0pZOXJmVWFhZ05FQlRuWC12WXlVVHZrNUNMVkhRelB6RllQM0N4M2RsZm03amhraEFBQ2NRRjlvR1A4ZmxyMS01U25DZDlHUjhlSHlBMFA0U251RzhZektlLTczdlVKSDhNdndQd3ctNzdWelZGTlk5eDljOVMxMFNqekVydFQyemt3U2tuWThZNHktTUNOZUVxb0lRc3JNZzhLaGVLSXZQUk5LUFpHdzlsMVphalJhNHJiTVI2TVpESVZIZTZBcUlDOVBpTW1iRlpsakpWZFpabFptMkJ3eWhmdm9yYkVSYkVpemhCSlpkWEJ5R1N6c3JMMDZhNEJ2TDkzN0VvRGJlV0lkNmROUElLXzBZU1haT3ZKTEV5S0ZVcVkxeTI4aXo0MkJiY2txZUR0SjRnc2FMS3h4TXlEdURNdHFzTTNESVZUd2MwQjVDSzBaeFdPb1VOYWJEVGlYOGxwQ2x5dmVRRUt5b0Zsay12bWdGdVAwdXpFVndaR3hSanM0M1VmRVBxaUE2c0EwbS1aVjNWdEVnVnNEam1GM1dfYjFuYjN1UTlBQWdweWtkWHlVblc4ODNOdE9QUEV2Q1FfUnZ0VVhSWXFVTHkxOWp4MmIydFJISmVhVFFlcjN6b3d0THBEaDJwV1pjRG5uY0c5VERCR0hrd2g1cGdEOUY1ZVViWkxweXdhNU11Zm5xMnlYRW9tRm85VDFKYWgzcWJmVEVIeEstYUU2dmlXYjByTXctZkQyVzNpZUtaMUpDekJfR2tVeVA2UVlpOGV3cDFWb3hwU0VYTjdwWkN3VQ?oc=5",
+          "source": "Goal.com",
+          "date": "2026-09-22T07:00:00+00:00"
+        },
+        {
+          "title": "アーセナル対ユナイテッド徹底解剖！勝敗の分岐点と2026年最新戦術",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DMVh0bmNKNXhPWmttckR5WnpEMkV2UE9rd2U3Tl9OVGtEenh2WnpYSmFKNlZMc012YV9fN1VJcWs4S1V1VTdLNE15WHBybU0tOHduVFJaNHhaSkdkMEpDcmViaVlQSU82dXBQOGI5N0U?oc=5",
+          "source": "elhuyar.eus",
+          "date": "2026-09-20T07:00:00+00:00"
+        },
+        {
+          "title": "マンU対チェルシー激突の真相！2026年最新戦術と巨額マネーの全貌",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tZmg5UEIzZ2FqTEpaa0J6SHB3eWFad0VuNS1uZFEyT3p4YTZPdExxbmZjaFRDdTVlbzFuSmNsbzFURU1HUExwVDJNQ082ZFRwTmxrY2otZm9MdW1pNjN3MzlVa2FLU1JSOGtPeg?oc=5",
+          "source": "elhuyar.eus",
+          "date": "2026-09-19T07:00:00+00:00"
+        },
+        {
+          "title": "マンU黄金期のフォーメーション徹底解剖！歴代最強スタメンと戦術の真相",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBkWGx2NlBTWTVJNTBCR2RCcF9Kb19HN094MUxqeFR0a2JvLVZIbFFoRkh6RzAyRmw0Y29fUEl6NVpqb1FTRDVLMXJ4Q1ZhaUU3S2VHaFduMUFrXzctN0x1bUNubXRxZW5BRUNHUTZYYw?oc=5",
+          "source": "elhuyar.eus",
+          "date": "2026-09-19T07:00:00+00:00"
+        },
+        {
+          "title": "「マイケル・キャリックにとって危険だ！」 元マンチェスター・ユナイテッドのスターが、歴史的崩壊を受けて遅い戦術を痛烈批判",
+          "url": "https://news.google.com/rss/articles/CBMiogZBVV95cUxOTGQwOEk5MlVzOHBRTHVrVGdZZlZ1SE9OeG50ajVVemtLUVVuUmxXU2FycUVHb2NYRmxlRDA4NTUzajFYMW1xV19yWU9fT213RTlham5oclh6SDBtbFBiTTlTU2t0aC12TVA0ZWZ5cnJuODRpZFRRLVJ6WUVlcDJQRkNaTWFKa3B0d0RqaUdYUVpfcEpXc2tranBKMnNPaTN4WjQ5M0lFdkNMTzJvTGw1Wk0zQXo0TkxtOEJPVFlyVEU4ZlhOdWk2R29pZEdzLWQ3el9fODE3VGNnR2ZyTHZtTDlfU0NwWHhzTlhHRGhwR1UzRG00Zmh1RFltczFfLVVFaHVUTy1RT2pOclJUM0hqR1ZScktXLXZKT0VLbUNKZXEwanpncmRJT3k0dXBpUEh1YVN0NzIyNHlTSmxPdThzTTZWS1dVcE81WEpWb2RUd21FVVBCUU5qWVRmUktnUzlsUFhPRXlKUllrNFBnSlhhb2dSd3lhSXZJcHRudDk1YWN2aWEzdDE5di00clJ5VnBjNUFyNzFWdHFzNTZNYjlqQjJScXN1cUtuQmpIV2VRU1luM2VaN0VaSEFCMWF5cW96am5lNjl4R1JVVlRXZ2NrYURKVHZZSkREMjVROE05ZjY4NVRoQ0tTcHdBeHl4eno1OWxzQTI2a3NKSHBhOTk3bmRUUWNTeW5ndDdGaFR2OVptVlhtNEQ2VU9yVEp5YVlNQlMzODJuYW9LZHVkZ0dxS1FmcmxhMXlndDJPWWFQVlVXcTJsZ2Uybnl1LThtSVpwcFQ0YzBiRUtoNG9pOHRiQk1OZWFGcVFWVW43aG9VS1dtX1hkWHBvZlZZTWZQRUdoVHpBdzZyb3Z4Zy1qMUo5N0lXYzlVM3kxOGREc0F2S0RBQ3VjYWRTb2tjcUFnVVR5ak1kUlE0VDc4NzFyaTFIc1J1ak5wek5QclVrbUd1Q3dFSHZSWXhhLV82ZlI3dU0xTmhHaXpJaDNxVkNaLXRWWkEyaUtCNGpNWU5kTGNqWEFSYkdLNnk3OEY4NmZrWVE3M0wyd1JjM3ZaSUVMbVhfNHhn?oc=5",
+          "source": "Goal.com",
+          "date": "2026-09-18T07:00:00+00:00"
+        },
+        {
+          "title": "ミランでもアモリム戦術が浸透するまでに時間がかかる？ マンUでは待っても成果に繋がらなかったが……「ほんの数ヶ月で全てを期待される」（theWORLD（ザ・ワールドWeb））",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsUDJ3MlFhcmJFWjZybHJGXy1jb2t5R2Rvc1NlUnRFTXY5S0h2aUdfbEh4Q0VVYUx0a2hFMkdIczVsUmlEUkpXSFNFQW9vOXZnWlg4aUl4TmtRa05CbjdEc3p3aVl5U0NkeGJpbjBXbTdXSEZ0UnZsNUNpcGdGcEk?oc=5",
+          "source": "Yahoo!ニュース",
+          "date": "2026-09-18T07:00:00+00:00"
+        },
+        {
+          "title": "マンU、10人のマンCにも勝てず……英紙が指摘したキャリック監督の「戦術変更の遅れ」 前線の空白が招いたマンチェスター・ダービー惨敗 (theWORLD（ザ・ワールドWeb）)",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbVB0b1dRdlRmVm5WMVRfREtraDRSNk9ST1NraXNOMUZsYUdCNXU0YjBoZHVybkRneEc2d2o5X00zbHFIZXJnX1VUc0k4bmlYR3RCdElONHByUTlYNk1SR2lpc0w0MU9uMkZLZjZiSy1iazlITFRNM2h5U1pfV3p2M3ZEWW9iS1oxY1BvQnBB?oc=5",
+          "source": "Yahoo!ニュース",
+          "date": "2026-09-15T07:00:00+00:00"
+        },
+        {
+          "title": "マンU、10人のマンCにも勝てず……英紙が指摘したキャリック監督の「戦術変更の遅れ」 前線の空白が招いたマンチェスター・ダービー惨敗｜theWORLD（ザ・ワールド）｜世界のあらゆるスポーツを楽しもう！",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42VHlmOC0tak9XTmVkWU5mckE1SDg1MjVKcHc1dWZGTE9HX0VmRnU3RUwzdTVjTzdUeTZ3bWV6dWpOeEFENTh4eDNMdkVzRld0Ylg2VmZYWDhoQVFaSkJwWWNWdktLYkxiM3lxRkJkc3M?oc=5",
+          "source": "theWORLD（ザ・ワールド）",
+          "date": "2026-09-15T07:00:00+00:00"
+        },
+        {
+          "title": "Manchester United 0 Manchester City 1: tactical analysis",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTktIbXUwLW10d1N0RUpxRF9jZV9VYmotd3N1T1hWRmhoZkVGUWZYcmlCcDFIM3VHSmQ3dkJ5dXhJX0k0UlJSekJPX2N1eE1yN2NHRXdwVlRzektFbFpnNEVmSXBsZ092b21RcHRPQTlMOHh0WDZHeDBSLWItQTdwMVpjem1zN3M?oc=5",
+          "source": "Coaches' Voice",
+          "date": "2026-09-14T07:00:00+00:00"
+        },
+        {
+          "title": "Eva Olid not planning on changing Man United tactics after winless start",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWHBvMVp4N0tITVp5MkIyQjZfN2VmWl91T2w1MV9kbllJaGFXVVFSUEQzTDlvTWZkT0dIcmJJNHRISFlGcjRXWktEaDlRX2UwMzJuWWcwZXp0WXl0RzlsXzhvYlF1WGZEQjB1ekJwaEZuS0RmY2xkOC02VC1hX0lodWZTTVRIYzBPVFBBbTRsSF9BZEVXaGFoY0NfSDRXMzVaZVNPOUw3b2tvcWgzdk9vTA?oc=5",
+          "source": "ESPN",
+          "date": "2026-09-13T07:00:00+00:00"
+        },
+        {
+          "title": "Manchester United players tell Michael Carrick exact tactical change he must make",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQVB6R0RXQ0xLVGJQdnZONUZjRzhqYy1aZjZXdnItRzlDRENRVzUyNERDQ3JQNXB4cTZpUER3QVJDaHBYeVhSczM4ZnRkaUs5V3FFRl85eVBSeWRnMmJkRDBibVJ4OGdtdjlsekZidElheTNKWGJOTzN3dlhNNzgtS1FwUDY0clpQNFNFcFdvMVNzdHUzd2NSVDR3ZEtpUHBmQVY2M1NOczV4WVh4SXJ2X2pTNFNSN1U?oc=5",
+          "source": "FourFourTwo",
+          "date": "2026-09-09T07:00:00+00:00"
+        },
+        {
+          "title": "Manchester United players tell Michael Carrick exact tactical change he must make",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOa0l5dXgxNHJMWVktdEdXMVppYnVSb0VlZUVNelRpamRjZERxc2h5M1BrMmd5MDAtVk5jLXZEZVBoRXU3WXU2NmtMYjlDbEJoUWtmWXB4aGJEMmpEaHJONHJteGhPbnhmRkdiZkYwdnFJcFExX1pJY2tmUnRTcTlDRjd4eXJmU1Jia1JjMlpqaw?oc=5",
+          "source": "Yahoo",
+          "date": "2026-09-09T07:00:00+00:00"
+        },
+        {
+          "title": "ハル・シティに0対2で予想外の敗北を喫したことで、マンチェスター・ユナイテッドは重大な戦術的ジレンマを露呈した。",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRzc5d2t3LUxOS1ZZRjQ1VVI0UE5oQ3p1dXdjanI2ekJaRmhPaUdJLXRBQV90bDRvbDcyR25rdFNFanZxNi1Pc1JNd2VJaFZuZlBWOGIxajc4alFSLV9LQnlXN01ZVldYY01DbFF5UjZLRVFaTVh1Rm90ZzJGYlA2M3pNR1diQllwbWdMSkI0TG1VdW1VelhqNTYtUlBnNVFDUHB3Q0w2TlJmVUNWSTlwU3ZLbmdZcHM?oc=5",
+          "source": "Vietnam.vn",
+          "date": "2026-08-25T07:00:00+00:00"
+        },
+        {
+          "title": "マンチェスター・ユナイテッドはプレミアリーグ開幕戦でハル・シティ相手に戦術的な弱点を露呈した。",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcjFWR2UyMzBrcU1uaFhWQ3ZuN0dwTms1Mk1SUnFOVGk5VHV2Mkg4MXUzNlRXZVdWSVRHdmJEM1dDWmthV2RJSnk2N1l6STRuMmF2YmVGX1dzQ2ZLN3Z1RGJCT0o0cmFIMEdXM1lkQlBaUEFldEVwZ2liRmtzUUl0MGY4czR4WW9fbTh1X2hsckkwS2xwaDdVLVJjZnp0azJwSjE5ZUxiNW9nV25xNWdSZA?oc=5",
+          "source": "Vietnam.vn",
+          "date": "2026-08-25T07:00:00+00:00"
+        },
+        {
+          "title": "「ルベン・アモリムを真似したわけではない！」 ハル・シティはいかにしてプレミアリーグ復帰戦でマンチェスター・ユナイテッドを2-0で破る戦術的マスタープランを密かに準備したのか",
+          "url": "https://news.google.com/rss/articles/CBMi9ghBVV95cUxNemJXSHBXaGNLcnV5ZFczdGI5Q3otQm0tM09yOWxMakdtZWNiX3VPcWFMYTNKRnJMaWprc2YyV3NiM3BYbVJYVWVvWVJGNkxQQVJySy1WT2dHd19QTkFZWnFaWVdGT1M1end5VTVPRVV4YTBUbm9kZGxJRTAzRFpGYk9RaTlBa3JURGdPbzI5Wk1wNmJPTTMxV2w0elNDd3UyM1IzYjhGVW1ySHJTTFlHQS02a28tT1RaWGNvaVZiaDVXZHJULUxSTF9MaUF0bVFoSVdNX3ktYlk1ZjlIN1Z4b1djU2NMeEt0dUI5eGN3cjlHZzlWYmZaZ2lFRmRrUzJSbXlzakk0UmZHQm1pX3lqdndMQWI3cnNzQ3Y2X0Foa001WEQyVkVqbnZoYlBsWkZ0UGkzSFhDNTY3S1NhT0JIcC1fVUh1NktBNm9vSHd0Y054c2gybUtKUUpYU3ZsSGRZYWxaRk5Nd05Bem9LVUFYQjZycmhqQVRNOEQ5VzVhOVlJbDVoRDR4TDR6RFAzT2xweGl6dzVJOGx3VjI1b2pnSXUxRFZKR3NicGw5VWhMY2RLeHJFOExOYzRrTENRSUtFc1VxR0UzUWt5TlZMaTlqQUZYdjVIS2hQVndjekN0WE16eUdCTWg5bXpXUFdvMGo5eEpWUEo3ZDhhaTdpSFlxYXVWalYyN3p5YjNFSTY2UzhiN2hvMmlxQm52djNhblhBR1ZhTGpMOVMtU0lvYm44UHppV1BjZXJpdzhKWFJoeGlpUUVuSHZra2VMZGRnc3RyWkdlQWRfZUlCN1NrcTRMeDRwcUVpSC00NnVxaUdTRVRldlY2WUlucktiS3NOcWhuOHpCMDJBZTV1U0VEYjZWVERZcHFTN2JDMmQwR3pncklhYmdlS1kzUndqaTNRTHNyR1phNjZTeHlaNDJld1QzM25YYzh3cUtBRy1Bakk4WFdZZHMxNnFVQkdXSWlEVWQzSFFrOGNfcVVkZDd0THk5VWlNd0NXcWRIUVk1TFZjS2x0S3JfNEphR0FneHdtcEtVZWV0eDhVMTJSbElTbWhoM2VLWXVDUlEydnZiUkNISURUMXVSZHJzMHRrWHY5R3hqcGlocmVseTVoRWlBbkhUZlNlbEZId1QzZnp5bnRJdzRrY3ZEYWRHeW5uWlBRdXBGSUo0aVZ4cTB3bEY1MWJCOEk1cXJndGs3UmptYUZJc3pOZ2IwamNwVThIUmExUFFLZkR3NWVva1I4b2h6cmtFUjhrTUdIcHhJVTFfUEcxM1dXd2lVOS1ZSFdJemdMTXdOdmdkajFuOHJCbC1fNlRMdXpEVkJrbHQ2NmtVakRRU0xBZ01jODVQdGl5ZE93SmZSb0NiVmpEUTZRc2JYdExsSlRUVVYyUURNZi1US084QXptLVp4SmtTTGp0LVlha3lDQUdpN0xPSVo0bHpjZUh4UXMxa0FlTHVkbE9wM2JVV05ueGQzV2Rwc2Z4S2M4MUtlTThab0FOeFV0UWZESVBEcE1KNE9kZw?oc=5",
+          "source": "Goal.com",
+          "date": "2026-08-24T07:00:00+00:00"
+        },
+        {
+          "title": "ジ・アスレティック誌は語る：ハル・シティは近代的なプレミアリーグチームだ。マンチェスター・ユナイテッドには第2の戦術プランが欠けている",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9aT2dWOWE0V0NNWVBaZ2hiZ1FsTTVxdlJYZTlBTEZhaEh3T1ZiRUg0b1dFOVNnOEtrX1ZCb1BUNUJQU2Z2QzlFc1V3MFp2LW95OF9KTnVYX1pqdXJfNWpQNGJn?oc=5",
+          "source": "AllFootball",
+          "date": "2026-08-24T07:00:00+00:00"
+        },
+        {
+          "title": "マンチェスター・ユナイテッド女子：エヴァ・オリド新監督が構築する戦術アイデンティティとフットボール・スタイル｜Hiro",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QUmlaLUZGTmJ2WlRwN18zVGI5d3lzOWhpUHZNNjZYMlhGY0lTMTE2NWVqcGpKYXdMRnBIeW0yM251bnVqMG15MUNFYjN0Rkh2c1E?oc=5",
+          "source": "note",
+          "date": "2026-08-24T07:00:00+00:00"
+        },
+        {
+          "title": "Hull coach reveals tactics after beating Man Utd: We certainly didn't copy Ruben Amorim!",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNdmw0X2U1LUc3SzhRSEFkTXdINXFKN3pkVEJpRnpTZmIwd2Z4eHBRdEZRQzFVLXgybW52Rm5NSmdBZnp0a0FvRUJhelFuLTFkbS1hS2tvZ3UwMmctd0c1UUd0aFVwUVV5dHFTTTl6bV94UDR4OEpkZHk3WlJDNmhWdEZYeWRYT0VIaTd4bHhUbDF3ODcwUHhVUEJESlB3bzJHQnBoajYzRUVGWnZyS0lUMGFxTWxsUERSQzY0V1RmX1lrN3Rac1lYSTVBT29nRkhyQ3MtRFJnSUQwcmtFaHBOWm9NSGM1UGJGNm03NDl6QWlhV1BFR19RX1JKaHJrTHl3SUtiLWZidTVTQ1JSb1I4NHhB?oc=5",
+          "source": "TribalFootball",
+          "date": "2026-08-24T07:00:00+00:00"
+        },
+        {
+          "title": "「マンチェスター・ユナイテッドを攻略した」 ハル・シティ指揮官セルゲイ・ヤキロヴィッチ、番狂わせの勝利で戦術面の“会心作”を称賛",
+          "url": "https://news.google.com/rss/articles/CBMi6wZBVV95cUxOaGl4UGVpdmtKOXNjTkdHamlYVG05dWVSb1Nrb1FXVXhXRXVKZG9hZ201MXIzLTQ4dkxqNEliTUROXzBkUzN5Z2dKcnZIaHVXbkdkRVh1cXNuTEZHUUxQWHBUX0pCODktbzltcUhWdmJtMEhyVjNDakxEcHloTmJnYXlJYzdydWl6OFFldHZTdXRaMTVMdXZpTDJqc1FEUXVxUHpESlNKUXBBU3RrV0ZJR2hHTlVHYW8zcmxXNlp4X0Z5OTlDM0ctWjdRMVEyaHVyNTNFZlZVdDZPV05SUkk2blBHTWVBN2tmNW5xeGo2UVI3bEc2ZmhRWlYyQ3BRTENRdk9qU3hYX2YtdnRlTXdCUGlCUERsb0l5VGlaZU05WEFDZnUwZ1RxTy1SLW9PbEsydWVXVnFvMXo4Q0M3QkxyZjJOX2VfSUpuNXBWaDF6d0otZmRYRVZPMTh6SnNReU4yS2diUXU1aHBUdXNBdWlDRUlxUnRkblVkUTVsdDRVMlExTnNGWTZYanp5cDR0ZENfeW9kQkdJUTNJd0x0ZVNJbFpkWFAyN2dRZnJTY3pqb2NNcXZWME9VUWw2Q0VWUkJpVnByamlIYkhKV3FWZERkeGV3b2JnckQ0Y3FacFozYlV0azl0c1VXcHpDdjdOQ0RRVFF5SlVtdXNQd2xqeUxMSUNmS20yQVRNMExHQ0VtQ3h1ektxM0hSQm5rWXd4OVNaUVBWN0NnX2lBRHdhd0tQeXBYbkZFYnl0SGNtN1k5OHhUWkFLNW1JZE56OVB0Y0JyTC1mSm5lNnR2aGxQYTRJWkVxWHlxeGhIazZ2UVkxOGpWa21STVRPYjM1OFpVbFh0dzVXTFNoMGxfZ1pwV0V1U2E4dUdpcVMtOGxwaDFOdG00N2l5MGMtd2NnZlJhMTdSS1UxWFVMcDl3aGJVaGxPd1gtaVBxRHF5MDdpUXRRQ3V4MkduOExWTlkzdmdQS0ZnTmsyX0hPeGxZSWVqSXUtYXNuYV9VdlUwVk41UUQ3aFhXUFk4eTE4RzVSOXpLZ1J3aVF3QWJnMkt1NFhBcmpfcGszcjU5c0JGbFVuVkkyOXA4OEJPaGcyZ2tsdWkzeFNHTjBwZE9hcEN5QlNzVXJpOFh6WWRsMGlsVTFnTUtXckEtdmtzRzNRVTlaaw?oc=5",
+          "source": "Goal.com",
+          "date": "2026-08-23T07:00:00+00:00"
+        },
+        {
+          "title": "ジョシュア・ジルクジーはマンチェスター・ユナイテッドを退団したがっている。ユベントスは戦術的に理想的な救世主となる。",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORDVrTVJUMnJCVEQwWmVlc2t6elFwZ2hvdDljeG1QN3FQM0dWdm5mWG1GeVJ6TEdKVUhUalY5d0dkRHBwbjEzYUs4YUNCMFZxS3VtcGlJbDJ3eGU1WHFTT1RHWk9idGlXaHdMaVpHTXZwbFY0MW91czBFaER6ZDlWRVFkUFp3WTJuY3MzQWF3OGZQNjVfODNOamhtYVNucXVBUHl6VWRVSmZfNEU0UzJ0N3MyZUJlYWs?oc=5",
+          "source": "Vietnam.vn",
+          "date": "2026-08-22T07:00:00+00:00"
+        },
+        {
+          "title": "マイケル・キャリックは、戦術的に優れた選手獲得によってマンチェスター・ユナイテッドの中盤を再構築している。",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdDBjZVAxY2V5QjBRM3BqN3hxREhfTzN0YmdqQmJfcVMxeGVqZHFxZE5vY1N4RXBVQVQyMTlTZzluU3ExdHFqeTZJaU9Ic3p1d1JjRmk2U1ZLcUFrNWxiVENsQmRTRkdTbzdlVlZOczNtRFZMU2tsbm12OEYxQmM5Y01BWkJwVnFVb2c0Q3BFQmlpcTRzaVZ5Z0hiTFg0aC1jSE5NT1hNV2x2b1FMTHdIZnMycnJqQVE?oc=5",
+          "source": "Vietnam.vn",
+          "date": "2026-08-21T07:00:00+00:00"
+        },
+        {
+          "title": "マンチェスター・ユナイテッドがカルロス・バレバ獲得に迫る：マイケル・キャリック監督率いる中盤にとって戦術的な転換点となるだろう。",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaDBtb2NPM0tROUxjcm9fT3VDR3Y5UHByOVNCSWhZZmF3UXFmckV4ZXlhTHk1eGJYU3BGR2daSlF2TzA3OC12Z0REbVZQa215Qi1HUGVBSXZLbmZBRWZOVXdzU09IdjlnZjd4R25wT285M3hSdmM5RDdSM3paUkwxbC1wdnVNOUdJU1VYWHAxb0RqRXdtZ25vVnJpczAxT3c5UTJ3RVRxcEtIN05aclJ5OWxpS3hGQTNYY2NfWTMwVXo0Zw?oc=5",
+          "source": "Vietnam.vn",
+          "date": "2026-08-20T07:00:00+00:00"
+        },
+        {
+          "title": "マイケル・キャリック監督は、マンチェスター・ユナイテッドの戦術システムにおいて、マーカス・ラッシュフォードの多才さを高く評価している。",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbWg4bnRYcmh6YVZBbWRoMmFFZU5ldmxtNVEtRm1tM3hmcS1WMFBicGxNWFZpUVFXWC1aSHZWdUtCRFQ3cFhDejNCV2MyblpKb3RpeGEwb0ljY0N4QklvVElhU1ZOdkV0Y09WaDVfVVdKVlF5Y0xWREVQeHBKZHNseVpjWVhCXzB3X0JLNzFoby1TTGR0c0stcWcxSTZ2dG5fbDZ6YnRFZnk0ZXNuMi0tYXI0TUUxNFNwell5OUJ3?oc=5",
+          "source": "Vietnam.vn",
+          "date": "2026-08-20T07:00:00+00:00"
+        },
+        {
+          "title": "マンチェスター・ユナイテッド、ブライトンからカルロス・バレバ獲得に迫る：マイケル・キャリック監督による中盤の戦術強化。",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTFBTUmVkdVBHdU51NzNzdjNPMEEwcmV2M2tmd3piNFNYbmVybXVxU255Qmxpc3BkdkhsTi1LTkZEU1QwVnphMnU3b3BVd2o5ekUxbHljMzYzS2hWMmJHcWdYWVBmWFZyNGx1OXJNUnNEUTlQcDBQZG1LbmpQS2lZWlNwWnU5YU9LUHdOaHZtNlQyalNTS21fWnFCaWF6cG5kSWI3MVZ3bDBPNlZ2a2JpMXhNaFFFajVyYXdXRjEtdHE?oc=5",
+          "source": "Vietnam.vn",
+          "date": "2026-08-20T07:00:00+00:00"
+        },
+        {
+          "title": "Man Utd news: Tactics analysis on United's high-risk, high-reward pressing",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9VNVJMem5SVldWUC1oOHJqaXZ3Z3BTMnZOWDJrYXRrTGwwQlU5amtSempaR0NqMGMxVHkyb2I0eEZ4QU5pU2hvNFJMYkpncFcxclU4cV96XzA5WVBjVzRpUkJEdnl3SUU?oc=5",
+          "source": "BBC",
+          "date": "2026-08-20T07:00:00+00:00"
+        },
+        {
+          "title": "マイケル・キャリック監督の3バックフォーメーションにおける守備の弱点は、ACミラン戦での敗北後、マンチェスター・ユナイテッドを悩ませ続けている。",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSnZiWXVBX1hnN2FESlFINS1qT3ZQUFgwY05BLVFaR0Y2WGZyQjllb1RBSTdJc1N4c01TRFYwUmd4aDhfV1JmeHBoeVN3V3lMdHpVY3lkZ3ZuYmo4LTRkQWQ0YkJraWdUOHlpcGNDOEtaY0RsTTZiNzMtYUFIeHNWWUJoUUhWdjhEWTgyLUJUbkZRRkZDbDRqVnJFam5fUFN2WFVmcmNjS0l1VXFQei1KUzcxVkJ4NG9vaXJYdQ?oc=5",
+          "source": "Vietnam.vn",
+          "date": "2026-08-19T07:00:00+00:00"
+        },
+        {
+          "title": "ACミラン戦での敗北は、マンチェスター・ユナイテッドにおけるキャリック監督の3バックシステムの弱点を浮き彫りにした。",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdjZlbmlhWFZmTzgtTG5fb2lGUDEzWTAxNTRrSDlURW5YRHYzZVNYeFFCUnM5R216TVpOU3hEbVB3ZHJ5N0NBYkhKc3JUZXhBeFVUY0d3elVBcUVjWndGUUNPM0VWaHFSVlJnc0xMU1VjRlBGbWJVeGNtX3ljNktUWHRpM2tTSlppUDN1YlBWcGZFSHRYTkxMbEtJSEVxRWZwMHFBaFNkZkxkdDdoR3dycENmQQ?oc=5",
+          "source": "Vietnam.vn",
+          "date": "2026-08-19T07:00:00+00:00"
+        },
+        {
+          "title": "マンチェスター・ユナイテッドがホアキン・セイス獲得を目指す：マイケル・キャリック監督による計算された戦術的動き。",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVkNsWGVZaXBpdl84Wk0wS3BaNjE5ejBuZ0ZTaHZubmtfa00xeUVhV0U3SFF4LWs3dk5sRC16aDlkdVN4VmJ5OVE0aHRtYVlnbFNSeFE3bzBzLWUxZ1lSbWJLRTVOZ1dwbE9ScFByTTVoQXVVR0RlcXg5Nm1pMDctb2FaQ01STTRnZDNOZG5ES0dqUExyVUtIajMyblJLUWVzWmY0S1BRZm50OWJzTmc?oc=5",
+          "source": "Vietnam.vn",
+          "date": "2026-08-17T07:00:00+00:00"
+        },
+        {
+          "title": "マンチェスター・ユナイテッドはACミランに2-4で敗れた。キャリック監督にとっての4つの明るい点と3つの戦術的な懸念点を振り返る。",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcjJvRllPU2hWLTFUVTlVaW1CLTRDQ2dvQjBIb3dLbUFKQWpUTEFYWWxJT0tpU0JrT3ZsbV9DeHZuS001bzd2QTRkYldhS19IRVpkWjdiLTNKUFFaTkJhcDlZUnhHbGFHb3dqR1RlcjVLcENoQ0x3MHlrUXlyT0d6d2VSTHdUUUhUVHVSQUZVallWX3ZLZ1NBR2RaUDd0WS1GaFp1VEVDMks2Z2ZidXphMmJ1aw?oc=5",
+          "source": "Vietnam.vn",
+          "date": "2026-08-15T07:00:00+00:00"
+        },
+        {
+          "title": "マイケル・キャリックの戦術的な動きにより、アマド・ディアロがフリーになり、ムベウモがマンチェスター・ユナイテッドで活躍することになった。",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNb190WVdHMFcyeW5rM1B1SEtRN2dETzlNN2ktdVBsV0RyckM2Sk9Yb3VoQ0xNUzZ2QmNiejhzMTRuYUYxY29Cam1JU05XNTFkR203TmJQVy1SV2t4YThzSkZYRFh0WVo3bjJ4TlhRS3hISWh0VEw2cnZrdFJOQVNITDN0bV9haWliX21hMzh3bFItWXpLcjFsak5HMnVsNGZuOWdYSzZ1V0Jjb2ZuS3RLbnFqV2tEdw?oc=5",
+          "source": "Vietnam.vn",
+          "date": "2026-08-09T07:00:00+00:00"
+        },
+        {
+          "title": "マンチェスター・ユナイテッド対アトレティコ・マドリード：スウェーデンでのキャリックとシメオネ監督にとって戦術的な試練となる。",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQN2hrbmZ3UUFYUzBQNWQ1WWYyVkFVMkpuY0hxOENBX1loRDFvb0dES21palVCbWdLbnRrYVJwX0ozYkJTeW9yLXN4MEtOYVp0OTJ5eUlCeXMzMGh6MUU1emw4b3ltUHlJcU5PSkZpZ3Y2MDJmX3dYVFA2azJGOWdwNUpRcjNENTFXVDdpZVViT3BVak1VV0RleXB5VHlGb1kwZTc2NkRiZmVTel9xbG1jc0w1Vlo2TFMxWEhxZA?oc=5",
+          "source": "Vietnam.vn",
+          "date": "2026-07-30T07:00:00+00:00"
+        },
+        {
+          "title": "マンチェスター・ユナイテッドは戦術変更に伴い、ハリー・アマスを600万ポンドで売りに出す予定だ。",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZGtpWk9MVWJjN1huaGNma0wybi1zcThXLWxpdjlBZ3V0WFlhOEJhY2hHUk1pdjBYQTc0THBNWWlXUnlfOHg1b0l0X0N0SHp6VGhfNmZ5NWZxQVpxQWFYUlppVi1FaGkyUzBGdHZiWVJBOER6MU8yQUFKVkJ1ajcwT2ZZN3RMMkJRbFR4Q3JRYUcwZGR4dzdkczB5VldENGdfQUx5ZGVWcmExeF9mYXc?oc=5",
+          "source": "Vietnam.vn",
+          "date": "2026-07-29T07:00:00+00:00"
+        },
+        {
+          "title": "マンチェスター・ユナイテッドは戦術変更に伴い、ハリー・アマスを600万ポンドで売りに出す予定だ。",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZEg4RzUzVjF3VXNPYkFFYVVNWVJZTU1FWUpfOXB6SGJ3SmFfemVPdEhxbzhOdU9sVDNmNW5OamQ5V3JYQnVtYmlUenVHZnJZOGE5eHNkTWNhOWtYczdjeGJwbk5XWmotWndWMjBFN3BsQ1dZaGdhMTdSU051X2pmbWxXTk9iLU16MU1qZUg3VjYzNzhhZ2E5N0F4aE93TndlX3QyTzNZREJnQnU4?oc=5",
+          "source": "Vietnam.vn",
+          "date": "2026-07-28T07:00:00+00:00"
+        }
+      ]
+    }
+  }
+}

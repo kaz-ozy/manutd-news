@@ -12,6 +12,9 @@
   body { margin:0; background:var(--bg); color:var(--text); font-family:-apple-system,"Hiragino Sans",sans-serif; line-height:1.6; }
   main { max-width:720px; margin:0 auto; padding:16px; }
   h1 { font-size:1.4rem; margin:8px 0 4px; border-left:6px solid var(--accent); padding-left:10px; }
+  .tabs { display:flex; gap:4px; margin:12px 0 0; border-bottom:2px solid var(--line); }
+  .tabs button { border:0; background:none; color:var(--sub); padding:8px 14px; font-size:1rem; cursor:pointer; border-bottom:3px solid transparent; margin-bottom:-2px; }
+  .tabs button.on { color:var(--accent); border-bottom-color:var(--accent); font-weight:700; }
   .info { color:var(--sub); font-size:.85rem; margin:2px 0; }
   .filters { margin:12px 0; display:flex; gap:8px; flex-wrap:wrap; }
   .filters button { border:1px solid var(--line); background:var(--card); color:var(--text); padding:6px 12px; border-radius:16px; cursor:pointer; }
@@ -25,25 +28,42 @@
   .badge { display:inline-block; font-size:.75rem; background:var(--line); border-radius:4px; padding:1px 6px; margin:4px 4px 0 0; }
   .yen { background:var(--accent); color:#fff; }
   footer { color:var(--sub); font-size:.75rem; margin:24px 0; }
+  [hidden] { display:none !important; }
 </style>
 </head>
 <body>
 <main>
   <h1>マンチェスター・ユナイテッド 移籍ニュース</h1>
-  <p class="info" id="manager"></p>
-  <p class="info" id="updated">読み込み中…</p>
-  <p class="info" id="rate"></p>
-  <div class="filters">
-    <button data-lang="all" class="on">すべて</button>
-    <button data-lang="ja">日本語</button>
-    <button data-lang="en">English</button>
+  <div class="tabs">
+    <button data-tab="transfer" class="on">移籍ニュース</button>
+    <button data-tab="tactics">戦術コラム</button>
   </div>
-  <ul id="list"></ul>
+
+  <section id="tab-transfer">
+    <p class="info" id="manager"></p>
+    <p class="info" id="updated">読み込み中…</p>
+    <p class="info" id="rate"></p>
+    <div class="filters" id="langFilters">
+      <button data-lang="all" class="on">すべて</button>
+      <button data-lang="ja">日本語</button>
+      <button data-lang="en">English</button>
+    </div>
+    <ul id="list"></ul>
+  </section>
+
+  <section id="tab-tactics" hidden>
+    <p class="info">チームごとの、戦術に関する記事のタイトルとリンクです(本文は載せていません)。</p>
+    <div class="filters" id="teamFilters"></div>
+    <p class="info" id="tupdated"></p>
+    <ul id="tlist"></ul>
+  </section>
+
   <footer>記事の本文は載せていません。タイトルをタップすると元のサイトへ移動します。英語タイトルの日本語訳はClaudeによる翻訳です(新しい記事は翻訳待ちの間、英語のまま表示されます)。英語の記事ページはChromeの翻訳機能で日本語にできます。円換算はタイトルに書かれた金額をその日のレートで計算した目安です。</footer>
 </main>
 <script>
 const $ = (id) => document.getElementById(id);
 let articles = [], people = { manager: null, players: [] }, titlesJa = {}, lang = "all";
+let tactics = { teams: {} }, team = null;
 
 const isJa = (t) => /[぀-ヿ一-鿿]/.test(t);
 const fmtDate = (iso) => new Date(iso).toLocaleDateString("ja-JP", { timeZone: "Asia/Tokyo", month: "long", day: "numeric" });
@@ -53,49 +73,83 @@ function playerBadges(title) {
   return (people.players || []).filter(p => (p.names || []).some(n => lower.includes(n.toLowerCase())));
 }
 
-function render() {
-  const list = $("list");
-  list.textContent = "";
-  const shown = articles.filter(a => lang === "all" || (lang === "ja") === isJa(a.title));
-  for (const a of shown) {
-    const li = document.createElement("li");
-    const link = document.createElement("a");
-    link.href = a.url; link.target = "_blank"; link.rel = "noopener noreferrer";
-    const tja = titlesJa[a.url];
-    link.textContent = tja || a.title;
-    li.append(link);
-    if (tja) {
-      const orig = document.createElement("div");
-      orig.className = "orig";
-      orig.textContent = "原題:" + a.title;
-      li.append(orig);
-    }
-    const meta = document.createElement("div");
-    meta.className = "meta";
-    meta.textContent = `${a.source} ・ ${fmtDate(a.date)}`;
-    li.append(meta);
+// 記事1件ぶんのカードを作る(移籍ニュースと戦術コラムで共通)
+function card(a, withBadges) {
+  const li = document.createElement("li");
+  const link = document.createElement("a");
+  link.href = a.url; link.target = "_blank"; link.rel = "noopener noreferrer";
+  const tja = titlesJa[a.url];
+  link.textContent = tja || a.title;
+  li.append(link);
+  if (tja) {
+    const orig = document.createElement("div");
+    orig.className = "orig";
+    orig.textContent = "原題:" + a.title;
+    li.append(orig);
+  }
+  const meta = document.createElement("div");
+  meta.className = "meta";
+  meta.textContent = `${a.source} ・ ${fmtDate(a.date)}`;
+  li.append(meta);
+  if (withBadges) {
     if (a.price_jpy) { const b = document.createElement("span"); b.className = "badge yen"; b.textContent = "💴 " + a.price_jpy; li.append(b); }
     for (const p of playerBadges(a.title)) {
       const b = document.createElement("span"); b.className = "badge";
       b.textContent = `${p.names[0]}:${p.club}`; li.append(b);
     }
-    list.append(li);
   }
+  return li;
+}
+
+function renderTransfer() {
+  const list = $("list");
+  list.textContent = "";
+  const shown = articles.filter(a => lang === "all" || (lang === "ja") === isJa(a.title));
+  shown.forEach(a => list.append(card(a, true)));
   if (!shown.length) list.textContent = "該当する記事がありません。";
 }
 
-document.querySelectorAll(".filters button").forEach(btn => btn.onclick = () => {
+function renderTactics() {
+  const box = $("teamFilters");
+  box.textContent = "";
+  const ids = Object.keys(tactics.teams);
+  if (!team || !tactics.teams[team]) team = ids[0] || null;
+  ids.forEach(id => {
+    const b = document.createElement("button");
+    b.textContent = tactics.teams[id].name;
+    b.className = id === team ? "on" : "";
+    b.onclick = () => { team = id; renderTactics(); };
+    box.append(b);
+  });
+  const list = $("tlist");
+  list.textContent = "";
+  if (!team) { list.textContent = "データを読み込めませんでした。"; return; }
+  const arts = tactics.teams[team].articles;
+  $("tupdated").textContent = tactics.updated
+    ? `最終更新:${new Date(tactics.updated).toLocaleString("ja-JP", { timeZone: "Asia/Tokyo" })}(${arts.length}件)` : "";
+  arts.forEach(a => list.append(card(a, false)));
+  if (!arts.length) list.textContent = "該当する記事がありません。";
+}
+
+document.querySelectorAll("#langFilters button").forEach(btn => btn.onclick = () => {
   lang = btn.dataset.lang;
-  document.querySelectorAll(".filters button").forEach(b => b.classList.toggle("on", b === btn));
-  render();
+  document.querySelectorAll("#langFilters button").forEach(b => b.classList.toggle("on", b === btn));
+  renderTransfer();
+});
+
+document.querySelectorAll(".tabs button").forEach(btn => btn.onclick = () => {
+  document.querySelectorAll(".tabs button").forEach(b => b.classList.toggle("on", b === btn));
+  $("tab-transfer").hidden = btn.dataset.tab !== "transfer";
+  $("tab-tactics").hidden = btn.dataset.tab !== "tactics";
 });
 
 Promise.all([
   fetch("news.json").then(r => r.json()),
   fetch("people.json").then(r => r.json()).catch(() => people),
   fetch("titles_ja.json").then(r => r.json()).catch(() => ({})),
-]).then(([news, ppl, tj]) => {
-  articles = news.articles; people = ppl; titlesJa = tj;
+  fetch("tactics.json").then(r => r.json()).catch(() => tactics),
+]).then(([news, ppl, tj, tac]) => {
+  articles = news.articles; people = ppl; titlesJa = tj; tactics = tac;
   $("updated").textContent = `最終更新:${new Date(news.updated).toLocaleString("ja-JP", { timeZone: "Asia/Tokyo" })}(${articles.length}件)`;
   if (news.rates) {
     const r = news.rates.JPY_per;
@@ -109,7 +163,8 @@ Promise.all([
   if (ppl.players_note) lines.push(ppl.players_note);
   $("manager").innerHTML = "";
   lines.forEach(t => { const d = document.createElement("div"); d.textContent = t; $("manager").append(d); });
-  render();
+  renderTransfer();
+  renderTactics();
 }).catch(() => { $("updated").textContent = "データを読み込めませんでした。"; });
 </script>
 </body>
