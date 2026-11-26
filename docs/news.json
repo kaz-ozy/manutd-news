@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T23:49:05.495328+00:00",
+  "updated": "2026-11-26T00:05:21.858564+00:00",
   "rates": {
     "date": "2026-11-25",
     "JPY_per": {
@@ -35,6 +35,13 @@
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVnVpZXI1U3FxMjltMHhxRjRwam44NW1BZi1mSzlxWE1JbWtMUm1Cekw5OUpHeVRzVENBX3o1UERMODB4UlBXOFRzd0tFazFvOHE5NFJudmpFWjY1ZXVaU3NUUzhtSGZXMHMtQ18yRE0zY0RJdlNpR0RyQUlncndkNTloU0E4cEZoRzVyZHZnWmpFenF5RG1zVGFRajZXbVZZZXRhLUFMTDg1YlBROWJpSEZ3UXEwRlcxRVJSb0F1a1E4aGJfTTFLMjQ4UlZVVTc2SUdwNjk1eUlCM0hpTnc?oc=5",
       "source": "TNT Sports",
       "date": "2026-11-25T18:05:00+00:00",
+      "price_jpy": null
+    },
+    {
+      "title": "Man Utd star ‘opens door’ to January transfer after Pochettino arrival",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdUVzMTBjNnA4aFBpdFM3NmdmR3BlNDhvcTVzaXdZQm03R0RuLVVaQ21NWWRqcEwwei1fQ2xZRVJqcGdQTjBRSUYwVUhycjNjOWNUR2xDMWJJa2FKSlYtR285VUh4MFRqV1pBVmFIaVZoU1dZdl9QRWJHd2tsdnc2NTZsUTlYTjBLbTNjcmlSQVpJcDQ4RTBxN3F2QQ?oc=5",
+      "source": "London Evening Standard",
+      "date": "2026-11-25T17:55:53+00:00",
       "price_jpy": null
     },
     {
@@ -108,13 +115,6 @@
       "price_jpy": "約104億円"
     },
     {
-      "title": "Pochettino learns size of Man Utd transfer budget as targets revealed",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOalk3T3ZLc0tLNmI5V254VUdsaUdfckU1bGlQZUhfZVdvZzZUOUc0R3pDRWdGUnhMTDJ2NkwxNlFGZjZuWlc3cVIya3VocHRZbkhmdml5RkR6WTQtMUlXYng0eU1NdG1YX1pnZnhqZC1RZm1uYWk3aDVqdjF6Uk5jc0RLRWZaeGNEejlPR3hMM0NBbDVJdFoxU0EzX1pfRXV3XzdCdmxscW5Wdw?oc=5",
-      "source": "London Evening Standard",
-      "date": "2026-11-25T13:03:46+00:00",
-      "price_jpy": null
-    },
-    {
       "title": "Transfer news LIVE: Arsenal learn £100m twist; new Man Utd target",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWW5QZVh4SlVDVWRoVlpUZW44aHdETEVCXzhXREdqSlpBXzZCb05ETXl1dzVKUXc0eVFfbjRETDdDRTJsamJabXdMZVJkVjU0UWVhZ21aV1FzYkpvZElCbjk1dnNTSm5QTW91UUNzeTJrSTZPYjRKdzVfZjFLTnVlMnpwNnFuRjZVUG9RbmlIenJwLXdwdTdVZnVsWHB2TElEMEhuWmttTVc3UmxFNVUxbUJPY2s3Zmo4ZWtjelhUbVNMMmhP?oc=5",
       "source": "London Evening Standard",
@@ -150,10 +150,24 @@
       "price_jpy": null
     },
     {
+      "title": "How likely are West Ham to sign Ayden Heaven? Man Utd transfer rumour scored by Football Whispers Index",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeDgxLTlCdW5IaE1XX0ZKQVVwUHNrbzQ3V3pkanE3XzBycVNuZEp6djdidG1yWlZoX1JCN2pWODMyUmJDRENDSTNIRmIwcmZRS0FrdDNpeE9OMWlBTnQyczAxeVUwUElxbkljSU14NGNwWjdWcUp2T1JLVE1vTm5VWk9aMVlQLWc?oc=5",
+      "source": "Football Whispers",
+      "date": "2026-11-25T11:55:48+00:00",
+      "price_jpy": null
+    },
+    {
       "title": "Chelsea told to hijack transfer for 'magnificent' Man Utd target in January",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTlhRLXNSMjg3eUo0eEJMS1hPRnpJNXNTYzJvdzBIOXAwSmIyNzVyRFZWc0xISXpZQWs0U2JyUlRmTmxhOXBsanZwanR6X3M1U3FEZ0NTQjQ0eUpfX3pjamhuT0xFU01CZXNQdl8tejFqcE1vZzhJRzVnbnJLbDlXS2NOemZNdUZKX0sxN1RHTFZXTTFwM21scUd6dlpOUXlCaVNDQ0FlONIBrAFBVV95cUxORDNCd1p1b2w3dTBmVHdVQV9FalYyZGNEcUljT25YWk1VUU1hWmllSE1obE4wVTFzM0NnenNrZzFZSWZhOEpKMHBYcW1rcGZWNGMwZ2dmNENWX1RacWlsYmFxaXJ6aXNodV9BTWdnMjZreFAyYlhlbF96dGZpYzV0RGp1VFl4ZjVfTEd1XzlVUVNDa214MFlGa09Ea2VSS19nRTlrTGdQUDVrSDRZ?oc=5",
       "source": "Metro.co.uk",
       "date": "2026-11-25T11:45:00+00:00",
+      "price_jpy": null
+    },
+    {
+      "title": "Pochettino learns size of Man Utd transfer budget as targets revealed",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOalk3T3ZLc0tLNmI5V254VUdsaUdfckU1bGlQZUhfZVdvZzZUOUc0R3pDRWdGUnhMTDJ2NkwxNlFGZjZuWlc3cVIya3VocHRZbkhmdml5RkR6WTQtMUlXYng0eU1NdG1YX1pnZnhqZC1RZm1uYWk3aDVqdjF6Uk5jc0RLRWZaeGNEejlPR3hMM0NBbDVJdFoxU0EzX1pfRXV3XzdCdmxscW5Wdw?oc=5",
+      "source": "London Evening Standard",
+      "date": "2026-11-25T11:08:30+00:00",
       "price_jpy": null
     },
     {
@@ -262,6 +276,13 @@
       "price_jpy": null
     },
     {
+      "title": "Man United presented with transfer swap opportunity as Mauricio Pochettino 'causes concern'",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdWtiS0d5TTBudjA2LXg1TzZLUEdMMmpzVlAtdG5vdGU5ZVRZWXNyMWM0WVJKSEVqdFRuZExndlk1LVoycDJub2NpMTVmdEEtVlBvVWU3YW5KQUtiQ3hXTmlZSmxtM19pSUt0MkZxYUpCSUZuX0lCQ2M5VVd2Mmg0MU1vZnNnM2wwUlVuVlRrTTVuZk5Nc182Z3lxQkp3Q2NsQzZ2bXYtYklKZlFpT3RVZDFVNNIBuAFBVV95cUxPWDdXajhqRkxKckVkSzVRd1NsWE1ZVGVMY2h2dTd6R0V4T25XX0JTbHExYnZkbkdPbTlqYndSbG13R0VhTXMxb0xWYldMMzhXVnJBV2xzd29OM3l0VTZiTDFPblpmWVFIZU1SUng3ZXg5T09HVktwS1ZVQzRxcElzOVFHNGw4bjdkZk1waDlHMkFfZ0VuM0VxOXUwa0I0cjc5MVhfZkt3bmpZVFR5MkFXcElRekxfdkxM?oc=5",
+      "source": "Manchester Evening News",
+      "date": "2026-11-25T06:00:00+00:00",
+      "price_jpy": null
+    },
+    {
       "title": "冬の補強予算はわずか5000万ポンド…ポチェッティーノはいかにしてマンUを立て直すのか？",
       "url": "https://news.google.com/rss/articles/CBMiqgRBVV95cUxPblpFNktBRTAyMGNEQ1QwMjNjaTBHaFJEWDR3dGxBclBhLTVtRTAyNFNrM01UNWlDT1Y2RTUtdWplbFVaSjlDa0ZlcHBGalUxYnZRSDl6VThtQ0cxeVQzLVJVMm94dFRWdjB6RUJwYmhQa2tYUkFSMjczNDdHd1pNMUFkQlBLcTQ1Ujh1OXFHWWk5N2RPZGRCNGw4c2tZLXVVNkhScnduT0xrNW5kbzR4emI4MDBmX1ByaU00OHJBai03TU05ZDRqbGllSlRpMmFabUxBRmZNYVZuRWxpaXNTa2xteU9OS1hqdDdBNzhaM3JUVVpWODlRZGFpQVFybW5TbExSRWpjX1dvclM0OXBmUXFrMV90NlBHRVN2cE1yNlF4UHRxVHUwWUVlOTRBQlpYRHY1eVdqSUhTUHBHUDdFN043d2NpdV9MTzNYQm9iV2F4dzdCUHdSNTRvNDVuV3IxTHAyNjl0dDkyaGRNQXdpbHhZRjNJQ1NON2gxekhNSzBlS05wc0hCNl9kSHFmYUlHT19mcnNXRURxbUUyUDlRWVR3Mkd3OFQ2eDZURnVYMng0NWd5UFlkODF1a1dyd2YxS3NtbnJhZlJ3UGVtbzl6dHF4SWtkODhVUmNXbWpRZVI5NE9iUjVFUEVGbVJtbEJLZ1FOQjVpRUM3REtpbGpJZFVSdFJMS3lTRUYyZThkUUxYbk9CQ3VoT1pQWlpaR0FUVXR0aG5QcWxzdw?oc=5",
       "source": "FanPiece",
@@ -318,13 +339,6 @@
       "price_jpy": null
     },
     {
-      "title": "Man Utd star ‘opens door’ to January transfer after Pochettino arrival",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdUVzMTBjNnA4aFBpdFM3NmdmR3BlNDhvcTVzaXdZQm03R0RuLVVaQ21NWWRqcEwwei1fQ2xZRVJqcGdQTjBRSUYwVUhycjNjOWNUR2xDMWJJa2FKSlYtR285VUh4MFRqV1pBVmFIaVZoU1dZdl9QRWJHd2tsdnc2NTZsUTlYTjBLbTNjcmlSQVpJcDQ4RTBxN3F2QQ?oc=5",
-      "source": "London Evening Standard",
-      "date": "2026-11-24T17:02:34+00:00",
-      "price_jpy": null
-    },
-    {
       "title": "Manchester United eye cut-price January deal for 100-game Premier League defender",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQY1VkU1ZqWWR3QnBhTmpIamdBZE5YUk9vR29IdERDdndiX1RsUFQ4Zm04dGZqcVdGUUY3R2dCSGNUcmRXVWxGankxYkpWMDhoMkU4UGNObzc3S3l0M0RsX2NvQ21ZeXE0OENHTG9hMGI0YUxUNzgtN1BwTFRIcm4yby01Z1Z6MVpKMk1abGRKd0V4VTFjNlRQRThWaEh4b0VnOEpDYlJlb1psRUkyOWd6Y1VEakJJN1JqOGc?oc=5",
       "source": "FourFourTwo",
@@ -346,6 +360,13 @@
       "price_jpy": null
     },
     {
+      "title": "守備崩壊の新生ユナイテッド 冬の移籍市場で新CB・左SB狙うも……予算はわずか100億円",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Za1R6UDJLei1keGhKNEh3dk9nWHplLU45RkdPNXdOelp6Y2dvdmZDTi1JUjRDcjF4NWF2MjNWWjVSSkhxLVMxSUxoOENXRU05M0RScVJCcHVlTUVUUGotQXVWUQ?oc=5",
+      "source": "Excite エキサイト",
+      "date": "2026-11-24T15:16:00+00:00",
+      "price_jpy": null
+    },
+    {
       "title": "What can Mauricio Pochettino spend on January targets at Manchester United?",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMWlHT0tYVUxXN3VUUV9XOG0zbGEtRnJ1STBjUUE1ek1NM1dBaGhzWEJRYkEtWXYwMkZfczJtRHFfa1RPUVVkOERwdnI3SjNFZVN1Tnl6THhwaUlMczFYaGNpYnBBT1JzR1ltTG5hdEtwY01YVUk1T19UTGZCbEQ5Y1VwUy11QldHWmFOVXNPTm4?oc=5",
       "source": "Read Man Utd",
@@ -357,6 +378,13 @@
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQX0Z4NFBLWS0wdWxVTTl6LXpxWVdOVlI2UWhYdnVqZXo4dHVvTVp5cVpUN01iV0RXMDN5dlpiTUdIOTRvaDcyUWVfSW1Wa3VPbHp0aHZmcWJIODJhYTUzaG5HNUQyZ3VSMnk4TGg3dU5ubFlBVUFkYk9iX2ZfM3VpbHBoZV8zNm0xZU1mZnRMaHgwenltRlJfWHliRDF1TjdhOU14VEY5Vk5tVEZJSGIzM3g0VkNPOTVrcTEtSWp0OTZ0eF9GQURnQUhJb2Rqd0dXMnZKVzZjZEY3MzRLVkpxdHE2TWtuUnRfS2fSAe8BQVVfeXFMUEZJUkt3UTRIM1pDZ1l0M0xyWmhUUi13a0QzMG1zd1FXRnF0Zm5xenF3OFZxZEd6dGJTX1Z1TVI4YmhMV1VDZk4xZkJsMUdST1lZVjRjN000U2liQmRqczNvd0FYc0lXT2JwRDlzTUpGWHM2eEVKNk40MWItaXVnYURXdVdMVFBxUkhyMzFCb29LWnc1WHNSYlZ1akQzT0dQbm1KYVNRUklqcVprblZubndqN0ZkUXlRZVQ1UkxjTHktMU00dWV3cHpjT0pWcXJadjk2VkQ3b05qcllwWjNNSGNwQ2lta05kYmtiNjhwb3M?oc=5",
       "source": "Metro.co.uk",
       "date": "2026-11-24T14:52:00+00:00",
+      "price_jpy": null
+    },
+    {
+      "title": "Man United ready to push hard to sign Bundesliga star",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa1AwOUpwTU1IeXRVOG1TWnVKOWNtY3Yzakx1X0xJcFNVV3NINlJzV0lCNXhXbGhmVlhHM3oyaXJrODJwc3BNUkExdzhwMDlRbmNGV0JoNEFEa0M2X1ZxemhycFhVLUE2dlN2WU5SYVdWX21hUnpPMHA0SUZzLTlXLQ?oc=5",
+      "source": "Yahoo Sports",
+      "date": "2026-11-24T14:50:00+00:00",
       "price_jpy": null
     },
     {
@@ -413,6 +441,13 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSzFMZUoxY0JsWVM3VjlOMFhsVE0yeTZxQ3NyTEF5WEQ3VklTQnZzTm1maUlscHdtRWFINUY1NEp1RjlmMzJLeWZLNWZJYkNvWGktb0RUTGNTbk1obmxUMWlaMHZMMGFUUVljRzhIZWI2NEtGR2lweWdQTmdvQUVZS1dEeThzSFRpQ2hicGdHbm5vQ1E?oc=5",
       "source": "London Evening Standard",
       "date": "2026-11-24T11:02:53+00:00",
+      "price_jpy": null
+    },
+    {
+      "title": "Como plot shock transfer move for Man Utd outcast Joshua Zirkzee after Moise Kean injury disaster",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSjRneXVlVnUwb1BTQkpqeGtFVi1UVWRJMHJOLTE5SjVQcngzQzZQUnFPcy1kTktqNUtSSHo0VFN3V0NqVFRCUW5FYVAtNE1zakVJMWVuLURxa01VVEpxOEQwaHVUeExsR1lCUXc2dUZmVF9od1BxLXBjNHlnWVJjNV94VQ?oc=5",
+      "source": "Yahoo",
+      "date": "2026-11-24T10:46:15+00:00",
       "price_jpy": null
     },
     {
@@ -507,6 +542,13 @@
       "price_jpy": null
     },
     {
+      "title": "Man Utd transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVGxETjVqU2RwQ2J1N2o5MHliQkNSM2lLejh6TGN1UjIyTnZ3R3YyZVlQM0NBZ3dVOXF0Wk5yWHpvRl9zcmpmU2plOXRZeEhULTJuZGo3TDg2ai1SaUZObl9Md2IzUWUzNVU4LXhRWEhoeHhRZDFYb0x5T2F5dGFqZlZRWEhGZE5NTjNLdEpUSFV6bFJFM3BaQnZYU3p5OEJsMTJHS0xNbGlwbzZWM3o5a2FlUEZ1ZEtjaUIzdWxUaEdzNlcyNGMtTGE3N0FnN1pCZnk2TjBoZ1dnQUxyWUhLb0VFYWF0VC1VMDJiZQ?oc=5",
+      "source": "Sky Sports",
+      "date": "2026-11-23T17:00:00+00:00",
+      "price_jpy": null
+    },
+    {
       "title": "Mauricio Pochettino targets new striker in January transfer window",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWVRZWnJJdVBWaHhNc2huek15YTc4cU1yano5bUxMUkhyQ1lhRkgzQWNTNlZacmNMZ2RRRUF5VU1OQjNPOVhOTTlnVWZobDVqTkQySkMzRC1JN0l3c3FOczZ1Nnd1eXhCZ04tU3ppVlBfZ3lsSnhudE5RaEZfV1JaQWhEa2FIWTdEUjJfUDdvR09IM1M0YUpkM2xJbnRBSjVUN2VJSjdyOGVMTVR1VFFQbTFjVzZ1bzhtQWtRVkFTQkNEZw?oc=5",
       "source": "The Times",
@@ -546,13 +588,6 @@
       "url": "https://www.theguardian.com/football/2026/nov/22/mauricio-pochettino-matthijs-de-ligt-harry-maguire-manchester-united-liverpool-premier-league",
       "source": "The Guardian",
       "date": "2026-11-22T20:58:35+00:00",
-      "price_jpy": null
-    },
-    {
-      "title": "Man Utd transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVGxETjVqU2RwQ2J1N2o5MHliQkNSM2lLejh6TGN1UjIyTnZ3R3YyZVlQM0NBZ3dVOXF0Wk5yWHpvRl9zcmpmU2plOXRZeEhULTJuZGo3TDg2ai1SaUZObl9Md2IzUWUzNVU4LXhRWEhoeHhRZDFYb0x5T2F5dGFqZlZRWEhGZE5NTjNLdEpUSFV6bFJFM3BaQnZYU3p5OEJsMTJHS0xNbGlwbzZWM3o5a2FlUEZ1ZEtjaUIzdWxUaEdzNlcyNGMtTGE3N0FnN1pCZnk2TjBoZ1dnQUxyWUhLb0VFYWF0VC1VMDJiZQ?oc=5",
-      "source": "Sky Sports",
-      "date": "2026-11-22T20:51:53+00:00",
       "price_jpy": null
     },
     {
@@ -815,6 +850,13 @@
       "price_jpy": null
     },
     {
+      "title": "Transfer rumors, news: Man United scout defender Mahamadou Nagida",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLUR3MlktYkhCUVpkdUtqV2s2bGNLUWNhT21xMzUtN2hRdkp0V3hJVFRSelBmb2hxSC1MbGdZQjZlVXJJRVBHQW55QlBqRFc2SHVRUU1yM1pMb1Y5bE1nek1ZZGpJS1dIUnR2a2lONHdZbUw4S292Uno3RlE5NzhOS2tabXUtcVJQTVlac0R4UzBXSDY4V3E0dUhYVXAtdm1IM0N6VzJrMlVEczF4Z3dndEdR?oc=5",
+      "source": "ESPN",
+      "date": "2026-11-08T08:00:00+00:00",
+      "price_jpy": null
+    },
+    {
       "title": "Former Arsenal star urged to reject Man Utd transfer: 'It would set him back'",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQzk1TTNNRGxHeGRVcHRSWE5PLXktY2d6ZF9vcy1WdkZfRnEzS0UySFl1eTE1UmlTb1dXRXR2SU9nMDFPamxvLVVOblFoUkVOUnRfRDNMWWtpa3paNFpYd3dCN2ZDRExUS19VeEVhaGNBdXI0bm1IQmFKWjJ5VnlwSjhWblJpVS1BQlpvY2pPaUZlenVTbGJkdmh3b19yRDk3X2QyV9IBqgFBVV95cUxPbGJJdHFZcjNzdnRzM2NrYW53Y18yX0kxYVlkQXV4aXA4dWlZZWNtU2laeHlxckF1dGlhTjhMajhfV3plNWhRZ2FYclRDdXlqZ1hiWE1qU0ppSk95OWVobnkyY2ZyWEVHMTFWZHBqbmhKZFFnRWk0Rl9hMW92ZEl0RWJZREF4R2h5NkFYczZDNEFNT2JxSXQ2d0E2LWtMU2NLcGVDcDk4WHNwUQ?oc=5",
       "source": "Metro.co.uk",
@@ -853,6 +895,13 @@
       "title": "Man Utd Transfer News Today: Emery verdict, Balde stance, four signings slammed",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNalFaT014UmRlZ21WMEZBV1RtTGxwOTA3dG5Qa1BaSVRleTNTUnlVWVI2Slc3dmdjWkNZOXlkQzhwdjd6VWw5ejRUS2M4TnJLaTA2QkFEMTI0RGw0Y1Ewc1g4a2N2clVUYnRteURCbXQ4d2d3SjBLSnVRcmNzMklNX2pHdWsyYjdTTmYxNlVjbDczVnBaWTAwMGxjNk1la0lMT1RmSUJQZWY4N0wtV3VjMFhrTGZPZ1UzOGZ4REVkVkZobDA5eDIzZHRnRDRHeDNLeTQxbENiODFDVlJZWGxfZnhDMEZWNWZj?oc=5",
       "source": "LiveScore",
+      "date": "2026-11-03T08:00:00+00:00",
+      "price_jpy": null
+    },
+    {
+      "title": "Manchester United keen on signing Manchester City defender Rayan Ait-Nouri who is open to crossing divide in January - Paper Talk",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQa3NiMXU5b3NHZWJSNUo2X0RZZU1yeFQ5MmtpWFlKN2pBdEVlcXdhVTFYTnZjT3VIRGFweVBXbnB2T2JGWGVwcGtSVVVIaEtnSjBXeHBydFFkbUpXaWphVXpReW5jYVVJcjRuVnFGRU9hM05LV3hVaHJneFBBSHFuQ1VrQ0tUWkZJYnV6ZWtpVkFtVjVkVFF4Nk50SkF3VVRtZHkwVDJPQnhYNTMtSC1uMGQxMU45TGIwNGZJLWdnQXV1MVlHT1ZodjdpaUEzUDdEZWlTUjA5Mjh2WHFQWTVkWFdLeFgwY0lYLU5oeGVPajBaYVFqYXRPb1RaLTdKbjVfMWFVSVg5dFRId2w4UmFlX09rMDREZUZYcDRR?oc=5",
+      "source": "Sky Sports",
       "date": "2026-11-03T08:00:00+00:00",
       "price_jpy": null
     },
@@ -938,6 +987,20 @@
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVGxCYlRtTFU0ZWI0eHFYQzZ3Y1k5VHJZYUZyWkdoX3otVERoUUFFOC0wYmtjSVRoRkZhZVNpemdUeWV3dGNOSWhTTUtpRlBvOFZlZEFYYzBYQVJjTmRBWWJVaU9tc2kzLWxBQWl3Z2M5d3pLZ2xndlBBRk9YaTFTRXEySTlpMEw0NVFuQkN1Vmk3eHhfR3p4VkdXS054emFlQ3dhS3J1Mm1JTmxhek9SbzltalRqaFBQLU5kS216R0I2eTBBSzNIZ0lfQQ?oc=5",
       "source": "ESPN",
       "date": "2026-10-10T07:00:00+00:00",
+      "price_jpy": null
+    },
+    {
+      "title": "Manchester United vs Tottenham: Different summer transfer strategies collide on Saturday at Old Trafford",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYWVwZDhBNHVWWkE1Q05vTU5VeU5aTXJiYjluNUh0RlBUVE9DUUVJRG1lUWlxd3k5LWloZGlaXzdzVWdBWV9nc2RWdmhUZUZaeEtFaldVTS1zVXNSRlJPd1Qxd1dXVG54QTlCb2FQeFlocnEtbVZDQkNJTFgzT0xpQm5hSjhyOXRJWGFtV21ab3F5aXlqOTlHdHNlVUVfMG10ZkZ2TFpkZmNMOXJfQVU5emdjcm14VFJ5cGlqbE1pZ3dRZkhhcXB1QTRnQ2cyeG1mOFl4S3JIQ0twNkpHTlFKd2RtWDlUcVE?oc=5",
+      "source": "Sky Sports",
+      "date": "2026-10-10T07:00:00+00:00",
+      "price_jpy": null
+    },
+    {
+      "title": "Man Utd Transfer News Today: 'Exceptional' Murillo bid as bold offer confirmed",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPVXNFeUt3TXVGLW41Nmh3R2YyaFBJYmo5SWlKV3BwM18xYmxreXpfQ0duY05QRDN6TW9CR1FwTC1aLXROdWp6Q19QX0k5NENGZ0xZYUFIcm9Ma3pqaGQwWTNXNHo4WDd4R0IxRU15S0VtMGdqQ2RNRnpIUklGWlJHYlhqUDNMbzRvTzZ3cHd3ZVB4UW9PWHlUTmdEdF84cHo0OEd1VHQ0UVlnTy0zNlVsVmdKVDA1bzlMdmt5QWozY3ZPQ24wR3NZRFltdGRHaUR5bHhOMXNrX3hoQmliNnFKNTFyRmxFdlE?oc=5",
+      "source": "LiveScore",
+      "date": "2026-10-09T22:27:10+00:00",
       "price_jpy": null
     },
     {
@@ -1067,9 +1130,23 @@
       "price_jpy": null
     },
     {
+      "title": "Manchester United latest: Michael Carrick happy with transfer business and convinced that his squad has improved after summer window | Football News",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQbndxekVvcm5HeGZzajM2a2c5NmNLYXR4SjF2akFtTG13QUVTaFRNbWxVTkhEMUtIU3FLc2Mtd19ZUXYxWmkxaTZ1SWhfZFlfd0w0WlBqMm9xVG5EM0lmVnloN2JNa1E3YWJEd1pCQ25FTG1FcGFLWnoxWUNfTXVFMWNlQ3F3WDN6a2Fhbm9MT3lzaWg4eU5Hb1RUbDFqaC1YTzlCbEZMT2ZDSlhaR0ZuVnBHaTZDb0xfU1l6OWtva1FySVN6ZWFLdE82b0hrbmJJdWd1YWE0YXZuc3RuRkhlenZDYThweXFBR2lzQTd0OXJycTR3RzFOdVRHNkZsazlXbC1JUHV6WTQ1ZDNj?oc=5",
+      "source": "Sky Sports",
+      "date": "2026-09-06T07:00:00+00:00",
+      "price_jpy": null
+    },
+    {
       "title": "「新戦力のような存在」 マイケル・キャリック、移籍市場最終日の決断を受け、パトリック・ドルグがマンチェスター・ユナイテッドの左SB不足を解消できると主張",
       "url": "https://news.google.com/rss/articles/CBMi5gdBVV95cUxNOHhLNW9IR0tER1lGOWtUeUtmdWxjOGtpenhHTVBndWVJUXFzRDFQNlBCSV8zSTcweFBtRjMwV1dZMU9NdDdPMzNyY2dNZ0EyeFRYbmJocXBSQUNKR29YNGJ4alQzbWpCYzMtbG5lak9icTlKWjZGQmFXUGdwTjY0OGxVOUpobFFWVkVMYUtFMmRNbkNaczQxU1Q2S3R1Zkw3SVBOc1FMQU9PWEt5UmRhQ00wa2FvclNLWFA5Rlk4dW1rNzRZaml1TWNHWUFmaFJJaWJzZUhtT0NRZlVJMWFxOHQ0N1ZHQmFHTG1pekhYWW03bGxIR3hJYUVvMTl5N292TlV1cGpJQlp6U3R2ZlNwWHc0a2t5OVNRcFFBTTFHY00zWTJDYjlibHJsenNMUW8xVzZPVEtUWU5ZM2xpNmtkS3BMalN2RVFxdERseG1WQXd2d1NFVW9MbDdJeFRXYzk4SGpOMzBmWlFhTWVpZXVZbGlnd2VkbEdzUjluVFN1YmZpQUl1eFZCcW1MX2l4MTlQZmdpLUFUSjFZdWVIcGFreTB0b0FTZGNDQzBEc2hsRWVsX2dQUUhUaGFMTUh3UVhpT2dWcnhVUWJFdl9BOVJDWVZ6cGkzY0NoYThZVkYtckhpZTR4MEtLWDJKdWppLXhqdXVSZ1JoY0l0VmhnSERVTVZQUVZ5b0Q5SUllVFVuTEJZVmRBaTFPdDNLRERobDhYbWFTQ3dJWEdPdDgyRWZaZm9XbXFCdnI1WnBzS09TUFJUX3Ezd293UGFSS1ZtNDNqcU1tNU1FbGFGYktvUEc4OEdWbldSc0lkUFgzRWpCZ0FsUE9TU3NsalRmcmp3NDhoRTBZWkMyX0l6aURKeV9kN2JucnpvT2V2WEkyYVRyWVVWVjVMaE52WmxvQnlrYlVEUk41STVaOUFBUXFPaEF2SHdVS0xrc29rWUFlZkFZTVljd2RsZjExWnVyTFl4Vnl5MUgxNWlYYzdjVEw3cndPV1lGUzIyVVA5RWs1bVp0R254RnBKaURqc3BDeEFIZDk1RUNNdjFOckZNYVlpei15Z0JzU3hOQ0FkbFRHdGw1M0g5U0E4VE1CSzhYWk1RN3loUnZXU0JyWGlpNy02SDZVTWRrMkx6eWFORjl1LURRcXlXbnppcnNGajMzWXlNankwdERWbTlIZXRwX05mOVduUTI2NGFtUjdtdEVDUjlSdW43bjV6akdJRW5QTTJpV2d2X05uODBmMTlSY1pCVjQ0R0ctMXFsMzVPMDhUQkNvOEdBVE05cnJqQmNwOENmbGJ0NmhqbTFydmdXb2tFbEF0WmswSHNlQQ?oc=5",
       "source": "Goal.com",
+      "date": "2026-09-05T07:00:00+00:00",
+      "price_jpy": null
+    },
+    {
+      "title": "Man United’s transfer window: New midfield, Berrada’s call for Hall and final day frustration - The Athletic",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQmdmeEc4Sk9iTUFXN0ktR1phV2xMY25FNzB0azRpazBXZXFEOFQyb1JFRWJacHhJdkhPRDY0R3VkNE1leUM1NHAyM3o1MGpXcGR0NG8yeUEwZU1iazM1dGVTaXN3bGgzRl82MGhMYWd1UUZvVnRhOTItMFU1ZUtSWnlCWW9QYTBaSGQ4T2NCNHVzTC1jd2o0?oc=5",
+      "source": "The New York Times",
       "date": "2026-09-05T07:00:00+00:00",
       "price_jpy": null
     },
@@ -1144,6 +1221,13 @@
       "price_jpy": null
     },
     {
+      "title": "Manchester United: Have Michael Carrick's side taken a risk not signing a left-back?",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5kSkxLMThkSjVBbkxydkFlSHppaWZTeXVrZjRWY0paTlktVERVMEhQcExFSXRXb1V2cUpvY3k4R1VZdnBvT2F1MEVzbDRXRWRqd3VtODIyLVpzcGdOU2daZV9uNmRLMFhXQVE?oc=5",
+      "source": "BBC",
+      "date": "2026-09-02T07:00:00+00:00",
+      "price_jpy": null
+    },
+    {
       "title": "監督批判に移籍拒否…。プレミアを騒がせた神童も今や26歳（2）いまだフリーの名選手（フットボールチャンネル）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0QVVvdmhERkVxV1JiVmhBR09ldmYzM3ppNlFja19TUW1acldlN3FXZUhVZ1I1cEFFb25pTnNwOWJZTzFZSVk0T280OVd1Q1ZsOGhSTHBRaEk2MU15S1dZV3duX0lJb3FDRldLRHpjTUFhZjNsWnllSXJXaVJmbDQ?oc=5",
       "source": "Yahoo!ニュース",
@@ -1177,6 +1261,13 @@
       "source": "Goal.com",
       "date": "2026-08-31T07:00:00+00:00",
       "price_jpy": "約61億円"
+    },
+    {
+      "title": "Man Utd transfer news: Bruno Fernandes in contract talks as club look to tie down captain - Paper Talk",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcDNHc3U4aVAxejBqVEIxQ0JiU09jM0h4MG1EVUxCcUkxQkl1Z2E2NVBscE9WNXV0NUs5VGt6ZERJbEI2OHRFaXNoMVFQQWR6NktfdGYwbHI3LWFucndFbklJZTdqdFZfb1QzVnpueGtZbUdLcEFGSEdaakk4b04zaFRNUTMxR2JYMTdleEg2VUttU3Frb1R4RnNvMWE3TzVzTGhtYlFicjVZVUVqSUpVNHRXUElSZ2xmSnpmZ0t0SUtFbjhhcTU4MUJwSHVmNG1uUHEwaTRtM0NyOC05eVpIbmpn?oc=5",
+      "source": "Sky Sports",
+      "date": "2026-08-31T07:00:00+00:00",
+      "price_jpy": null
     },
     {
       "title": "マンUの若手MFコリアーが英2部・WBAに完全移籍…（サッカーキング）",
@@ -1235,6 +1326,20 @@
       "price_jpy": null
     },
     {
+      "title": "Man Utd transfer news: Will Michael Carrick's side buy a left-back before transfer window closes?",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9udUpjMTdaWWRPcHVCVndjU2lCUDhpSldqRWVXZ202bHBRR3hHUmRqaFI0M2VsOTU3OFVHeEd0bFZsZVZMeDMtXzFGOW4zQWtMMm42bktPVS1HX3JzMi1xdnlXaUxlaHM?oc=5",
+      "source": "BBC",
+      "date": "2026-08-25T07:00:00+00:00",
+      "price_jpy": null
+    },
+    {
+      "title": "Carlos Baleba transfer: Manchester United complete signing of Cameroon midfielder from Brighton",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcDF3VU1ENlRSNnBNakh4a3NpWkt5LVBzZkJJdUE0MEhzOVZ2V3hwbkVQTzh2WnhVZTJWcEdnanpKNGJHTUg5SXB0XzROMFZjdzdkSUhIWTlIMUdaN1d1TGpUa25LNnBtTWl6Zm04UnpoVWN1aENSM0U4Tk03TVkxc2hxWVZTYU9pV0xtRGpiWUhWVjh2amE2bkxWN2JmMlBkY1NEdFBDS29sTUs5NUtXWktPMlVJSWZhOUtkaGtlRW8wdGpPRkJwR3VNdUF4ZDFVQ3NETWIwSVAxb3M?oc=5",
+      "source": "Sky Sports",
+      "date": "2026-08-25T07:00:00+00:00",
+      "price_jpy": null
+    },
+    {
       "title": "ルイス・ホールはマンチェスター・ユナイテッドへ？ ニューカッスルのマティアス・ヤイスレ監督が、マンチェスター・ユナイテッドの獲得関心について重要な最新情報を明かす",
       "url": "https://news.google.com/rss/articles/CBMiuAhBVV95cUxNVGFfU2p5Q21YTHlrMTJqTzJONXB2TkM5TFdURDA3dHZhTW5CYXBfa18tX24wWDFOczBRZVZFWTg1aVF6U2Vfc0F5WGRyMjh4b2hmRFEtU25TdWV0QUxrN0kycS15NUZLVWNNN0E5bW0za0VsZS12RHRtOFh0TmxMc0E0T1E2djdzTUJoVWN1TEdiRDRTdE96VVNZN0M2emxGZGlhbWtaenRCZVZMZzlkMkN3WXJzUHV2NVlSZVVhcVdSYVVBaUpiZy1BTk9ySVBjS0JlMTJSM2dXcTh2WnB3aFNyR3prOVV1SVF0RG9LbGtjekR4UXdLTTFtY0xrblNnbHNka3FNRVNSSWxKd3JfMV83cjJGa1RwS25jNUd3MkNWLUFLMl9ZcmxDbWZmYlIwVzNvZURtblNLamhkanloc2ZtWjZielpTWDJFa1NaWUFMaTZaQTNHeFZOMjg4S09GcmtfaERzTEdpLTJVd3ZGQWk0aUdVZWRWZy14THF3RUN6Qkh2d19HSXNzZXl3dU9PTjBWU3ZWNm1pUmdnZ0NrNGJPZ1dNdzVhRng0SkpvdF9PbWNYeG5EdEdjcUZqbjd3R19hdVRGcHpFR3EyNXRmRUFxREVvZkZKcnZqT3U0dlg2c3V2czlYZ0tOaUs2aE5uQS1OaWVQYWJSR2RMTm1leWpwWFVydllxOGRKS3ViM2I0eDliaXNnSUtfTVJ5U0JPbTRTUlJPbXM3dC1NRnNNU3o4bnozdE5zVVFZVFpBWkJ0Y3U0enVJeUt1RkJqVmJuRmZuN19DT1cyYTd3X3dOTmd5X2tlQ3dQRnp1a3JFaThhTUNZc0k3SkVPV3BnN1dhVnpCRlhZYXRmLVJCWG5SZERIbEwzSUhaUHdfeUIxcl9CQW04aWdLeFpfS2JPcGZ1djlkY01BRW10V3FGbXBEdXdWNnJPY2M4MEJ6amIwWTJqMnl0V1hvbFlLMGZ2TDlCN042VVFWa2VUNXF2RDNHbDlCWkNlT0FWSjNVTkhSWE9iZFl0SmN5LUdBOC1jdXNSczBGNXRnX0RSeEVJeUU3VkFYT2p2VUV5d3dDZDJTa3NueTJzMlg0ZERHTlN4clNUUmJVLUJwNEZQZjl2THdqaUV1Umk4eUFwNGktM0tjbURlSGIzWXhNcWF5Ti1BbnMwcFB5bnozNUloWnhDS1N1MXpTd3RhS0RBZ1hsbWl5UUFNRHlUMlFWLTAya2psd2tVQkdQTzJZZjRtMmYxeTQ5X0xnQWZRdTNIcU5jZGtadl9zbkE4WHZMX01kMFNjYjFXem9GOHdJYmlIWkdUUGdKYXNRSjJ0eE1aRzgzUG9GNEozOXdlc2VhTzdNTjZjQzZPNjJiaTFsdFlHR0tHXzJTRTczRFh3cWZFQU5vSW42ZkNmSVhxNUZ0YVpyVHhnMzJPMjJoMlU3aEc?oc=5",
       "source": "Goal.com",
@@ -1254,6 +1359,13 @@
       "source": "Goal.com",
       "date": "2026-08-21T07:00:00+00:00",
       "price_jpy": "約104億円"
+    },
+    {
+      "title": "Carlos Baleba transfer news: Manchester United and Brighton agree £70m deal for midfielder",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOa1JJdlpmWjFIb1dXNUxDRFBSRXhyU3ROdDg0S1BHaThqOWdPQkVBdWlyMWZGckt1dEtFbkdYRnJ0QkxsaTVGU01rdXBVTW9fYUNVeXJ4WlhCYkFJb2RON0NaRHB3eTR3c0hRM2ZONDVOYWR1NzNBVHFhZlNEZDIyalpqMHgtek5LTkU1d3N3X0dadUpFV20xQjNuMmlKTnFhR0ZlQ2VKdmhJdDh4czd5UkJZU1RwNG43WFVtd3k4MmVCVjB1cnFCRU8wNlltUkxUY0hEb3JB?oc=5",
+      "source": "Sky Sports",
+      "date": "2026-08-21T07:00:00+00:00",
+      "price_jpy": "約146億円"
     },
     {
       "title": "マーカス・ラッシュフォード、マンチェスター・ユナイテッドの移籍話をめぐってギャリー・ネビルを黙らせたジェイミー・キャラガーに感謝",
@@ -1295,118 +1407,6 @@
       "url": "https://news.google.com/rss/articles/CBMi2wVBVV95cUxQMnNjUG8wSl9mVE43VWkwaWNkLXUzV0xpTHc0SVRUMzA0eWFYYlRFQXJWZEVTUDA2eVlXUFBnQUdrOHN1OGt0NTRUYndQNDZDV3VNMEg2bmIwSnlsRUxzd0JCaW1FRHEwU2ZrVVFQMldUQk5DZVF5NFZ4RjZKM29jakZpSTIwSGV5QlpfRW5KRnRJem4wVlllbWFhM2t2alQwMUxMNC1HUHRNVEVSOXBnbmg1SWJ1OVBaeEZ2XzJ5MmJselI5U2k0UEFsZ2x3VHNhSXNnYTc2aHIwcnl2SF9HdGRtWDM1VC12dUlZYjMyVElqbDVQMGF4TUxZNzZIVkRGOVJuRFIwY0pudG5Kbk1sczA0enVlakdCaUN0UW50M2FkTWlTdlFBWkV5RURNU1hEM2lSWUl4Qy1CWWtnSEhpdTF2Q0lGNjZGUkZZME1nS0VCdWJjRjYzeXJMckZvQ3JEcm9ZR3JnVmtJMHVqbjZDdDFBRDRsa0NuZWxwaUpKRnZRaG1NRUdPMmRiSnRLS1dDQnhuVWpkcENLdG1hbkZpMzAxZWljeXY1WEVqX1g5bnhZdk1PMUtMZnZuUjVmdmlxMjl6bTJpZjlaYjdXN1RWbzJzUVVQV0pjZ05tdklPN3paUmh2MnM4enFWQWhlTUZyRGVVMmFicy1URy0xLUt3NWd1Q0U3RThDNjlTRUNDX0dEbWRmd2EwVEdiS0MtM3lkTkZWOFQtSWhMbU5GOGdGd0cwVVI1NE1xc01aTEhIblB3YXNqcDZSOW1FQVhWVFJwU0Y2UWxudFJ3SFFrd2JVVi16eFVsUWQtS0xpU3RFY1Jjb2t1REZ4aVMxTXM3OWVuVm9tb2tDSWUyVU1ZUVpGZVRSeWdIYmp1VDUzeElhbG1qNUllZjBrVW8xNk9xWWZfTHJ0eU5LaFV4QkUxWTVNODV3TEtIUU91SHM4WHZRamdZUWM0VGZRd3hwQQ?oc=5",
       "source": "Goal.com",
       "date": "2026-08-14T07:00:00+00:00",
-      "price_jpy": null
-    },
-    {
-      "title": "キャリック「より多くの補強を求めている」 ユナイテッドは左SB、MF、CFの3ポジションの補強を検討",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4LTUyZWdfbEhvNXBrRWplX3FRbHFEbVdVSE1TakJJTUYzdzd1ZW1zMkhCcFMwaTNtalF3U2FuYldYb0VXMjUxSDlEVU9Ebkd0THRxVllrUG1OSVFjeE9aRVU5QzdpRmVqMlJxZndXMEpRLXFJZ2VkX2hNUERsZEE?oc=5",
-      "source": "Yahoo!ニュース",
-      "date": "2026-08-14T07:00:00+00:00",
-      "price_jpy": null
-    },
-    {
-      "title": "マンチェスター・ユナイテッドの移籍市場閉幕まであと18日。キャリック監督は2つの重要なポジションに資金を投入する必要がある。",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQnB1U3RHVGFmSk9yRW1ELVlBZXZ3UTdnQnNKMzRNYjF3MWs4aFMzaHVFeTFZdDNISG1oaWtoMUF1eGZmS3lIUlNhdWlOaW83eUNPVjRaNlpqQzZITkpuWklGUmMzMWFHeXJ0MDdsaUc4YmV2ME1BM29QWWwzTEZNQTduOUpydHpFLVc5OExpYm1RYVBVUkczZzlMX21MaTJCMWtZREZoZnBQX0FtZ3habEJDY2hKbkcyeEE?oc=5",
-      "source": "Vietnam.vn",
-      "date": "2026-08-14T07:00:00+00:00",
-      "price_jpy": null
-    },
-    {
-      "title": "サー・ジム・ラトクリフが、マンチェスター・ユナイテッド退団を望むマーカス・ラッシュフォードの「恥ずべき」移籍を6クラブへの形で阻止",
-      "url": "https://news.google.com/rss/articles/CBMikgdBVV95cUxPRlJpeFdDMEk1M3dFVUhIUVk1U19tYlVZOUxLRFZjN3pkZFJtcHZILUxoV3BtNDJKanNIQkJHNDhucTAxQ3B2dDJzVWtVQVhXMXVyc0Ftdm5uaDcwWEtJeG5CWEprc2tXNnItOWw0OHhlZTUxQzN1VEVIU1hFUzZNX055Qm5OX1prWS1aU3JEM2F1Y0Z0eHNvczE1dGFpLTE5dnlDMjNUWWJZMzdmMjk5bzJmZEJ6aTh5c2dOYUg4My1HQ3Zfa0NxME1OMklpUnMxZFRFZlpUQWJfQjhtcl9zSTlUclBiakhYczZjc0dmMlNBdTR4aWVqRmdicjRIRGFzLTd3MHNjREJiTC1qNE5LTWxMOEdnOFBaZzVQdnFLMVpuUW5sREpaN21GMHJRYUdYSG1KTkJ6T05yUjVpYUwtT0tNMlFtX016a1p0T1czVTdWbHd4Z3VMdm1uamlGSW13Z3hRS1JSb1J2OFdaTWpHbE9US2M4a25YaTRRNS10YUw3SXJTUkxpMHhDZlh2SUdzOE5Zd2tZT2d3cUwzT0NEYkpzV2VCVmxOOFVwLXFDeUFwMmd2M09GNkFMQm9sVmlKeWhHRDlsZ3haRVh6Ymtudk1IRm8zNkt5MlNyZktSRUs5RVVnN1pNSFFnY1ZrWE84UHpKNE1UZVZJT2R4R1NHN29PRTlDYWluWURJN2loWmVGRWItVUxUQS10N2U2SnRTekFBNFpxSFBSVndRTkxabXpqSzNHRTNKa1VpM0pJLVFYclZTNElFOGtUZ2U1UHhGYjA0MHlvY0tpNnNSNnR6S05wb3RCLUx1SXpTSVRibVo2ZGdGMm9UcjBRbkZtelhYbXhlNmtscHdocFYzN1dOVExjbkxiLWRCdWNBMWlRUXFrNE1QRXhuZDJZT2JrbnRXWndFOTVoLTBHXzhvM19MTTRjYW51RnFfVW5IcFRBdUhCQkVnSmJ1SEM1TDlpakx6WFB1a1RPTXRva0RpVmNKM0syd1d1Qy1nTkFlQU9uWVA3a3NxbkVZTFNBaDVPemQzT21uUGxlSVI2WmFNVWEwWlRqU3dwZGtSZ0t3WGlURVV1bUwzUE1QdDE0UFdKNnRqOS00WFdqYzRPeFQtYmNObnBJX09JeWdyVTRLWkt0M1QxWXhjZmhJVXdiN1hPU2xNYkZRMkxsYzJBaTN0SWJES3JBTzN1ZVBXN3p1NHEwNmRUdw?oc=5",
-      "source": "Goal.com",
-      "date": "2026-08-12T07:00:00+00:00",
-      "price_jpy": null
-    },
-    {
-      "title": "マンチェスター・ユナイテッドに移籍面で痛手！ バルセロナ行きの横取りを狙う中、獲得候補は「退団を望んでいない」",
-      "url": "https://news.google.com/rss/articles/CBMi6gZBVV95cUxQN05xa0ViUWlKZnAtNFE0SGZZa1dabmd0aHhPVUliVE13bHBVeWN1aGRaOE9LakJLU3B5YV9LVWNXYloyUF9VeTdaaWNKN3J5NXFfRXI5QXR1MmhzSkF2WDZySkJZN0VSZU5ZRk9QcTFxdm9xQk5RaERXbjRFc09GR0k0MW10ai1GVGcyLTFHaTU1azJ6UHdFZGhPOFFGRzJERUZqR20zZlVsLUMyTU1wRUl4UWh1cXZteWREMW5neUMxeWcyUXBFTExLcjBMdFpxSmVSNkpZYTREc1YzakNrelpDa3JfbGgxZkxCR29ZcDgteWktZUxLX3NvVGUyaU5EMGRScHJsOWJPT242MjNfUjdsNEg3MDNmR0R2UGxTS01lSkp4RXI4WlFVV210d1JFLUg5b0hHOTJZeWRhelhvQTlNN1c5dzJEWVpweXU3LTlDU1g0T04wRFlPTmZWdk16RjZWSlhLWmJQTkxWWnNNTkF4cWQyeVdxalowN1JXOXJDQVRibWJOdU1iQ3RkeXNFR1VqZHF1azVsbnc5VG1qUG1uOUJfMnBMSFBNeHNHbzFYSUlZRmh5OGJ0UXl6V01FczBBdEtYSUdwSnBoRTA3SVJPMWNWX2FXS21IRy1BWjlhb2Q3MndqOTMzTGF0ZzFhdmpWQUdQSUExalRBdFhFRldOZnB4N2Nyd3dlMnBuTWtBNllPY29wWkF0VkdjOTVoN2tSdk11Y2dlV2Zfckt6cDRBSTRzRldmTWM1MUExSUI1Q085RnczckZEbWpoek1JMDRZZXV3eEFvVFFUZFdzOTlwa0tEZFE0azduWnRPdFM3NGctcXJib0Y4cVIzZE4yZTZIT3pBV3NUb2psamowVXk5Qy02dzJCN1A5N1VXT3NDdlpadkZEa3NkalIzYXZJdXY3VVE5dUpMQXNROWRNYloyOURVbTNWejBneWNiRVBhMnVaR0xORXlPRXlxU0dqMFNaU2RjVFhPWm9Hb3FlbFJoMXFlQi0zd240a1Y2aU9SY3VDSXNjZEJJSjQtcUtmdXhqUHItbTdUX1V5V0JWOGl2OERobU5kTzY5R255cXBIeHdMX3lTWUZnaTZGN0luVjNwaHVNbWRNTTFQYmVlWmNCbzZfR1lHc3BMY3RvSmRCRjhDRWRNdWt3?oc=5",
-      "source": "Goal.com",
-      "date": "2026-08-10T07:00:00+00:00",
-      "price_jpy": null
-    },
-    {
-      "title": "マンU移籍の可能性は低い？ 主力流出中のニューカッスルに21歳DFルイス・ホール売却の意思なし",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82dXQ5RHF0TlRwVzBPeGFwcnFidGg0YUZEdkpRRW5mQlRaZkhDbUQ0NENTMC1kZkNicW5aTHhFTkZtS0toeVVZUzFGOVlFSlg3QzlHR0lyTXpTQ05vZllyTTJCcjlHMV9Md0hoUV9LQkZMWk9sOGYwMlBUMDJqTzA?oc=5",
-      "source": "Yahoo!ニュース",
-      "date": "2026-08-08T07:00:00+00:00",
-      "price_jpy": null
-    },
-    {
-      "title": "INEOSは、マンチェスター・ユナイテッドが移籍に関する方針を転換し、2026年夏に価格が高騰するのを回避するのを支援する。",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOGh3ckpkV3F5Z25pSFBKcHJNcm1JcktydkJDQ3Y0b2V0Qk40dmxheUtZMEJwUnVVR0VCSzVHVnNXODhRTnNCellzaENsSFp3c25nR3RsRUNrM3EzaUVzd2xIZ05aOVVDZFlrOElqc29VeWNqWU5DeVJPcy1TeTFGRHhScV9lVTNnWXdXT1pDODFNT1ZBS3AzSkhoOVM1U1c4d21rRDdZSmRqZzVfTFU2alU2Zw?oc=5",
-      "source": "Vietnam.vn",
-      "date": "2026-08-08T07:00:00+00:00",
-      "price_jpy": null
-    },
-    {
-      "title": "マンチェスター・ユナイテッド、最優先ターゲットのルイス・ホール獲得へ6000万ポンドでオファー準備 ファブリツィオ・ロマーノが移籍は「承認済み」と確認",
-      "url": "https://news.google.com/rss/articles/CBMi3wdBVV95cUxNc1RnemZGcl9HMmNIbGJvZVJNMDNVeFFjSkFzcHZtWjM0d2t5NFBSOXlGSjM2SGZGWHRVZTVrNHBoX0pHSXFtdVZiVXBITUxFb01rZll6RjNydktqNnd2RkNWZ0JOS3d3V0pGZWlzVWk4TUFzNnd0Nl9ncGFGVVg2ckFrYWFqVDVYNVVuclR2OWU2ZnUwZjNiU1BBM043bnNPdlFwdjRYOFByRE5OdlpjVHNtQ29xODRIaVlUME5MTW9mQnB3VG14RnhGb0R0WUM5d1hfU0FOblRKZkxVeGpJazVHRHRnQlRJVWxQcHgxLVpjbEk1U2RMRGZvRHJlM2VONEhTU1FnNnRkSzNfM1R4TVcwemh4cWNqemQxX1ZheUpRN2NoRWhQZDJ0dERiaU80cmczcko5dHVCaVRWbk9MMFF1QWhUa2NLTkd1aEVxMUIxaWpxXzRnbUc0dTJvSkpQYTZPSXlOMGhkd01kNVFCeEJ6c0Fkbk5iSm9sdG5fd0taY2xRRTJhUFNRdkRQaEhkRDFnenRXVWhsbkJTUmtSdGJRWU5UWlNpMVpsb2NBa0VRTk0tZXl4QV9yWWRMX0FxcHVRTXBSN1hMWWVlSkVIYWkyQUgwSzJ2T1ZvanRraF9lRFVZSkc5OVlYb3VCLWY1YkZYQ2JxOE9QQ2FRZk1aQk5GUjl6OXVpM0hsNEZTMmViRzdJcFFZMThDZmpSM1lOWFhaeThHMmo2aXJjczRuUy1DbHVHaXpsM0lqS1hOZ08xbTV2YUFqRlp4YTlZeEFUNHJtZHpPTVNtU2xxNnVZTG5fSHNEZEJnSkRscXF5SXdud0FJeElPM1lTc3dsbEJQWmp4Y1ZvaXBBZThoOG9zRFhKVTFsSzFDNVQ0b3JwaGpLcjBsOFJUNEY4N3p2ZU16d1BWemRKS1NEQ0tIbjFSMjJTSXNDSjFVVmltbTByT3V0T1dUR2h4cDNIMVJKU3IxWUFPcE5Xbl9nLS0wZUtCT1ZZdjhETjNoZzg4WHBCbXlwS0xkR3A5ZWN4M09pcjhtZjRTM2t5ZVV4QjhIcGxEcXF1czNxazZEb291UzNTWmNvUFpJUVAwQVBYQTRQajNZUGJSdHViRTR0cDVCc3p6VlBiVVhGajVNVW1OQ1JzY1NZallyOXVXbmVUbGxJWGZFaE5BM05LblI2ZU1HdHMyMHhMaXNJcnNITUZrZG1kVUlQcUM4dGZWUTV3U1hoUkNlcUVEeGd1aE9PVVVRcllrbUdHOGcxLWhWNFNoU3JPTzJCZVEzSDA2bFhnUms1MEQwcWFJbEJwREpoa1hkRGJJ?oc=5",
-      "source": "Goal.com",
-      "date": "2026-08-01T07:00:00+00:00",
-      "price_jpy": "約125億円"
-    },
-    {
-      "title": "「本命はまだ獲得できていない」 マンUが大物獲得の可能性を注視 新契約合意後も“逆転移籍”はあるのか",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yNy1lQzVzeVdXOXdFSW5nbVlodFNBdGR1M25NV1lYSjF5QmZkYUM4QTE3Zkx3cFZ2RDJoTnhkSXFMMUs4ZUZDVG5hc3FxQ0w0UEI0eEhiYnI3YnVfaTFzNEJXZ2VfQ0xHUk00TENxamlVS3VNcnhYZHdlVzRwZlE?oc=5",
-      "source": "Yahoo!ニュース",
-      "date": "2026-07-31T07:00:00+00:00",
-      "price_jpy": null
-    },
-    {
-      "title": "「チュアメニの移籍金は高すぎる」ユナイテッドが難色で獲得断念か カマヴィンガやコネら代替候補も浮上と現地報道",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04OTlOenQ4WkFrYXNKREdTdVE3dUVJdnBwYnBDLWVlN2s2eTR6SGhfdWs4V1BCbV83WThXWjVyOGRHRTRBdC1kQms0SG9zRnpzQ3BGbV92elRNY1NRMEJucnJodjJSRTNob2VaVGktM1piaU5HM19MRVd4eDdYaTg?oc=5",
-      "source": "Yahoo!ニュース",
-      "date": "2026-07-29T07:00:00+00:00",
-      "price_jpy": null
-    },
-    {
-      "title": "マンチェスター・ユナイテッドが放出を検討か ラッシュフォードやザークツィーら5選手の去就に注目",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EM1ZXMjBtV2NCVmVTNm9Sam9VVndYb3M3NnluMUZlSG5TX1k1c3FlcTAxWjlwWWtoV3FIUVBKU0pPaGFNMkZpMHhJenRONnY4dUVybTJCdWd1R3h3ZWRMcGZsaE9OQ0EyRTk3TFFTNEVsbDhveDFNYUZQNTlRa1E?oc=5",
-      "source": "Yahoo!ニュース",
-      "date": "2026-07-25T07:00:00+00:00",
-      "price_jpy": null
-    },
-    {
-      "title": "ジェダイの移籍！マンチェスター・ユナイテッドは、左サイドバックにルーク・ショーがいるにもかかわらず、米国代表アントニー・ロビンソンが「条件にぴったり」と判断した。",
-      "url": "https://news.google.com/rss/articles/CBMi3whBVV95cUxOYkg4cDVPakNRZzFJWFA4bThfXy1VZU44Q05vUWY1SG5wTVB6TXF3YktEVVhCMVdDREFqZEFfclRPTFJHV3FOTGtEQ1dRZHRva3dMWDlneDB0bmlXMnZVMzRtSWpmZHRYbkcyRTFZOEhkVjRDbzdNWXQwOWxWYWNDblZTX1FGaldPSzZnWHZTS3dEWG9lMkd3bUgxN0J3bFNQNnpKcWFMQlVKTnkySEJidmYzUVluNTE1U1AzLVpyeFcwTUJNak8zTVAxS2tPREgwaUI5LW5DRWFuZTc3c2l0LVEyN2Vpd2hLOEFZa1AtVXpZblVCYjVlc0xUWWlEb1g1LWdqUWdodldGUm1MRHY5U1E1TVZoazdWRHlCTndTR1B6RVI0SDZRRUR6cVd2ckNtczhwZk16VTVGT3U4amRCZmhMUld0S292S3Nhd0NlX19mWEdZWUFMWkg4eXNEMG04LWRUaWhNampDR21lVGJzc0xmQ3E4NXdnR08tVF9wTXRXOXdMN2JWak5lR3VPakp2ZzZ1TFkyYVpLbVR3U0ZER1JOREIwTURxMDJKZ1pvWUNDY3RjX0hFTFotZ0lJV0NLWHJMaU5iZVgxcWhLaFhJVVdSWUtOd0VtNDdPVDZ3SkVYUGVnZVlxdUpuYWg1djN0STJ0ZEQwVWEzNXFWNXJVNE1JeTVlRlVpR1pLUGRSUnp4RjZlOUNGR1l5ODg5b3MzSTRiWjlCeDQxYVIxS3NLU0dlMkFKZDE3cHlJTlpPTUxyNTVGMDZhVEpPVXpyajRJdVQxUl9XZFd4SVJUeDFiQmViMWw3WkdHWmJObUxJaVZDUTR4X25SMlBxOWFNMlJRTTFPYXdFOUxlaEx3YlpkRVo4QzQzd2hsSnRFTGM3RUwtWGVjUmhPRkM4TFdqWWRMZ0RIOGF6LVBRMllFbWJraVlNRUNROTZ6S0dRNWdqRUV4OVJTZzZEX3VNSTNjVWp2SnlaS3BPNnNLUjN0SWZMdm9td1JoOGtUWlpyZjlwWERad1pIZVBZUjd0T0RCaExQLTZKSVg4TUdsVVFXMnVDUmZYeElrQmN5UDY5QnVjNW8tUXN0MG8ta29OUUNaay1pZ3hkc0xxV25KeV9LOVhaeWRmQ2drT3E3NW45VTViRnRDWDNCaDNONkRDS29CSHltMnNwbkJtN1NuRVMzSUExVHBMVEx0MTFnUzNKOE9lRHBXa1c1UkNyekJJeDBiWC1tZm4ydER2bDg1VE9FRnZZX3dmcXRsX3BPMHF5LTN0cGhSbVFuaFJlNHVVUW04VDRXTG9sNjdrcmNvaGpnOFM3VFhhS2hlT1ZwTlExaGZZaVdnWXowbXpMWWg0MVl1NUpCOEFYU21JY0ROLWNKajFDTVVZeXR2b1ZYUk5DVXdaV0hHSS1WV2N0V01GN1JYMThTS2x0MzNIeTdqd0FqRjhRaDk3aldISDhIX3B6dUVfclkzSzhSMERsM2RBUjlLZHc?oc=5",
-      "source": "Goal.com",
-      "date": "2026-07-24T07:00:00+00:00",
-      "price_jpy": null
-    },
-    {
-      "title": "マンUは3人目の中盤補強を最優先に？ フラムのノルウェー代表MF獲得へ本腰、移籍金は約87億円",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zTmdBY3Nob3pnR05FdHdacG5JNHhXN1J2M0hSUG45aWl4QU92RkNBbFk3bm1WNDBkSXpFbnZ5bWlOUGtyVURBVWZ0V0NuQTJxQ2pOdGt1WWFXZk5qalIwcVZrWmxsNjk5UDBlTGxoUU9SYzl4cUxXUEJ6TzBWUUk?oc=5",
-      "source": "Yahoo!ニュース",
-      "date": "2026-07-19T07:00:00+00:00",
-      "price_jpy": null
-    },
-    {
-      "title": "マーカス・ラッシュフォードは、4,000万ポンドのマンチェスター・ユナイテッド移籍条項が期限切れとなった際、複数の移籍オファーを断った。",
-      "url": "https://news.google.com/rss/articles/CBMi_AZBVV95cUxPcG9wQXFheFZoYVVTRERjVVBFME1scWJQYmw5enRrYUJzVGItaWFuZTVwVTlNVWVTVW5zTGItLVBPMTQ1cXl1SU1EMEVwWHpqeHNkelhBUWstcDF2VkRqRTJXbGZwaTRkSEFGbmFDY0xlQ0hXLTJaZHpKbDBCTHNveS1yWXFYVXFTcXF0NFNTamVxQzB0WHhHeWxzXzJMZWVmVkR5STEzenZ1bEdxLWJteTNWTzMyWVdPUWg1NWN4dnJpVnVadG9WWGlQVHhGNHZLcHdrbEVib2Y2eHVsWVVRR3VNUlNuNDVOa3lOamNvQVUyTlpRMDdIbUZ3UERDbnVGeWFTeUFwQkZRblQ1bFdiMzZ2QXVtRlV6eGNKMDYta3NqMHV1YUtjWC1IbEpLaVYxWkFjSkc1cnRkS2JTMlgtRmtHcFM0YzRPN3N0NEN5N0NtTkJrRURRSGg1NVZIWDR4NGlUZEQzZXNlNnB2a0NySzJIclctTGRJV0FEZ1hrSTV2N1NjdjJWMWczam1BbmgxY2liWG02Y0wwSUh3bWs2X1hKX1Z4cTZKQS1VMDQ2Rkl3VXdHbV9HOGFkMlpKWndxbXlQbk9aeldlcTVGb1FHdE9Zd3I3d0M0MTJqWHh4MkFiN3hUV0Nnb3VucWZJNDlwZENlZVZ5R1hienpIZmZmTEREMlA0dmg4bXFrZ2YtRktmdVNUZFQzZFk3X1JVaEVqWGdzX29ScXhjcmt1OGdMQjVQaUdxS0IwMWFzWG5vRUtmdFhiUy1OdGVQNHJTZHRTc3VVWmxlbUFHNm5nalBCbHIyZXlrbWw4Sk9WR3BvTzl0NDkyWTRqSU9KWFMwYjQ0QjNfVGNNbUd6cWJwZm9mMmVkbjJxLWJSLTlwMnlZUFpzbTZrV3BsN2llNk9POWdUNGM2bF9uWFo1M29TaEthQ3NydWlMM0JXX0dHVHE1T0xWRGRwR2hDUDVMbmFhSWNZWmdWa3dSdTU0cjU4S2g3dWRxc3BUNDdmeVNPZXRnSy1aX2hNRGNBN3JyclM1NDg1X0E1SzlCVXBLNjJHb2JMOXBCbVFOcXVramV6dGZyNUxjQkdBNE9fRUxpcjA2d2tHR0lGdVlDU2FHYzhYdDFHaU5CQ3VjSGVsM3ZCNzlfbmxrYkRLbDBUczJJRUFpTHBxTFhQYWQxOHp6b0ZQ?oc=5",
-      "source": "Goal.com",
-      "date": "2026-07-17T07:00:00+00:00",
-      "price_jpy": "約83億円"
-    },
-    {
-      "title": "約88億円の移籍条項が失効……今夏復帰のラッシュフォードの去就はどうなる（theWORLD（ザ・ワールドWeb））",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WcnYwdVc0Ny0yWk12akRfUVFfTFAyMjRYNUliNk1adWRZTzg1b3lfdzJhbF9ETGhnTWhCSG9Fam5vTlhyejV0OXM5Q0lXQ2pzNUQ2ZEk1MXNQQzJVSUhTREJmWUVBbnpfUktxbng4MXlUcWRyTU9PZ3FjVUk2SGs?oc=5",
-      "source": "Yahoo!ニュース",
-      "date": "2026-07-17T07:00:00+00:00",
-      "price_jpy": null
-    },
-    {
-      "title": "夏の移籍市場で出遅れたマンチェスター・ユナイテッドは、WSLの強豪との差が広がり、力をつける中位チームに追い越される危機にある。",
-      "url": "https://news.google.com/rss/articles/CBMi4AZBVV95cUxPM01oM0drd1YyUlNLQ0FNTWxhbjFQdS10cHpLYUloR25YNkJ3cHB1ZWZyNl9HYXBkQTlLSzFhV0FwLURRODh4Mi1Ka3hrak4zSUxfNDRITUVkdHR6Zms0NFY3NFBDQ3lOVXVtcDdHMjVXaE5VaWVIYkQ4ekd1ZDVfZ1BEcExid2k4czJSWTh2VUk1bktLOGJKZDI1blpBclQ2RzMtQmdhNkEzdjczWVptdjJIcEV2dkVNTUdnSXJ5QWQwZVVwcUpuVkwzNFFXN2VGZGlOeE50MnMwUWprVzI0X0U5R2xSa3V2MU1wWGNDR2xRUXdNeDNtR2VRRnVuZTFveGM5YWhneGpxSzhpVkdpQWJRNWhuTzQ1WnA3c2lsRkFjZWVNR3MzUEhaX1pXb242andPWDdCQ1dpVk9weXVqZWtzZk02Sk5TSE9WMGVKRUI4c1E2SW1RbDItQUVxMHg0dFBDajdYaVFPTEdNMnVyZ2pUalBUSVEtLVAtUnNyRjZHOWpPN284ZVozSWxVM1NoNnNOOFhzeEpIbjVCMjdPcDRZZEZlT09TN0szd3A4ZGhPaXdhTG5PcG1XTXYteUVwdURieUg4OXFHU2poenkwcDVuejZpYldxN1FIV2VWTE1PTlFwSU5tVEhkUEFQQ1FvNnRxMzlfUDFlYmktVExTLXRuTlBvZ2xkQ3RnYkwxUllqRWJMNU13WUxhY2FBamhmbjJoYmlIZlh5a2FxVmFDTFYzT0I0UE4tSUlPTlo4Nk0tNDg0S2Q4R0RWc25zdEh4TGd0cUIyOXJGX3NqTEZhNnYweEc0aUxEY2RkSWIyOHRwbmliZk92MTc0Ykg1Y0dhX2FDeDNISEJ1N3NBeGtSZTRxYkMxeW9hcWZOSTVmU2w3WlVlZjBEa2Rhd3prd043NnF4NHpsTXpaejVLLXhVSFUxaU9IZTJsZEZDbG83MEJWQ2pGSnI4VVNib0NwMUs0eHNQQ0NlcTBpaTF0Znd5TVpCM0hEZGk2Q1RVX1FPdmFMSm9TZ1dRVXBMZUxMYWpYbno2WW1WUnFFUFQ0WnFpdGNMZldBRGpiQTFJZTlQVTZfS3V6NDBmcy1nSlROaGJWbmU5Z0k2c3VYb1ZGVFRtdDJ4anlndDVhSGsxdEtvRjA?oc=5",
-      "source": "Goal.com",
-      "date": "2026-07-15T07:00:00+00:00",
-      "price_jpy": null
-    },
-    {
-      "title": "マンチェスター・ユナイテッドが、ベテランGKカール・ダーロウをフリー移籍で獲得した。",
-      "url": "https://news.google.com/rss/articles/CBMi7wRBVV95cUxOTHZueG9RSTVqbmc4OGFSWEpsYW9tOGNGX1pnNVBzdUR2bkYtZzdOdGtvTkxtRDlOTWg1LVBvSEM4b1JuTUs1MDE0dFJlU1ZXM1BzNEh5ZWljdlV6TnBQV2ZfdndibTd2WUE3cVFFSE1rcWFJZGhnN2VBRTQtUXRrWElEU2hNUjZIMTBIZWxZc3pRT1JFbVpoOFlEWm5LT1YwQzNLeXJwbksyLVRLS0NVYk5RTkFJUExnUkhESVVvMEZTU3VmUFY3bnV4UHI4T0I5SDRHQ19WSWhSSXFDUEJGOUNLRm00a2ZmdnBWSG5xQWJFdWQ1eWRoeXVtbXplVC11aWNnd1c5NVVoMk1iTVFxVzh3dUJRRjZoQ0hTVTAtZzQ5SDkwOU5VNWdSX1ZnVV83c2c0dncxN3EtOGE0dWNPM01uelctSlI4eWxJcGNtSjVGbTdUMEh2dTZlOHBXZGtDS3JGcEp0RVFuUUpOQ0xJLW5DempmZ21TdV8tVW1RYkU4aDVMWm5FNm12WWR3RTl1Y1ZnMGJQbGJuQW10T3NnOFd6X1l1NUNvQUtrY1NRb0NqTlhJcXQ1NjVEMjZ3bDROb0Z1MjM5NW4xUHpzUmlRQnNJeGVILTYyU25DOGFibmVjR1hUTlpjYmg0SWhQWndiQWN6a0tvakFHUTRWNFlic1Rla3VTUzJvM2hNbGpXdnNZaTBrXzVqUTFkRFJSRkN4T1huU0MwRlVEWU5TejJuSGlGbk1tRDFuM1NaS3BMbHU1ZzAwc0dUQ1RVMnZoWnJXRFhfT3JoeEM1ek1qRGhoZmdEZlh4SVluZlVlNUdETQ?oc=5",
-      "source": "Goal.com",
-      "date": "2026-07-14T07:00:00+00:00",
       "price_jpy": null
     }
   ]
